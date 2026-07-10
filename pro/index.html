@@ -1,0 +1,58 @@
+<!DOCTYPE html><html><head><meta charset='utf-8'><title>PRO пак 250+ лого + BOOST + подписка</title>
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/water.css@2/out/water.css'></head>
+    <body>
+    <h1>🔓 PRO v6 — Автономная касса: пак 250+ лого + 50 PRO инструментов + подписка</h1>
+    <p>Зашел, собрал капусту и все. 3 варианта доступа — все автономно через бота:</p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;">
+      <div style="border:2px solid #111;padding:14px;border-radius:12px;">
+        <h3>1️⃣ Бесплатно за 3 рефа — вирус</h3>
+        <p>Поделись реф ссылкой в 3 чатах → получи PRO код</p>
+        <p><a href='https://t.me/YourToolFarmBot'><b>Получить рефку в боте</b></a></p>
+        <small>Закольцовка: трафик растет сам</small>
+      </div>
+      <div style="border:2px solid #f59e0b;padding:14px;border-radius:12px;background:#fffbe6;">
+        <h3>2️⃣ Купить PRO за 150 Stars (~$2.5)</h3>
+        <p>250+ лого PNG, 1000 промтов, 100 договоров РФ, 750 инструментов offline, 50 PRO тулзов, исходники</p>
+        <p><b>Авто-доставка ботом за 5 сек</b></p>
+        <a href='https://t.me/YourToolFarmBot?start=buy_pro' style="background:linear-gradient(135deg,#f59e0b,#ef4444);color:#fff;padding:10px 14px;border-radius:8px;text-decoration:none;font-weight:800;display:inline-block;">💳 Купить за Stars</a>
+        <br><small>Работает в РФ, без внешних сайтов, через Telegram Stars</small>
+      </div>
+      <div style="border:2px solid #111;padding:14px;border-radius:12px;background:#111;color:#fff;">
+        <h3>3️⃣ Подписка PRO Club 199 Stars/мес</h3>
+        <p>Каждый день 1 новый пак (лого/промты/шаблоны) в приватный канал. Авто-доступ.</p>
+        <a href='https://t.me/YourToolFarmBot?start=buy_sub' style="background:#fff;color:#111;padding:10px 14px;border-radius:8px;text-decoration:none;font-weight:800;display:inline-block;">🔁 Подписаться 199 Stars</a>
+        <br><small>Отмена /sub_cancel</small>
+      </div>
+    </div>
+
+    <div style="background:#111;color:#fff;padding:18px;border-radius:12px;margin-top:18px;">
+    <h3 style="color:#facc15;">Уже есть код? Разблокируй PRO</h3>
+    <input id="code" placeholder="PRO-xxx-UNLOCKED" style="width:100%;padding:12px;border-radius:8px;"><button onclick="unlock()" style="background:#f59e0b;padding:10px 20px;border:none;border-radius:8px;font-weight:800;margin-top:10px;color:#000;">Разблокировать PRO</button><div id="msg" style="margin-top:12px;"></div>
+    <hr style="border-color:#333;">
+    <h4>📦 Что внутри после оплаты (авто-доставка в боте):</h4>
+    <ul>
+      <li><a href="/downloads/logo-pack-250.zip" style="color:#facc15;">logo-pack-250.zip</a> — 250 лого PNG (сгенерированы кодом)</li>
+      <li><a href="/downloads/prompts-1000.zip" style="color:#facc15;">prompts-1000.zip</a> — 1000 промтов ChatGPT/Midjourney/Sora</li>
+      <li><a href="/downloads/contracts-rf-100.zip" style="color:#facc15;">contracts-rf-100.zip</a> — 100 шаблонов договоров РФ</li>
+      <li><a href="/downloads/tools-offline-750.zip" style="color:#facc15;">tools-offline-750.zip</a> — 750 инструментов offline</li>
+      <li>50 PRO инструментов (массовая проверка ИНН пачкой и т.д.)</li>
+      <li>Исходники фермы 750 страниц + бот + Дзен 150 + Видео 150</li>
+    </ul>
+    </div>
+
+    <script>
+    function unlock(){
+        const c=document.getElementById('code').value.trim();
+        if(c.startsWith('PRO-')&&c.includes('UNLOCKED')){
+            localStorage.setItem('pro_unlocked','1');
+            document.getElementById('msg').innerHTML='✅ PRO открыт! <br><br>Скачай паки:<br><a href="/downloads/logo-pack-250.zip">logo-pack-250.zip</a><br><a href="/downloads/prompts-1000.zip">prompts-1000.zip</a><br><a href="/downloads/contracts-rf-100.zip">contracts-rf-100.zip</a><br><a href="/downloads/tools-offline-750.zip">offline 750</a><br><br>Исходники: попроси у бота /source';
+        }else{
+            document.getElementById('msg').innerHTML='❌ Неверный код. Получи в боте: https://t.me/YourToolFarmBot — /buy или /balance';
+        }
+    }
+    if(localStorage.getItem('pro_unlocked')) document.getElementById('msg').innerHTML='✅ PRO уже разблокирован: '+localStorage.getItem('pro_code');
+    </script>
+
+    <hr><p><a href="/">← 750 инструментов</a> • <a href="/earnings/">💰 Капуста дашборд</a></p>
+    </body></html>

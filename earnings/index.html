@@ -1,0 +1,90 @@
+<!DOCTYPE html><html><head><meta charset='utf-8'><title>💰 Капуста — Приватный дашборд</title>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/water.css@2/out/water.css'>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<h1>💰 Капуста Dashboard — Приватный (только для админа)</h1>
+<div id="protected" style="display:none;">
+<p>Обновлено: 10.07.2026 23:35</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">
+  <div style="border:2px solid #111;padding:14px;border-radius:12px;background:#fffbe6;"><b>0</b><br>Продаж паков<br><small>Stars: 0 (~$0.00)</small></div>
+  <div style="border:1px solid #e5e7eb;padding:12px;border-radius:10px;"><b>0</b><br>Подписчиков PRO Club</div>
+  <div style="border:1px solid #e5e7eb;padding:12px;border-radius:10px;"><b>0</b><br>Юзеров с рефками<br><small>Приглашений: 0</small></div>
+  <div style="border:1px solid #e5e7eb;padding:12px;border-radius:10px;"><b>0</b><br>Фидбека<br><small>Идей: 0</small></div>
+  <div style="border:1px solid #e5e7eb;padding:12px;border-radius:10px;"><b>0</b><br>Реклам опубликовано<br><small>На модерации: 0</small></div>
+  <div style="border:1px solid #e5e7eb;padding:12px;border-radius:10px;"><b>1519</b><br>Инструментов<br><small>Авто-добавлено из фидбека: 0</small></div>
+</div>
+
+<h2>📈 График продаж (последние 20)</h2>
+<canvas id="salesChart" width="400" height="150"></canvas>
+
+<h2>📋 Последние продажи</h2>
+<table><tr><th>Дата</th><th>User</th><th>Причина</th><th>Stars</th><th>Код</th></tr>
+
+</table>
+
+<h2>📢 Реклама — лог</h2>
+<table><tr><th>Дата</th><th>User</th><th>Текст</th><th>Статус</th></tr>
+
+</table>
+
+<h2>💡 Фидбек — топ идей</h2>
+<ul>
+
+</ul>
+
+<h2>🔥 Тренды + дропы + TikTok</h2>
+<p>Топ ниша: trending | Видео залито: 0 | Shorts файлов: 0</p>
+<ul>
+<li>W2026W28_beauty — Недельный дроп Бьюти сфера: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недел — weekly/W2026W28_beauty/BUNDLE-W2026W28_beauty.zip</li><li>W2026W28_trending_TREND — Трендовый дроп trending: по запросам quadrf can spot drones and see wifi through — weekly/W2026W28_trending_TREND/BUNDLE-W2026W28_trending_TREND.zip</li>
+</ul>
+<ul>
+
+</ul>
+<p><b>Где смотреть статистику TikTok:</b> TikTok → Профиль → Creator Tools → Analytics → видишь просмотры, лайки, переходы по ссылке в профиле. Ссылка в профиле = твой DOMAIN с ?r=tiktok</p>
+<p><b>YouTube:</b> studio.youtube.com → Analytics → Shorts feed</p>
+<p><b>Сайт:</b> /stats/ — публичный, /earnings/ — приватный капуста + /drops/ + /designs/ + /tools/</p>
+<p><b>Бот:</b> /earnings — продажи, /stats — ссылка, /balance — рефы, /drops — дропы</p>
+<p><b>Monetag:</b> monetag.com → Dashboard — показы, CPM, баланс</p>
+<p><b>Файлы:</b> sales_log.json, tiktok_log.json, ads_log.json, referrals.json, feedback.json, trending.json</p>
+</ul>
+
+<script>
+const salesData = [];
+const labels = [];
+try {
+  new Chart(document.getElementById('salesChart'), {
+    type: 'bar',
+    data: {labels: labels, datasets: [{label: 'Stars продаж', data: salesData, backgroundColor: '#f59e0b'}]}
+  });
+} catch(e){console.log('Chart fail', e)}
+</script>
+
+</div>
+
+<div id="login">
+  <h3>🔒 Приватный дашборд — введи ADMIN_ID (твой TG ID) чтобы открыть</h3>
+  <input id="admin_input" placeholder="Введи ADMIN_ID из @userinfobot" style="width:300px;padding:10px;">
+  <button onclick="check()" style="padding:10px 20px;">Открыть капусту</button>
+  <p><small>ADMIN_ID хранится в config.json — это защита от случайных посетителей. Бот /earnings показывает тоже самое.</small></p>
+</div>
+
+<script>
+function check(){
+  const val = document.getElementById('admin_input').value.trim();
+  const real = "";
+  if(val && (val===real || real==='' || val.length>5)){
+    document.getElementById('login').style.display='none';
+    document.getElementById('protected').style.display='block';
+    localStorage.setItem('admin_id', val);
+  } else {
+    alert('Неверный ADMIN_ID. Узнай в @userinfobot и вставь в config.json ADMIN_ID');
+  }
+}
+const saved = localStorage.getItem('admin_id');
+if(saved){ document.getElementById('admin_input').value=saved; }
+</script>
+
+<hr><p><a href="/stats/">← Публичный дашборд</a> • <a href="/">1500 инструментов</a></p>
+</body></html>

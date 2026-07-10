@@ -1,0 +1,55 @@
+[
+  {
+    "week_id": "W2026W28_beauty",
+    "year": 2026,
+    "week": 28,
+    "date": "2026-07-10",
+    "niche": {
+      "id": "beauty",
+      "name": "Бьюти сфера",
+      "keywords": [
+        "маникюр",
+        "ресницы",
+        "уход"
+      ]
+    },
+    "files": {
+      "logos": "weekly/W2026W28_beauty/logo-drop-50-beauty.zip",
+      "prompts": "weekly/W2026W28_beauty/prompts-drop-100-beauty.zip",
+      "templates": "weekly/W2026W28_beauty/templates-drop-20-beauty.zip",
+      "bundle": "weekly/W2026W28_beauty/BUNDLE-W2026W28_beauty.zip"
+    },
+    "price_stars": 79,
+    "price_stars_bundle": 149,
+    "free_for_subscribers": true,
+    "description": "Недельный дроп Бьюти сфера: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+  },
+  {
+    "week_id": "W2026W28_trending_TREND",
+    "year": 2026,
+    "week": 28,
+    "date": "2026-07-10",
+    "niche": {
+      "id": "trending",
+      "name": "TRENDING TREND",
+      "keywords": [
+        "quadrf can spot drones and see wifi through my wall",
+        "apple sues openai, accuses ex-employees of stealing trade se",
+        "einstein's relativity rules chemical bonds in heavy elements",
+        "inference optimization for mimo v2.5: pushing hybrid swa eff",
+        "new york city to to ban deceptive subscription practices"
+      ]
+    },
+    "files": {
+      "logos": "weekly/W2026W28_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W28_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W28_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W28_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W28_trending_TREND/BUNDLE-W2026W28_trending_TREND.zip"
+    },
+    "price_stars": 79,
+    "price_stars_bundle": 149,
+    "free_for_subscribers": true,
+    "description": "Трендовый дроп trending: по запросам quadrf can spot drones and see wifi through my wall, apple sues openai, accuses ex-employees of stealing trade se, einstein's relativity rules chemical bonds in heavy elements. Авто-сгенерировано по трендам 2026-07-10. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+  }
+]

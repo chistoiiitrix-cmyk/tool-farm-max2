@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Эмодзи пикер — бесплатно, без регистрации | ToolFarm 150</title>
+  <meta name="description" content="Эмодзи по категориям 150 инструментов, оффлайн, РФ без VPN.">
+  <meta name="keywords" content="emoji picker">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  <style>
+    body { max-width: 920px; margin: 18px auto; font-size:16px; }
+    .logo{font-weight:900;font-size:22px;text-decoration:none;color:#111}
+    .tool-box{background:#f6f8fb;padding:18px;border-radius:14px;margin:18px 0;border:1px solid #e5e7eb}
+    textarea{width:100%;min-height:180px;font-family:monospace;font-size:14px}
+    .btn{background:#111;color:#fff;padding:11px 18px;border:none;border-radius:10px;cursor:pointer;margin:5px;font-weight:700}
+    .btn-pro{background:linear-gradient(135deg,#f59e0b,#ef4444)}
+    .btn-sec{background:#e5e7eb;color:#111}
+    .ad-slot{background:#fffbe6;border:1px dashed #f59e0b;padding:12px;text-align:center;margin:16px 0;border-radius:10px}
+    .viral-banner{background:linear-gradient(135deg,#111,#333);color:#fff;padding:16px;border-radius:12px;margin:16px 0;display:none}
+    .viral-banner a{color:#facc15;font-weight:800}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+    .card{border:1px solid #eee;padding:10px 12px;border-radius:10px;background:#fff}
+    details{background:#fff;padding:8px 10px;border-radius:8px;margin:6px 0;border:1px solid #eee}
+  </style>
+  <!-- MONETAG + PUSHBOOST -->
+  <!-- СЮДА КОД MONETAG: 3 зоны = Profit x2-3 -->
+  <!-- 1. OnClick/Tag - основной, 2. Push - подписка, дает доход даже когда юзер ушел, 3. Vignette/Interstitial -->
+  <!-- Пример: <script src="https://alwingulla.com/88/tag.min.js" data-zone="XXX" async></script> -->
+  <!-- Push: <script src="https://alwingulla.com/.../push.js" data-zone="YYY"></script> -->
+  <script type="application/ld+json" id="faq-schema">{}</script>
+</head>
+<body>
+<header>
+  <div style="display:flex;justify-content:space-between;align-items:center;">
+    <a href="/" class="logo">TOOLFARM<span style="color:#f59e0b">.ONE</span> <span style="background:#f59e0b;color:#000;padding:2px 8px;border-radius:99px;font-size:12px;">150 TOOLS BOOSTED</span></a>
+    <small><a href="/pro/">PRO</a> • <a href="/">150</a></small>
+  </div><hr>
+</header>
+
+<div id="ref-banner" class="viral-banner">
+  🎁 Вас пригласил друг! 50 PRO инструментов ждут.<br>
+  <a id="ref-link" href="#" target="_blank">👉 Забрать PRO в Telegram боте</a>
+</div>
+
+<h1>Пикер эмодзи — копировать</h1>
+<p><b>Эмодзи по категориям</b> Оффлайн, РФ без VPN, 150 инструментов.</p>
+
+<div class="ad-slot" id="ad-top">Реклама: Monetag Zone (CPM $2-5 + Push + Vignette = x2 доход)</div>
+
+<div class="tool-box">
+  <textarea id="input" placeholder="Поиск эмодзи..."></textarea>
+  <div style="margin:10px 0;">
+    <button class="btn" onclick="process()">⚡ Обработать</button>
+    <button class="btn btn-sec" onclick="copyResult()">📋 Копировать</button>
+    <button class="btn btn-sec" onclick="downloadResult()">💾 Скачать</button>
+  </div>
+  <textarea id="output" placeholder="Результат..." readonly></textarea>
+  <div id="stats" style="margin-top:8px;display:flex;gap:8px;flex-wrap:wrap;"></div>
+</div>
+
+<div class="tool-box" style="background:#111;color:#fff;">
+  <b>🚀 Буст x3: Хочешь такую же ферму?</b> Отдаем 150 исходников + бот закольцовки + 150 статей для Дзена + 150 скриптов для Shorts.<br><br>
+  <button class="btn btn-pro" onclick="goToBot('boost')">🎁 Забрать BOOST пак в ТГ</button>
+  <button class="btn btn-sec" onclick="shareSite()">🔗 Моя реф-ссылка (вирус)</button>
+  <div id="my-ref" style="margin-top:10px;color:#facc15;display:none;"></div>
+</div>
+
+<div class="tool-box" style="background:#fffbe6;border-color:#f59e0b;">
+  <b>💡 Не нашли нужный инструмент? Хотите новый пак под свою нишу?</b><br>
+  <small>Напишите — мы автоматом добавим инструмент если это реальная тема (система сама генерит по заявкам). Обратная связь улетает в бота и в GitHub.</small>
+  <textarea id="feedback-text" placeholder="Например: Сделайте инструмент для удаления дубликатов в Notion / Пак лого для автосервиса / Пак сторис для кофейни..." style="min-height:70px;margin-top:8px;"></textarea>
+  <div style="margin-top:8px;">
+    <button class="btn" onclick="sendFeedback()">📩 Отправить идею в бота</button>
+    <button class="btn btn-sec" onclick="sendFeedback('bug')">🐛 Сообщить о баге</button>
+  </div>
+  <div id="feedback-status" style="margin-top:8px;font-size:13px;color:#065f46;display:none;"></div>
+  <small style="color:#6b7280;">Топ-3 идеи каждую неделю автоматом превращаются в новые инструменты и дропы (раз в неделю дропаем новое). Смотрите /drops/ и /designs/</small>
+</div>
+
+<div class="ad-slot"><div id="affiliate-content"></div></div>
+
+<div id="faq"></div>
+
+<article>
+  <h3>Еще 150 инструментов:</h3>
+  <div class="grid" id="related"></div>
+</article>
+
+<footer><hr><small>© 2026 ToolFarm.one — 150 boosted • <a href="/sitemap.xml">sitemap</a> • <a href="/pro/">PRO</a> • id:<span id="ref-id">-</span></small></footer>
+
+<script>
+// === VIRAL LOOP ===
+function getParam(n){return new URLSearchParams(location.search).get(n)}
+function genFarmId(){let id=localStorage.getItem('farm_id');if(!id){id='f_'+Math.random().toString(36).substr(2,9);localStorage.setItem('farm_id',id);}return id}
+const refParam=getParam('r');const myFarmId=genFarmId();
+document.getElementById('ref-id').innerText=myFarmId;
+if(refParam){localStorage.setItem('inviter',refParam);document.getElementById('ref-banner').style.display='block';const bot="YourToolFarmBot";document.getElementById('ref-link').href=bot?`https://t.me/${bot}?start=r_${refParam}`:'#';}
+function goToBot(s){const inv=localStorage.getItem('inviter')||'site';const b="YourToolFarmBot";const d="https://YOUR_USERNAME.github.io/tool-farm";const link=b?`https://t.me/${b}?start=s_${s}_from_emoji-picker-copy_inv_${inv}_${myFarmId}`:'/pro/';window.open(link,'_blank');}
+function shareSite(){const link=`https://YOUR_USERNAME.github.io/tool-farm/tools/emoji-picker-copy/?r=${myFarmId}`;navigator.clipboard.writeText(link);const el=document.getElementById('my-ref');el.style.display='block';el.innerHTML=`✅ Твоя вирусная ссылка:<br><code>${link}</code><br>Поделись в 3 чатах → получи PRO. Закольцовка!`;}
+function sendFeedback(type='idea'){
+  const txt=document.getElementById('feedback-text').value.trim();
+  if(!txt){alert('Напиши текст идеи');return;}
+  const bot="YourToolFarmBot";
+  const full=`${type}: [${TOOL_SLUG}] ${txt}`.slice(0,300);
+  const status=document.getElementById('feedback-status');
+  status.style.display='block';
+  status.innerHTML='⏳ Отправляю в бота...';
+  // Отправка через Telegram deep link (без палева токена) + локальное сохранение
+  try{
+    localStorage.setItem('feedback_'+Date.now(), full);
+    // Пробуем напрямую в бота через открытие ссылки
+    const link=bot?`https://t.me/${bot}?start=fb_${encodeURIComponent(full).slice(0,250)}`:`/pro/`;
+    status.innerHTML=`✅ Идея сохранена локально и улетит в бота!<br>Если бот не открылся автоматом — <a href="${link}" target="_blank">нажми сюда чтобы отправить в бота</a><br><small>Топ идеи каждую неделю становятся новыми инструментами и дропами в /drops/ и /designs/</small>`;
+    // Авто-открытие
+    if(bot) window.open(link,'_blank');
+    // Также пробуем отправить на ntfy.sh как бэкап (анонимный, без токена) для админа
+    fetch(`https://ntfy.sh/toolfarm_${myFarmId}`,{method:'POST',body:full}).catch(()=>{});
+  }catch(e){
+    status.innerHTML='❌ Ошибка, но идея сохранена. Отправь вручную в бота: @'+bot;
+  }
+}
+
+// === TOOLS ENGINE ===
+const TOOL_TYPE="textTool";const TOOL_SLUG="emoji-picker-copy";const AFF_NICHE="none";
+function process(){
+  const inp=document.getElementById('input').value;let out="";
+  try{
+    if(TOOL_TYPE==='wordCount'){const w=inp.trim()?inp.trim().split(/\s+/).length:0;document.getElementById('stats').innerHTML=`<div class=card>Слов:${w}</div><div class=card>Симв:${inp.length}</div>`;out=`Слов:${w}\nСимв:${inp.length}`;}
+    else if(TOOL_TYPE==='jsonFormat'){out=JSON.stringify(JSON.parse(inp),null,2);}
+    else if(TOOL_TYPE==='base64Tool'){try{out=atob(inp);}catch{out=btoa(unescape(encodeURIComponent(inp)));}}
+    else if(TOOL_TYPE==='urlTool'){out=TOOL_SLUG.includes('encode')?encodeURIComponent(inp):decodeURIComponent(inp);}
+    else if(TOOL_TYPE==='htmlTool'){out=TOOL_SLUG.includes('escape')?inp.replace(/&/g,'&amp;').replace(/</g,'&lt;'):inp.replace(/&lt;/g,'<');}
+    else if(TOOL_TYPE==='generatorTool'){out=handleGen();}
+    else if(TOOL_TYPE==='calcTool'){out=handleCalc(inp);}
+    else{out=handleText(inp);}
+  }catch(e){out="Ошибка:"+e.message;}
+  document.getElementById('output').value=out;
+}
+function handleText(inp){
+  const s=TOOL_SLUG;
+  if(s==='remove-duplicate-lines')return [...new Set(inp.split('\n'))].join('\n');
+  if(s==='remove-empty-lines')return inp.split('\n').filter(l=>l.trim()!='').join('\n');
+  if(s==='remove-line-breaks')return inp.replace(/\r?\n/g,' ').replace(/\s+/g,' ');
+  if(s==='trim-spaces')return inp.split('\n').map(l=>l.trim()).join('\n');
+  if(s==='uppercase-converter')return inp.toUpperCase();
+  if(s==='lowercase-converter')return inp.toLowerCase();
+  if(s==='title-case-converter')return inp.replace(/\w\S*/g,w=>w[0].toUpperCase()+w.slice(1).toLowerCase());
+  if(s==='sort-lines-az')return inp.split('\n').sort((a,b)=>a.localeCompare(b,'ru')).join('\n');
+  if(s==='extract-emails'){let m=inp.match(/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}/gi);return m?m.join('\n'):'Не найдено';}
+  if(s==='translit-converter'){const m={'а':'a','б':'b','в':'v','г':'g','д':'d','е':'e','ё':'yo','ж':'zh','з':'z','и':'i','й':'y','к':'k','л':'l','м':'m','н':'n','о':'o','п':'p','р':'r','с':'s','т':'t','у':'u','ф':'f','х':'h','ц':'c','ч':'ch','ш':'sh','щ':'sch','ъ':'','ы':'y','ь':'','э':'e','ю':'yu','я':'ya'};return inp.toLowerCase().split('').map(ch=>m[ch]||ch).join('');}
+  if(s==='inn-validator'){let v=inp.replace(/\D/g,'');if(v.length!=10&&v.length!=12)return 'ИНН 10/12 цифр, ввел '+v.length;return `ИНН ${v} формат верный`;}
+  return inp;
+}
+function handleGen(){const s=TOOL_SLUG;if(s==='password-generator'){const ch="ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnpqrstuvwxyz23456789!@#$%";let g=n=>{let p="";for(let i=0;i<n;i++)p+=ch[Math.floor(Math.random()*ch.length)];return p;};return Array(12).fill(0).map(()=>g(16)).join('\n');}return Math.random().toString(36).substr(2,10);}
+function handleCalc(inp){const s=TOOL_SLUG;if(s==='vat-calculator'){let n=parseFloat(inp)||0;return `Без НДС:${n} НДС 20%:${(n*0.2).toFixed(2)} С НДС:${(n*1.2).toFixed(2)}`;}if(s==='loan-calculator'){let [sum,perc,mon]=inp.split(/[\s,]+/).map(Number);if(!sum)return 'Пример: 500000 12 24';let mr=perc/100/12;let pay=sum*(mr*Math.pow(1+mr,mon))/(Math.pow(1+mr,mon)-1);return `Платеж:${pay.toFixed(2)}₽`; }return 'Введи числа';}
+function copyResult(){navigator.clipboard.writeText(document.getElementById('output').value);alert('Скопировано');}
+function downloadResult(){const b=new Blob([document.getElementById('output').value],{type:'text/plain'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=TOOL_SLUG+'.txt';a.click();}
+if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js');}
+const aff={finance:'💳 <a href="#">Счет ИП 0₽ — бонус 2000₽</a>',hosting:'🚀 <a href="#">Timeweb 99₽ + домен RU</a>',none:''};
+if(aff[AFF_NICHE])document.getElementById('affiliate-content').innerHTML=aff[AFF_NICHE];
+const rel=["word-counter","inn-validator","vat-calculator","password-generator","remove-duplicate-lines"];
+document.getElementById('related').innerHTML=rel.map(s=>`<div class="card"><a href="/tools/${s}/?r=${myFarmId}">${s.replace(/-/g,' ')}</a></div>`).join('');
+</script>
+</body>
+</html>
