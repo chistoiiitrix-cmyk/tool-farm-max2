@@ -1,0 +1,7 @@
+[
+  {"slug": "character-counter", "title": "Подсчет символов", "h1": "Посчитать количество символов", "desc": "Считает символы с пробелами и без.", "keywords": "подсчет символов, количество символов", "js_func": "wordCount", "placeholder": "Текст", "affiliate_niche": "writing"},
+  {"slug": "image-to-base64", "title": "Картинку в Base64", "h1": "Конвертер картинки в Base64", "desc": "Конвертирует изображение в Base64 строку", "keywords": "image to base64, картинку в base64", "js_func": "base64Tool", "placeholder": "", "affiliate_niche": "hosting"},
+  {"slug": "bmi-calculator", "title": "Калькулятор ИМТ", "h1": "Рассчитать ИМТ - индекс массы тела", "desc": "Бесплатный калькулятор ИМТ по росту и весу", "keywords": "калькулятор имт, bmi calculator", "js_func": "wordCount", "placeholder": "Рост 175 Вес 70", "affiliate_niche": "none"},
+  {"slug": "loan-calculator", "title": "Кредитный калькулятор", "h1": "Калькулятор кредита онлайн", "desc": "Считает ежемесячный платеж и переплату", "keywords": "кредитный калькулятор, расчет кредита", "js_func": "wordCount", "placeholder": "Сумма кредита", "affiliate_niche": "none"},
+  {"slug": "qr-generator", "title": "Генератор QR кода", "h1": "Создать QR код онлайн", "desc": "Генерация QR из текста или ссылки", "keywords": "qr generator, создать qr код", "js_func": "slugGen", "placeholder": "https://example.com", "affiliate_niche": "none"}
+]

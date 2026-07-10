@@ -1,0 +1,27 @@
+# Render.com — БЕЗ КАРТЫ, 24/7 с автопросыпанием за 10 сек, работает в РФ
+# Деплой в 2 клика, без твоего ПК, без Fly.io карты
+
+services:
+  - type: web
+    name: toolfarm-bot
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-bot.txt
+    startCommand: python app.py
+    autoDeploy: true
+    healthCheckPath: /health
+    envVars:
+      - key: TG_BOT_TOKEN
+        sync: false
+      - key: ADMIN_ID
+        sync: false
+      - key: TG_CHANNEL_ID
+        sync: false
+      - key: TG_PRIVATE_CHANNEL_ID
+        sync: false
+      - key: BOT_USERNAME
+        sync: false
+      - key: PYTHONUNBUFFERED
+        value: 1
+      - key: PORT
+        value: 10000

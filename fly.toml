@@ -1,0 +1,28 @@
+app = "toolfarm-bot-YOUR_NICK"  # ЗАМЕНИ YOUR_NICK на свой ник, чтобы было уникально, например toolfarm-bot-ivan123
+primary_region = "fra"  # Frankfurt — ближе к РФ, низкая задержка
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PYTHONUNBUFFERED = "1"
+  PYTHONDONTWRITEBYTECODE = "1"
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 512
+  # Free tier Fly.io: 3 shared CPU VM, 160GB egress — боту хватает с запасом, 0₽
+
+[processes]
+  app = "python bot_autonomous_v6.py"
+
+# Авто-рестарт если упал
+[restart]
+  policy = "always"
+
+# Деплой одной командой (удаленно, без твоего ПК, через GitHub Codespaces):
+# fly auth login
+# fly launch --no-deploy (выбери имя toolfarm-bot-YOUR_NICK, регион fra)
+# fly secrets set TG_BOT_TOKEN=xxx ADMIN_ID=yyy TG_CHANNEL_ID=zzz
+# fly deploy

@@ -1,0 +1,13 @@
+{
+  "DOMAIN": "https://YOUR_USERNAME.github.io/tool-farm",
+  "REPO_URL": "https://github.com/YOUR_USERNAME/tool-farm",
+  "BOT_USERNAME": "YourToolFarmBot",
+  "MONETAG_ZONE": "REPLACE_ME",
+  "YANDEX_METRIKA_ID": "",
+  "TELEGRAM_BOT_TOKEN": "REPLACE_ME",
+  "TELEGRAM_CHANNEL_ID": "",
+  "ADMITAD": {
+    "HOSTING": "https://ad.admitad.com/g/xxx/",
+    "VPN": "https://ad.admitad.com/g/xxx/"
+  }
+}

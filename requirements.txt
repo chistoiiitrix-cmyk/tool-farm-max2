@@ -1,0 +1,8 @@
+Pillow
+requests
+python-telegram-bot==20.7
+moviepy==1.0.3
+gtts
+google-api-python-client
+google-auth-oauthlib
+praw

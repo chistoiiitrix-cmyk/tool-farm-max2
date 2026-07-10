@@ -1,0 +1,15 @@
+# Не копируем в Docker образ тяжелую статику сайта — боту она не нужна для кассы
+dist/
+downloads/
+zen_articles/
+video_scripts/
+parasite_articles/
+__pycache__/
+*.log
+*.mp4
+*.zip
+.git
+.github
+.vscode
+.venv
+node_modules

@@ -1,0 +1,6 @@
+{
+  "name": "ToolFarm Mini App",
+  "description": "150 инструментов внутри Telegram",
+  "bot_username": "YOUR_BOT",
+  "url": "https://YOUR_DOMAIN"
+}
