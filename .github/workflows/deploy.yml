@@ -1,0 +1,138 @@
+name: V11 PUCHKA MAX AUTOPILOT — Авто-контент + Авто-уведомления
+
+on:
+  push:
+    branches: [ main, master ]
+  schedule:
+    - cron: '0 6 * * *'      # каждый день 9:00 МСК - полный цикл
+    - cron: '0 8 * * *'      # каждый день 11:00 МСК - проверка фидбека и добавление инструментов
+    - cron: '0 6 * * 1'      # понедельник - недельный дроп
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  autopilot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install
+        run: pip install Pillow requests -q
+
+      - name: 1. Fetch trending + feedback (авто-поиск ниш и идей)
+        run: |
+          python niche_trending_fetcher.py || true
+          cat trending.json | head -n 30 || true
+          cat feedback.json | tail -n 20 || true
+
+      - name: 2. Auto add tools from feedback (если реальная тема — добавляет инструмент)
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python feedback_system.py || true
+          python auto_tool_adder.py || true
+          cat tools-database.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'TOOLS: {len(d)} last={d[-1][\"slug\"]}')"
+
+      - name: 3. Build 1500+ tools site (включая новые из фидбека)
+        run: python build.py
+
+      - name: 4. Auto generate packs & designs & weekly drops & videos & articles (авто-контент под ниши и тренды + Shorts + статьи)
+        run: |
+          python content_factory.py
+          python product_generator.py
+          python design_factory.py
+          python creator_coding_factory.py
+          python weekly_drop_factory.py
+          python niche_content_autopilot.py
+          python build_drops_page.py
+          python build_designs_page.py
+          python media_kit_generator.py
+          python advertiser_outreach.py
+          python stats_generator.py
+          python boost_pack.py || true
+          python growth_bot.py || true
+          python self_promo_autopilot.py || true
+          python auto_article_poster.py || true
+          python -m pip install "moviepy==1.0.3" gtts -q
+          python video_auto_factory.py || true
+          python youtube_uploader.py || true
+          python tiktok_uploader.py || true
+          du -sh dist/ || true
+          echo "TOOLS:" && ls dist/tools | wc -l
+          echo "VIDEOS:" && ls dist/videos/ -lh | tail -n 10 || true
+          echo "TIKTOK LOG:" && cat tiktok_log.json | tail -n 20 || true
+          echo "ARTICLE LOG:" && cat article_poster_log.json | tail -n 20 || true
+          echo "DROPS:" && cat dist/downloads/drops.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d))"
+          echo "FEEDBACK:" && cat feedback.json | wc -l || echo 0
+          echo "ADS PENDING:" && cat pending_ads.json | wc -l || echo 0
+          echo "PROMO QUEUE:" && cat promo_queue.json | wc -l || echo 0
+
+      - name: 5. Optimize dist for Pages (убираем мега-бандлы >10MB для скорости)
+        run: |
+          mkdir -p /tmp/paks_for_bot
+          cp dist/downloads/PUCHKA-MEGA-BUNDLE.zip /tmp/paks_for_bot/ 2>/dev/null || true
+          cp dist/downloads/tools-offline-750.zip /tmp/paks_for_bot/ 2>/dev/null || true
+          cp dist/downloads/tools-offline-*.zip /tmp/paks_for_bot/ 2>/dev/null || true
+          rm -f dist/downloads/PUCHKA-MEGA-BUNDLE.zip
+          rm -f dist/downloads/tools-offline-*.zip
+          du -sh dist/
+
+      - name: 6. Deploy to GitHub Pages (автономно, работает в РФ)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
+      - name: 7. Restore large packs for bot delivery
+        run: |
+          cp /tmp/paks_for_bot/*.zip dist/downloads/ 2>/dev/null || true
+          ls dist/downloads/*.zip | wc -l || true
+
+      - name: 8. Auto notify users when their idea implemented (авто-уведомления)
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+        run: |
+          python feedback_notifier.py || true
+
+      - name: 9. Auto looting — авто-вывод капусты и уведомления
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          ADMIN_ID: ${{ secrets.ADMIN_ID }}
+          CRYPTOBOT_TOKEN: ${{ secrets.CRYPTOBOT_TOKEN }}
+          CRYPTOBOT_WITHDRAW_WALLET: ${{ secrets.CRYPTOBOT_WITHDRAW_WALLET }}
+          CRYPTOBOT_WITHDRAW_USER_ID: ${{ secrets.CRYPTOBOT_WITHDRAW_USER_ID }}
+          MONETAG_API_KEY: ${{ secrets.MONETAG_API_KEY }}
+        run: |
+          python auto_looting.py || true
+          python auto_withdraw.py || true
+
+      - name: 10. Auto post to Telegram channel & private club (авто-дроп в ТГ)
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
+          TG_PRIVATE_CHANNEL_ID: ${{ secrets.TG_PRIVATE_CHANNEL_ID }}
+        run: |
+          python tg_autopost.py || true
+          python - << 'PY'
+          import json, pathlib, os
+          # Постим новый дроп в приватный канал если есть
+          drops_path = pathlib.Path("dist/downloads/drops.json")
+          if drops_path.exists():
+              drops=json.loads(drops_path.read_text(encoding='utf-8'))
+              if drops:
+                  d=drops[0]
+                  print(f"Latest drop: {d['week_id']} — {d['niche']['id']} — would post to private channel")
+          PY
+
+      - name: 11. Commit DB + feedback + sales + drops + promo + ads + tiktok + stats (авто-подгрузка в систему)
+        run: |
+          git config --global user.name "farm-bot-v13"
+          git config --global user.email "bot@toolfarm.one"
+          git add tools-database.json feedback.json drops.json dist/downloads/drops.json referrals.json sales_log.json subscriptions.json trending.json outreach_queue.json promo_queue.json promo_log.json tiktok_log.json looting_log.json pending_ads.json ads_log.json dist/stats/ dist/earnings/ dist/drops/ dist/designs/ dist/videos/ || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "auto v13 PUCHKA: tools+feedback+drops+trends+sales+ads+tiktok+promo+stats+videos — полная автономия + авто-лутинг + самореклама"
+          git push || true
