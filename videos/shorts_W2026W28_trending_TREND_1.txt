@@ -1,1 +1,1 @@
-VIDEO FAIL Как я сделал транслит за 1 день без вложений module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 66238₽ чтобы узнать сторис module 'PIL.Image' has no attribute 'ANTIALIAS'
