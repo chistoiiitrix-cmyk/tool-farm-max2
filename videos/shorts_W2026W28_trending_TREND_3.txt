@@ -1,1 +1,1 @@
-VIDEO FAIL рилс убивает твой барбер — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета кодинг о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'

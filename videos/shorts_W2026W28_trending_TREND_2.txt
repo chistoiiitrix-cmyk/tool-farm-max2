@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета кафе о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 33341₽ чтобы узнать транслит module 'PIL.Image' has no attribute 'ANTIALIAS'
