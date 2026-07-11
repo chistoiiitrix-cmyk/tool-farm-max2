@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 33341₽ чтобы узнать транслит module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню сторис в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
