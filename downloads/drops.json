@@ -3,7 +3,7 @@
     "week_id": "W2026W28_beauty",
     "year": 2026,
     "week": 28,
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "niche": {
       "id": "beauty",
       "name": "Бьюти сфера",
@@ -28,16 +28,16 @@
     "week_id": "W2026W28_trending_TREND",
     "year": 2026,
     "week": 28,
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "einstein's relativity rules chemical bonds in heavy elements",
-        "quadrf can spot drones and see wifi through my wall",
-        "apple sues openai, accuses ex-employees of stealing trade se",
-        "the vintage beauty of soviet control rooms (2018)",
-        "otary – image and geometry python library now has tutorials"
+        "mesh llm: distributed ai computing on iroh",
+        "the 'father of the internet' is finally retiring",
+        "show hn: ant – a javascript runtime and ecosystem",
+        "show hn: mindwalk – replay coding-agent sessions on a 3d map",
+        "riscboy is an open-source portable games console, designed f"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам einstein's relativity rules chemical bonds in heavy elements, quadrf can spot drones and see wifi through my wall, apple sues openai, accuses ex-employees of stealing trade se. Авто-сгенерировано по трендам 2026-07-11. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам mesh llm: distributed ai computing on iroh, the 'father of the internet' is finally retiring, show hn: ant – a javascript runtime and ecosystem. Авто-сгенерировано по трендам 2026-07-12. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
