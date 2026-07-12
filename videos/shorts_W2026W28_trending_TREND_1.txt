@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в кодинг module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 11867₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'

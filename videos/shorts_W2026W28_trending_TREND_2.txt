@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в кодинг которая стоит 59912₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню хуки в стройка module 'PIL.Image' has no attribute 'ANTIALIAS'
