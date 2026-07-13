@@ -1,1 +1,0 @@
-VIDEO FAIL За 15 сек объясню хуки в стройка module 'PIL.Image' has no attribute 'ANTIALIAS'

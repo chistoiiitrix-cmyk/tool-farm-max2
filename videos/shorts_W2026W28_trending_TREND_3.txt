@@ -1,1 +1,0 @@
-VIDEO FAIL Никто не говорит про проверка ИНН в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'

@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W28_beauty",
+    "week_id": "W2026W29_tutor",
     "year": 2026,
-    "week": 28,
-    "date": "2026-07-12",
+    "week": 29,
+    "date": "2026-07-13",
     "niche": {
-      "id": "beauty",
-      "name": "Бьюти сфера",
+      "id": "tutor",
+      "name": "Репетиторы",
       "keywords": [
-        "маникюр",
-        "ресницы",
-        "уход"
+        "урок",
+        "курс",
+        "домашка"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W28_beauty/logo-drop-50-beauty.zip",
-      "prompts": "weekly/W2026W28_beauty/prompts-drop-100-beauty.zip",
-      "templates": "weekly/W2026W28_beauty/templates-drop-20-beauty.zip",
-      "bundle": "weekly/W2026W28_beauty/BUNDLE-W2026W28_beauty.zip"
+      "logos": "weekly/W2026W29_tutor/logo-drop-50-tutor.zip",
+      "prompts": "weekly/W2026W29_tutor/prompts-drop-100-tutor.zip",
+      "templates": "weekly/W2026W29_tutor/templates-drop-20-tutor.zip",
+      "bundle": "weekly/W2026W29_tutor/BUNDLE-W2026W29_tutor.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Бьюти сфера: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Репетиторы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W28_trending_TREND",
+    "week_id": "W2026W29_trending_TREND",
     "year": 2026,
-    "week": 28,
-    "date": "2026-07-12",
+    "week": 29,
+    "date": "2026-07-13",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "show hn: mindwalk – replay coding-agent sessions on a 3d map",
-        "mesh llm: distributed ai computing on iroh",
-        "vint cerf, a “father of the internet”, is retiring",
-        "protobuf-py: protobuf for python, without compromises",
-        "show hn: ant – a javascript runtime and ecosystem"
+        "backtrack-free cursive",
+        "beavis ultrasound pnp isa sound card replica",
+        "ghostlock, a stack-uaf that has existed in all linux distrib",
+        "the social physics of conversation: communication patterns m",
+        "cyberpunk comics, manga and graphic novels"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W28_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W28_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W28_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W28_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W28_trending_TREND/BUNDLE-W2026W28_trending_TREND.zip"
+      "logos": "weekly/W2026W29_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W29_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W29_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W29_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W29_trending_TREND/BUNDLE-W2026W29_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам show hn: mindwalk – replay coding-agent sessions on a 3d map, mesh llm: distributed ai computing on iroh, vint cerf, a “father of the internet”, is retiring. Авто-сгенерировано по трендам 2026-07-12. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам backtrack-free cursive, beavis ultrasound pnp isa sound card replica, ghostlock, a stack-uaf that has existed in all linux distrib. Авто-сгенерировано по трендам 2026-07-13. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]

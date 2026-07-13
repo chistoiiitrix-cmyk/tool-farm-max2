@@ -1,0 +1,1 @@
+VIDEO FAIL Никто не говорит про сторис в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
