@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню сторис в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL рилс убивает твой репетитор — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'

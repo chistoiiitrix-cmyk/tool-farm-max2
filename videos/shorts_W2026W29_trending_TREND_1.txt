@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета барбер о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL проверка ИНН убивает твой барбер — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
