@@ -3,7 +3,7 @@
     "week_id": "W2026W29_tutor",
     "year": 2026,
     "week": 29,
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "niche": {
       "id": "tutor",
       "name": "Репетиторы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W29_trending_TREND",
     "year": 2026,
     "week": 29,
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "japan develops a method to recover up to 90% of lithium from",
-        "alternative(s) to run cuda on non-nvidia hardware",
-        "the git history command",
-        "australian energy retailers must provide three hours of free",
-        "youtrackdb is a general-use object-oriented graph database"
+        "i tricked claude into leaking your deepest, darkest secrets",
+        "jurassic park computers in excruciating detail",
+        "vancouver pd website features quick escape button that wipes",
+        "ts-2026-009: insecure argument handling in tailscale ssh per",
+        "risc-v is inevitable: state of the union keynote argues"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам japan develops a method to recover up to 90% of lithium from, alternative(s) to run cuda on non-nvidia hardware, the git history command. Авто-сгенерировано по трендам 2026-07-14. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам i tricked claude into leaking your deepest, darkest secrets, jurassic park computers in excruciating detail, vancouver pd website features quick escape button that wipes. Авто-сгенерировано по трендам 2026-07-15. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
