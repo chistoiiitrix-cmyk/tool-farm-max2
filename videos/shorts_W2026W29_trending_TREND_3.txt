@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в юрист которая стоит 85436₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL транслит убивает твой бьюти — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
