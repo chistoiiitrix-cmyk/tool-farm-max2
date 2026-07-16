@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 14471₽ чтобы узнать проверка ИНН module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Топ 5 инструментов для авто в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
