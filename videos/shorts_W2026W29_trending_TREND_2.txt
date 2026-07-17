@@ -1,1 +1,1 @@
-VIDEO FAIL транслит убивает твой бьюти — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Топ 5 инструментов для кодинг в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
