@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню генератор лого в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL сторис убивает твой кафе — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
