@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в кодинг которая стоит 38832₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про счетчик слов в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
