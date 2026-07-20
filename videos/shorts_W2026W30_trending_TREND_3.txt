@@ -1,0 +1,1 @@
+VIDEO FAIL Я потратил 29631₽ чтобы узнать сторис module 'PIL.Image' has no attribute 'ANTIALIAS'

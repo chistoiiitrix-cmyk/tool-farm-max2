@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W29_tutor",
+    "week_id": "W2026W30_cafe",
     "year": 2026,
-    "week": 29,
-    "date": "2026-07-19",
+    "week": 30,
+    "date": "2026-07-20",
     "niche": {
-      "id": "tutor",
-      "name": "Репетиторы",
+      "id": "cafe",
+      "name": "Кафе и рестораны",
       "keywords": [
-        "урок",
-        "курс",
-        "домашка"
+        "меню",
+        "бронь",
+        "кофе"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W29_tutor/logo-drop-50-tutor.zip",
-      "prompts": "weekly/W2026W29_tutor/prompts-drop-100-tutor.zip",
-      "templates": "weekly/W2026W29_tutor/templates-drop-20-tutor.zip",
-      "bundle": "weekly/W2026W29_tutor/BUNDLE-W2026W29_tutor.zip"
+      "logos": "weekly/W2026W30_cafe/logo-drop-50-cafe.zip",
+      "prompts": "weekly/W2026W30_cafe/prompts-drop-100-cafe.zip",
+      "templates": "weekly/W2026W30_cafe/templates-drop-20-cafe.zip",
+      "bundle": "weekly/W2026W30_cafe/BUNDLE-W2026W30_cafe.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Репетиторы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Кафе и рестораны: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W29_trending_TREND",
+    "week_id": "W2026W30_trending_TREND",
     "year": 2026,
-    "week": 29,
-    "date": "2026-07-19",
+    "week": 30,
+    "date": "2026-07-20",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "transcribe.cpp",
-        "qwen3.8 is launching and going open-weight soon",
-        "perforce charges $500 for training training videos.. and it'",
-        "speech recognition and tts in less than 500kb",
-        "better and cheaper than iptv"
+        "lora speedrun – a public wall-clock leaderboard for fine-tun",
+        "show hn: i replaced a $120k bowling center system with $1,60",
+        "moonshine: lets you stream games from your pc to any device ",
+        "xiaomi-robotics-1",
+        "self-powered trailers promise leaner freight runs"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W29_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W29_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W29_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W29_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W29_trending_TREND/BUNDLE-W2026W29_trending_TREND.zip"
+      "logos": "weekly/W2026W30_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W30_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W30_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W30_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W30_trending_TREND/BUNDLE-W2026W30_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам transcribe.cpp, qwen3.8 is launching and going open-weight soon, perforce charges $500 for training training videos.. and it'. Авто-сгенерировано по трендам 2026-07-19. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам lora speedrun – a public wall-clock leaderboard for fine-tun, show hn: i replaced a $120k bowling center system with $1,60, moonshine: lets you stream games from your pc to any device . Авто-сгенерировано по трендам 2026-07-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]

@@ -1,1 +1,0 @@
-VIDEO FAIL Я потратил 69654₽ чтобы узнать проверка ИНН module 'PIL.Image' has no attribute 'ANTIALIAS'
