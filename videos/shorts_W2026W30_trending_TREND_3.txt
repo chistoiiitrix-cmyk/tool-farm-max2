@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для контент в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL проверка ИНН убивает твой репетитор — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
