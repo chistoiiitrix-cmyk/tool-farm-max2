@@ -1,1 +1,1 @@
-VIDEO FAIL проверка ИНН убивает твой репетитор — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в кафе которая стоит 33284₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
