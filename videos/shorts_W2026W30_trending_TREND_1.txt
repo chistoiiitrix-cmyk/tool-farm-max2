@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 23314₽ чтобы узнать проверка ИНН module 'PIL.Image' has no attribute 'ANTIALIAS'
