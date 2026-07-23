@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в барбер которая стоит 70651₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 79721₽ чтобы узнать счетчик слов module 'PIL.Image' has no attribute 'ANTIALIAS'
