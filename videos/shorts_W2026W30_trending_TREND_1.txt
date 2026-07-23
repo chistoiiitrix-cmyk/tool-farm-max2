@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 23314₽ чтобы узнать проверка ИНН module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в кафе которая стоит 63764₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

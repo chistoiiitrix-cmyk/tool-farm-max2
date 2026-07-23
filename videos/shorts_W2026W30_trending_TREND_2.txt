@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 1115₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в барбер которая стоит 70651₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
