@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про рилс в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 56763₽ чтобы узнать транслит module 'PIL.Image' has no attribute 'ANTIALIAS'

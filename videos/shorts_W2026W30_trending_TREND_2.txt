@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 79721₽ чтобы узнать счетчик слов module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL счетчик слов убивает твой контент — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
