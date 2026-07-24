@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в барбер которая стоит 90243₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
