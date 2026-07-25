@@ -3,7 +3,7 @@
     "week_id": "W2026W30_cafe",
     "year": 2026,
     "week": 30,
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "niche": {
       "id": "cafe",
       "name": "Кафе и рестораны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W30_trending_TREND",
     "year": 2026,
     "week": 30,
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "flux 3",
-        "flux 3 x mimic: the next generation of video-action models",
-        "nothing works and everyone is euphoric",
-        "writing by hand is good for your brain",
-        "it's getting harder to focus every day"
+        "arc-agi leaderboard",
+        "android may soon restrict on-device adb",
+        "claude opus 5",
+        "gc and exceptions in wasmtime",
+        "hannah fry wins the leelavati prize in 2026 for mathematics "
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам flux 3, flux 3 x mimic: the next generation of video-action models, nothing works and everyone is euphoric. Авто-сгенерировано по трендам 2026-07-24. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам arc-agi leaderboard, android may soon restrict on-device adb, claude opus 5. Авто-сгенерировано по трендам 2026-07-25. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
