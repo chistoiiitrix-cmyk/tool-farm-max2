@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета крипто о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про хуки в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
