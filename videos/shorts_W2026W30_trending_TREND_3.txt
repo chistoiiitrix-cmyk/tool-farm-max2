@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про транслит в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета крипто о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'

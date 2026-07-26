@@ -3,7 +3,7 @@
     "week_id": "W2026W30_cafe",
     "year": 2026,
     "week": 30,
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "niche": {
       "id": "cafe",
       "name": "Кафе и рестораны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W30_trending_TREND",
     "year": 2026,
     "week": 30,
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "android may soon restrict on-device adb",
-        "claude opus 5",
-        "hannah fry wins the leelavati prize in 2026 for mathematics ",
-        "gc and exceptions in wasmtime",
-        "nyc apartment aquaponics"
+        "a shell colon does nothing. use it anyway",
+        "an esp32 based plane radar for my desk",
+        "the new rules of context engineering for claude 5 generation",
+        "show hn: i mapped every us golf course",
+        "inflect-micro-v2: complete voice in 9.36m parameters"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам android may soon restrict on-device adb, claude opus 5, hannah fry wins the leelavati prize in 2026 for mathematics . Авто-сгенерировано по трендам 2026-07-25. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам a shell colon does nothing. use it anyway, an esp32 based plane radar for my desk, the new rules of context engineering for claude 5 generation. Авто-сгенерировано по трендам 2026-07-26. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
