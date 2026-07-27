@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 26467₽ чтобы узнать удаление дублей module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета бьюти о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
