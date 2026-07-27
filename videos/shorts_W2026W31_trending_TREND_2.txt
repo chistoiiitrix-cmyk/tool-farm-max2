@@ -1,1 +1,1 @@
-VIDEO FAIL генератор лого убивает твой контент — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в стройка которая стоит 63817₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
