@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W30_cafe",
+    "week_id": "W2026W31_wb",
     "year": 2026,
-    "week": 30,
-    "date": "2026-07-26",
+    "week": 31,
+    "date": "2026-07-27",
     "niche": {
-      "id": "cafe",
-      "name": "Кафе и рестораны",
+      "id": "wb",
+      "name": "WB/Ozon продавцы",
       "keywords": [
-        "меню",
-        "бронь",
-        "кофе"
+        "карточка товара",
+        "описание",
+        "SEO"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W30_cafe/logo-drop-50-cafe.zip",
-      "prompts": "weekly/W2026W30_cafe/prompts-drop-100-cafe.zip",
-      "templates": "weekly/W2026W30_cafe/templates-drop-20-cafe.zip",
-      "bundle": "weekly/W2026W30_cafe/BUNDLE-W2026W30_cafe.zip"
+      "logos": "weekly/W2026W31_wb/logo-drop-50-wb.zip",
+      "prompts": "weekly/W2026W31_wb/prompts-drop-100-wb.zip",
+      "templates": "weekly/W2026W31_wb/templates-drop-20-wb.zip",
+      "bundle": "weekly/W2026W31_wb/BUNDLE-W2026W31_wb.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Кафе и рестораны: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп WB/Ozon продавцы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W30_trending_TREND",
+    "week_id": "W2026W31_trending_TREND",
     "year": 2026,
-    "week": 30,
-    "date": "2026-07-26",
+    "week": 31,
+    "date": "2026-07-27",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "ruff v0.16.0 – significant new updates – 413 default rules u",
-        "a shell colon does nothing. use it anyway",
-        "grapheneos protections against data extraction from locked d",
-        "an esp32 based plane radar for my desk",
-        "the new rules of context engineering for claude 5 generation"
+        "kimi-k3 releases on huggingface 7/27",
+        "pgsimcity - how postgresql works",
+        "show hn: physically accurate black hole you can put in your ",
+        "scriptc by vercel: typescript-to-native compiler, no javascr",
+        "french firefighters face 'pyrocumulonimbus' for first time"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W30_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W30_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W30_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W30_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W30_trending_TREND/BUNDLE-W2026W30_trending_TREND.zip"
+      "logos": "weekly/W2026W31_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W31_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W31_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W31_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W31_trending_TREND/BUNDLE-W2026W31_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам ruff v0.16.0 – significant new updates – 413 default rules u, a shell colon does nothing. use it anyway, grapheneos protections against data extraction from locked d. Авто-сгенерировано по трендам 2026-07-26. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам kimi-k3 releases on huggingface 7/27, pgsimcity - how postgresql works, show hn: physically accurate black hole you can put in your . Авто-сгенерировано по трендам 2026-07-27. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
