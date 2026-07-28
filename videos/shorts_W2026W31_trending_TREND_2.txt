@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в стройка которая стоит 63817₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL удаление дублей убивает твой репетитор — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'

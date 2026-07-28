@@ -1,1 +1,1 @@
-VIDEO FAIL сторис убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про хуки в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
