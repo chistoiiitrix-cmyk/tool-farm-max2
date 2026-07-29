@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про хуки в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про удаление дублей в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
