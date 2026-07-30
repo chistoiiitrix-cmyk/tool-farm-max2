@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про удаление дублей в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 60455₽ чтобы узнать сторис module 'PIL.Image' has no attribute 'ANTIALIAS'
