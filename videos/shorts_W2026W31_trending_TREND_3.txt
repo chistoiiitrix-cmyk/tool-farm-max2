@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про рилс в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL генератор лого убивает твой бьюти — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
