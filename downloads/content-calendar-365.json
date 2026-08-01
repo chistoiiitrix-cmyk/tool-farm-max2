@@ -1,2192 +1,2192 @@
 [
   {
     "date": "2026-01-01",
-    "niche": "wb",
-    "idea": "Пост про wb: топ 3 ошибки",
-    "type": "story"
+    "niche": "cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "carousel"
   },
   {
     "date": "2026-01-02",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "reels"
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "live"
   },
   {
     "date": "2026-01-03",
-    "niche": "auto",
-    "idea": "Рилс: как сделать auto за 15 сек",
-    "type": "live"
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "story"
   },
   {
     "date": "2026-01-04",
-    "niche": "auto",
-    "idea": "Пост про auto: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-01-05",
-    "niche": "wb",
-    "idea": "Рилс: как сделать wb за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-01-06",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "post"
-  },
-  {
-    "date": "2026-01-07",
-    "niche": "auto",
-    "idea": "Рилс: как сделать auto за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-08",
-    "niche": "fitness",
-    "idea": "Рилс: как сделать fitness за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-01-09",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-10",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-11",
-    "niche": "build",
-    "idea": "Прямой эфир: отвечаю про build",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-12",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "live"
-  },
-  {
-    "date": "2026-01-13",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-14",
-    "niche": "tutor",
-    "idea": "Сторис: опрос про tutor",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-15",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-16",
-    "niche": "auto",
-    "idea": "Пост про auto: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-01-17",
-    "niche": "cafe",
-    "idea": "Сторис: опрос про cafe",
-    "type": "reels"
-  },
-  {
-    "date": "2026-01-18",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-19",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "reels"
-  },
-  {
-    "date": "2026-01-20",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-01-21",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-22",
-    "niche": "law",
-    "idea": "Пост про law: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-23",
-    "niche": "wb",
-    "idea": "Рилс: как сделать wb за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-24",
-    "niche": "barber",
-    "idea": "Рилс: как сделать barber за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-25",
-    "niche": "cafe",
-    "idea": "Карусель: 5 инструментов для cafe",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-26",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "story"
-  },
-  {
-    "date": "2026-01-27",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-01-28",
-    "niche": "wb",
-    "idea": "Карусель: 5 инструментов для wb",
-    "type": "post"
-  },
-  {
-    "date": "2026-01-29",
-    "niche": "beauty",
-    "idea": "Пост про beauty: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-01-30",
-    "niche": "crypto",
-    "idea": "Карусель: 5 инструментов для crypto",
-    "type": "post"
-  },
-  {
-    "date": "2026-01-31",
-    "niche": "crypto",
-    "idea": "Карусель: 5 инструментов для crypto",
-    "type": "live"
-  },
-  {
-    "date": "2026-02-01",
-    "niche": "barber",
-    "idea": "Прямой эфир: отвечаю про barber",
-    "type": "reels"
-  },
-  {
-    "date": "2026-02-02",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-03",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-04",
-    "niche": "auto",
-    "idea": "Прямой эфир: отвечаю про auto",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-05",
-    "niche": "coding",
-    "idea": "Сторис: опрос про coding",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-02-06",
     "niche": "tutor",
     "idea": "Карусель: 5 инструментов для tutor",
     "type": "story"
   },
   {
-    "date": "2026-02-07",
-    "niche": "tutor",
-    "idea": "Сторис: опрос про tutor",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-02-08",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "post"
-  },
-  {
-    "date": "2026-02-09",
-    "niche": "wb",
-    "idea": "Прямой эфир: отвечаю про wb",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-10",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-02-11",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
+    "date": "2026-01-05",
+    "niche": "cafe",
+    "idea": "Прямой эфир: отвечаю про cafe",
     "type": "live"
   },
   {
-    "date": "2026-02-12",
-    "niche": "coding",
-    "idea": "Прямой эфир: отвечаю про coding",
-    "type": "post"
-  },
-  {
-    "date": "2026-02-13",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-14",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-15",
-    "niche": "fitness",
-    "idea": "Рилс: как сделать fitness за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-02-16",
+    "date": "2026-01-06",
     "niche": "content",
     "idea": "Прямой эфир: отвечаю про content",
-    "type": "live"
-  },
-  {
-    "date": "2026-02-17",
-    "niche": "wb",
-    "idea": "Карусель: 5 инструментов для wb",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-18",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-02-19",
-    "niche": "wb",
-    "idea": "Карусель: 5 инструментов для wb",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-02-20",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-02-21",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "post"
-  },
-  {
-    "date": "2026-02-22",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "live"
-  },
-  {
-    "date": "2026-02-23",
-    "niche": "crypto",
-    "idea": "Сторис: опрос про crypto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-02-24",
-    "niche": "content",
-    "idea": "Сторис: опрос про content",
-    "type": "live"
-  },
-  {
-    "date": "2026-02-25",
-    "niche": "auto",
-    "idea": "Карусель: 5 инструментов для auto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-02-26",
-    "niche": "build",
-    "idea": "Прямой эфир: отвечаю про build",
     "type": "reels"
   },
   {
-    "date": "2026-02-27",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-02-28",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-01",
-    "niche": "barber",
-    "idea": "Рилс: как сделать barber за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-03-02",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-03-03",
-    "niche": "beauty",
-    "idea": "Сторис: опрос про beauty",
-    "type": "live"
-  },
-  {
-    "date": "2026-03-04",
-    "niche": "crypto",
-    "idea": "Пост про crypto: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-03-05",
-    "niche": "coding",
-    "idea": "Рилс: как сделать coding за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-03-06",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-07",
-    "niche": "barber",
-    "idea": "Пост про barber: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-03-08",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "story"
-  },
-  {
-    "date": "2026-03-09",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-10",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "live"
-  },
-  {
-    "date": "2026-03-11",
-    "niche": "auto",
-    "idea": "Рилс: как сделать auto за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-03-12",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-13",
-    "niche": "tutor",
-    "idea": "Сторис: опрос про tutor",
-    "type": "live"
-  },
-  {
-    "date": "2026-03-14",
-    "niche": "fitness",
-    "idea": "Карусель: 5 инструментов для fitness",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-15",
-    "niche": "crypto",
-    "idea": "Сторис: опрос про crypto",
-    "type": "story"
-  },
-  {
-    "date": "2026-03-16",
-    "niche": "auto",
-    "idea": "Прямой эфир: отвечаю про auto",
-    "type": "reels"
-  },
-  {
-    "date": "2026-03-17",
+    "date": "2026-01-07",
     "niche": "coding",
     "idea": "Сторис: опрос про coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-03-18",
-    "niche": "auto",
-    "idea": "Сторис: опрос про auto",
-    "type": "live"
-  },
-  {
-    "date": "2026-03-19",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-20",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-21",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
     "type": "story"
   },
   {
-    "date": "2026-03-22",
+    "date": "2026-01-08",
+    "niche": "auto",
+    "idea": "Карусель: 5 инструментов для auto",
+    "type": "live"
+  },
+  {
+    "date": "2026-01-09",
+    "niche": "build",
+    "idea": "Пост про build: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-01-10",
     "niche": "build",
     "idea": "Рилс: как сделать build за 15 сек",
-    "type": "carousel"
+    "type": "live"
   },
   {
-    "date": "2026-03-23",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-03-24",
-    "niche": "law",
-    "idea": "Прямой эфир: отвечаю про law",
-    "type": "reels"
-  },
-  {
-    "date": "2026-03-25",
-    "niche": "cafe",
-    "idea": "Карусель: 5 инструментов для cafe",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-26",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "story"
-  },
-  {
-    "date": "2026-03-27",
-    "niche": "auto",
-    "idea": "Карусель: 5 инструментов для auto",
-    "type": "story"
-  },
-  {
-    "date": "2026-03-28",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-03-29",
-    "niche": "coding",
-    "idea": "Прямой эфир: отвечаю про coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-03-30",
-    "niche": "coding",
-    "idea": "Сторис: опрос про coding",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-03-31",
+    "date": "2026-01-11",
     "niche": "fitness",
     "idea": "Сторис: опрос про fitness",
     "type": "post"
   },
   {
-    "date": "2026-04-01",
+    "date": "2026-01-12",
+    "niche": "tutor",
+    "idea": "Карусель: 5 инструментов для tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-01-13",
+    "niche": "content",
+    "idea": "Карусель: 5 инструментов для content",
+    "type": "live"
+  },
+  {
+    "date": "2026-01-14",
+    "niche": "barber",
+    "idea": "Прямой эфир: отвечаю про barber",
+    "type": "reels"
+  },
+  {
+    "date": "2026-01-15",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-01-16",
+    "niche": "content",
+    "idea": "Пост про content: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-01-17",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
+    "type": "reels"
+  },
+  {
+    "date": "2026-01-18",
+    "niche": "crypto",
+    "idea": "Пост про crypto: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-01-19",
     "niche": "content",
     "idea": "Прямой эфир: отвечаю про content",
     "type": "live"
   },
   {
-    "date": "2026-04-02",
+    "date": "2026-01-20",
+    "niche": "wb",
+    "idea": "Карусель: 5 инструментов для wb",
+    "type": "post"
+  },
+  {
+    "date": "2026-01-21",
+    "niche": "build",
+    "idea": "Прямой эфир: отвечаю про build",
+    "type": "story"
+  },
+  {
+    "date": "2026-01-22",
+    "niche": "coding",
+    "idea": "Сторис: опрос про coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-01-23",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-01-24",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-01-25",
+    "niche": "coding",
+    "idea": "Прямой эфир: отвечаю про coding",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-01-26",
+    "niche": "tutor",
+    "idea": "Прямой эфир: отвечаю про tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-01-27",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-01-28",
+    "niche": "content",
+    "idea": "Пост про content: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-01-29",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-01-30",
+    "niche": "build",
+    "idea": "Карусель: 5 инструментов для build",
+    "type": "story"
+  },
+  {
+    "date": "2026-01-31",
+    "niche": "cafe",
+    "idea": "Прямой эфир: отвечаю про cafe",
+    "type": "live"
+  },
+  {
+    "date": "2026-02-01",
+    "niche": "barber",
+    "idea": "Сторис: опрос про barber",
+    "type": "live"
+  },
+  {
+    "date": "2026-02-02",
+    "niche": "barber",
+    "idea": "Прямой эфир: отвечаю про barber",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-03",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-04",
+    "niche": "tutor",
+    "idea": "Пост про tutor: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-02-05",
+    "niche": "tutor",
+    "idea": "Пост про tutor: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-06",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-07",
+    "niche": "coding",
+    "idea": "Сторис: опрос про coding",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-02-08",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-02-09",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-02-10",
+    "niche": "crypto",
+    "idea": "Пост про crypto: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-02-11",
+    "niche": "auto",
+    "idea": "Карусель: 5 инструментов для auto",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-12",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "live"
+  },
+  {
+    "date": "2026-02-13",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-14",
+    "niche": "tutor",
+    "idea": "Прямой эфир: отвечаю про tutor",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-15",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-16",
+    "niche": "build",
+    "idea": "Пост про build: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-17",
+    "niche": "barber",
+    "idea": "Сторис: опрос про barber",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-18",
+    "niche": "content",
+    "idea": "Рилс: как сделать content за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-19",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-02-20",
+    "niche": "build",
+    "idea": "Пост про build: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-21",
+    "niche": "coding",
+    "idea": "Пост про coding: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-02-22",
+    "niche": "content",
+    "idea": "Сторис: опрос про content",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-02-23",
+    "niche": "wb",
+    "idea": "Сторис: опрос про wb",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-24",
+    "niche": "cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "post"
+  },
+  {
+    "date": "2026-02-25",
+    "niche": "beauty",
+    "idea": "Карусель: 5 инструментов для beauty",
+    "type": "story"
+  },
+  {
+    "date": "2026-02-26",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "story"
+  },
+  {
+    "date": "2026-02-27",
+    "niche": "beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "reels"
+  },
+  {
+    "date": "2026-02-28",
+    "niche": "crypto",
+    "idea": "Сторис: опрос про crypto",
+    "type": "post"
+  },
+  {
+    "date": "2026-03-01",
     "niche": "barber",
     "idea": "Пост про barber: топ 3 ошибки",
     "type": "reels"
   },
   {
-    "date": "2026-04-03",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
+    "date": "2026-03-02",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
     "type": "live"
   },
   {
-    "date": "2026-04-04",
-    "niche": "cafe",
-    "idea": "Сторис: опрос про cafe",
-    "type": "live"
-  },
-  {
-    "date": "2026-04-05",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "reels"
-  },
-  {
-    "date": "2026-04-06",
-    "niche": "crypto",
-    "idea": "Рилс: как сделать crypto за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-04-07",
+    "date": "2026-03-03",
     "niche": "fitness",
-    "idea": "Прямой эфир: отвечаю про fitness",
-    "type": "post"
-  },
-  {
-    "date": "2026-04-08",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
+    "idea": "Рилс: как сделать fitness за 15 сек",
     "type": "carousel"
   },
   {
-    "date": "2026-04-09",
-    "niche": "build",
-    "idea": "Пост про build: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-04-10",
-    "niche": "beauty",
-    "idea": "Рилс: как сделать beauty за 15 сек",
+    "date": "2026-03-04",
+    "niche": "law",
+    "idea": "Пост про law: топ 3 ошибки",
     "type": "live"
   },
   {
-    "date": "2026-04-11",
+    "date": "2026-03-05",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "live"
+  },
+  {
+    "date": "2026-03-06",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
+    "type": "reels"
+  },
+  {
+    "date": "2026-03-07",
+    "niche": "barber",
+    "idea": "Рилс: как сделать barber за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-03-08",
     "niche": "fitness",
-    "idea": "Карусель: 5 инструментов для fitness",
+    "idea": "Сторис: опрос про fitness",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-09",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-03-10",
+    "niche": "barber",
+    "idea": "Сторис: опрос про barber",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-11",
+    "niche": "beauty",
+    "idea": "Рилс: как сделать beauty за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-12",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-03-13",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "story"
+  },
+  {
+    "date": "2026-03-14",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
     "type": "post"
   },
   {
-    "date": "2026-04-12",
+    "date": "2026-03-15",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-03-16",
+    "niche": "barber",
+    "idea": "Рилс: как сделать barber за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-03-17",
+    "niche": "beauty",
+    "idea": "Карусель: 5 инструментов для beauty",
+    "type": "story"
+  },
+  {
+    "date": "2026-03-18",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-19",
+    "niche": "build",
+    "idea": "Пост про build: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-03-20",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-21",
+    "niche": "wb",
+    "idea": "Сторис: опрос про wb",
+    "type": "reels"
+  },
+  {
+    "date": "2026-03-22",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-03-23",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-03-24",
+    "niche": "law",
+    "idea": "Рилс: как сделать law за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-25",
     "niche": "auto",
     "idea": "Рилс: как сделать auto за 15 сек",
     "type": "story"
   },
   {
-    "date": "2026-04-13",
-    "niche": "beauty",
-    "idea": "Пост про beauty: топ 3 ошибки",
+    "date": "2026-03-26",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-03-27",
+    "niche": "law",
+    "idea": "Прямой эфир: отвечаю про law",
     "type": "carousel"
   },
   {
-    "date": "2026-04-14",
+    "date": "2026-03-28",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-03-29",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
+    "type": "live"
+  },
+  {
+    "date": "2026-03-30",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-03-31",
     "niche": "cafe",
-    "idea": "Прямой эфир: отвечаю про cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-01",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-02",
+    "niche": "beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-03",
+    "niche": "barber",
+    "idea": "Сторис: опрос про barber",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-04",
+    "niche": "tutor",
+    "idea": "Прямой эфир: отвечаю про tutor",
+    "type": "story"
+  },
+  {
+    "date": "2026-04-05",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-06",
+    "niche": "barber",
+    "idea": "Сторис: опрос про barber",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-07",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-04-08",
+    "niche": "fitness",
+    "idea": "Сторис: опрос про fitness",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-04-09",
+    "niche": "coding",
+    "idea": "Прямой эфир: отвечаю про coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-04-10",
+    "niche": "barber",
+    "idea": "Пост про barber: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-04-11",
+    "niche": "cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "reels"
+  },
+  {
+    "date": "2026-04-12",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-04-13",
+    "niche": "fitness",
+    "idea": "Сторис: опрос про fitness",
+    "type": "live"
+  },
+  {
+    "date": "2026-04-14",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
     "type": "post"
   },
   {
     "date": "2026-04-15",
     "niche": "auto",
     "idea": "Сторис: опрос про auto",
-    "type": "live"
-  },
-  {
-    "date": "2026-04-16",
-    "niche": "auto",
-    "idea": "Прямой эфир: отвечаю про auto",
     "type": "post"
   },
   {
+    "date": "2026-04-16",
+    "niche": "crypto",
+    "idea": "Рилс: как сделать crypto за 15 сек",
+    "type": "story"
+  },
+  {
     "date": "2026-04-17",
-    "niche": "beauty",
-    "idea": "Пост про beauty: топ 3 ошибки",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
     "type": "live"
   },
   {
     "date": "2026-04-18",
-    "niche": "auto",
-    "idea": "Сторис: опрос про auto",
-    "type": "reels"
-  },
-  {
-    "date": "2026-04-19",
-    "niche": "coding",
-    "idea": "Карусель: 5 инструментов для coding",
-    "type": "story"
-  },
-  {
-    "date": "2026-04-20",
-    "niche": "fitness",
-    "idea": "Сторис: опрос про fitness",
-    "type": "post"
-  },
-  {
-    "date": "2026-04-21",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "post"
-  },
-  {
-    "date": "2026-04-22",
-    "niche": "wb",
-    "idea": "Рилс: как сделать wb за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-04-23",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-04-24",
-    "niche": "barber",
-    "idea": "Пост про barber: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-04-25",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-04-26",
-    "niche": "barber",
-    "idea": "Прямой эфир: отвечаю про barber",
-    "type": "story"
-  },
-  {
-    "date": "2026-04-27",
-    "niche": "tutor",
-    "idea": "Карусель: 5 инструментов для tutor",
-    "type": "post"
-  },
-  {
-    "date": "2026-04-28",
-    "niche": "crypto",
-    "idea": "Карусель: 5 инструментов для crypto",
-    "type": "story"
-  },
-  {
-    "date": "2026-04-29",
-    "niche": "content",
-    "idea": "Сторис: опрос про content",
-    "type": "post"
-  },
-  {
-    "date": "2026-04-30",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "post"
-  },
-  {
-    "date": "2026-05-01",
-    "niche": "fitness",
-    "idea": "Прямой эфир: отвечаю про fitness",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-02",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-05-03",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-04",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-05-05",
-    "niche": "wb",
-    "idea": "Прямой эфир: отвечаю про wb",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-06",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-07",
-    "niche": "crypto",
-    "idea": "Рилс: как сделать crypto за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-08",
-    "niche": "coding",
-    "idea": "Карусель: 5 инструментов для coding",
-    "type": "story"
-  },
-  {
-    "date": "2026-05-09",
-    "niche": "tutor",
-    "idea": "Сторис: опрос про tutor",
-    "type": "story"
-  },
-  {
-    "date": "2026-05-10",
-    "niche": "fitness",
-    "idea": "Карусель: 5 инструментов для fitness",
-    "type": "live"
-  },
-  {
-    "date": "2026-05-11",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-12",
-    "niche": "build",
-    "idea": "Сторис: опрос про build",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-13",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "live"
-  },
-  {
-    "date": "2026-05-14",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "story"
-  },
-  {
-    "date": "2026-05-15",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-16",
-    "niche": "content",
-    "idea": "Прямой эфир: отвечаю про content",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-17",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "live"
-  },
-  {
-    "date": "2026-05-18",
-    "niche": "build",
-    "idea": "Пост про build: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-19",
-    "niche": "fitness",
-    "idea": "Рилс: как сделать fitness за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-05-20",
-    "niche": "crypto",
-    "idea": "Карусель: 5 инструментов для crypto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-21",
-    "niche": "coding",
-    "idea": "Прямой эфир: отвечаю про coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-22",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-05-23",
-    "niche": "wb",
-    "idea": "Рилс: как сделать wb за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-24",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "post"
-  },
-  {
-    "date": "2026-05-25",
-    "niche": "crypto",
-    "idea": "Пост про crypto: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-05-26",
-    "niche": "cafe",
-    "idea": "Сторис: опрос про cafe",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-05-27",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-05-28",
-    "niche": "fitness",
-    "idea": "Прямой эфир: отвечаю про fitness",
-    "type": "story"
-  },
-  {
-    "date": "2026-05-29",
-    "niche": "coding",
-    "idea": "Сторис: опрос про coding",
-    "type": "post"
-  },
-  {
-    "date": "2026-05-30",
-    "niche": "content",
-    "idea": "Прямой эфир: отвечаю про content",
-    "type": "story"
-  },
-  {
-    "date": "2026-05-31",
-    "niche": "fitness",
-    "idea": "Рилс: как сделать fitness за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-06-01",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-02",
-    "niche": "crypto",
-    "idea": "Карусель: 5 инструментов для crypto",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-03",
-    "niche": "law",
-    "idea": "Прямой эфир: отвечаю про law",
-    "type": "post"
-  },
-  {
-    "date": "2026-06-04",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "reels"
-  },
-  {
-    "date": "2026-06-05",
     "niche": "wb",
     "idea": "Карусель: 5 инструментов для wb",
     "type": "post"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-04-19",
     "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "story"
+    "idea": "Прямой эфир: отвечаю про coding",
+    "type": "carousel"
   },
   {
-    "date": "2026-06-07",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-08",
-    "niche": "wb",
-    "idea": "Прямой эфир: отвечаю про wb",
-    "type": "post"
-  },
-  {
-    "date": "2026-06-09",
-    "niche": "cafe",
-    "idea": "Рилс: как сделать cafe за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-06-10",
-    "niche": "wb",
-    "idea": "Рилс: как сделать wb за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-06-11",
-    "niche": "tutor",
-    "idea": "Сторис: опрос про tutor",
-    "type": "post"
-  },
-  {
-    "date": "2026-06-12",
-    "niche": "law",
-    "idea": "Сторис: опрос про law",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-13",
-    "niche": "law",
-    "idea": "Прямой эфир: отвечаю про law",
-    "type": "post"
-  },
-  {
-    "date": "2026-06-14",
+    "date": "2026-04-20",
     "niche": "beauty",
-    "idea": "Рилс: как сделать beauty за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-06-15",
-    "niche": "fitness",
-    "idea": "Рилс: как сделать fitness за 15 сек",
+    "idea": "Сторис: опрос про beauty",
     "type": "post"
   },
   {
-    "date": "2026-06-16",
-    "niche": "law",
-    "idea": "Прямой эфир: отвечаю про law",
+    "date": "2026-04-21",
+    "niche": "barber",
+    "idea": "Рилс: как сделать barber за 15 сек",
     "type": "carousel"
   },
   {
-    "date": "2026-06-17",
-    "niche": "crypto",
-    "idea": "Рилс: как сделать crypto за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-06-18",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-19",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "story"
-  },
-  {
-    "date": "2026-06-20",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-06-21",
-    "niche": "cafe",
-    "idea": "Карусель: 5 инструментов для cafe",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-06-22",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-06-23",
+    "date": "2026-04-22",
     "niche": "crypto",
     "idea": "Сторис: опрос про crypto",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-24",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
     "type": "reels"
   },
   {
-    "date": "2026-06-25",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-06-26",
-    "niche": "build",
-    "idea": "Прямой эфир: отвечаю про build",
+    "date": "2026-04-23",
+    "niche": "auto",
+    "idea": "Прямой эфир: отвечаю про auto",
     "type": "story"
   },
   {
-    "date": "2026-06-27",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "live"
+    "date": "2026-04-24",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "carousel"
   },
   {
-    "date": "2026-06-28",
-    "niche": "cafe",
-    "idea": "Прямой эфир: отвечаю про cafe",
-    "type": "live"
-  },
-  {
-    "date": "2026-06-29",
+    "date": "2026-04-25",
     "niche": "beauty",
     "idea": "Пост про beauty: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-06-30",
-    "niche": "law",
-    "idea": "Рилс: как сделать law за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-07-01",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "story"
-  },
-  {
-    "date": "2026-07-02",
-    "niche": "tutor",
-    "idea": "Карусель: 5 инструментов для tutor",
-    "type": "story"
-  },
-  {
-    "date": "2026-07-03",
-    "niche": "wb",
-    "idea": "Прямой эфир: отвечаю про wb",
     "type": "carousel"
   },
   {
-    "date": "2026-07-04",
-    "niche": "content",
-    "idea": "Прямой эфир: отвечаю про content",
-    "type": "reels"
-  },
-  {
-    "date": "2026-07-05",
-    "niche": "build",
-    "idea": "Сторис: опрос про build",
-    "type": "reels"
-  },
-  {
-    "date": "2026-07-06",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "reels"
-  },
-  {
-    "date": "2026-07-07",
-    "niche": "build",
-    "idea": "Пост про build: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-07-08",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-07-09",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-07-10",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-07-11",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-07-12",
+    "date": "2026-04-26",
     "niche": "crypto",
     "idea": "Сторис: опрос про crypto",
-    "type": "carousel"
+    "type": "story"
   },
   {
-    "date": "2026-07-13",
-    "niche": "auto",
-    "idea": "Сторис: опрос про auto",
-    "type": "post"
-  },
-  {
-    "date": "2026-07-14",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "post"
-  },
-  {
-    "date": "2026-07-15",
-    "niche": "law",
-    "idea": "Пост про law: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-07-16",
+    "date": "2026-04-27",
     "niche": "fitness",
-    "idea": "Прямой эфир: отвечаю про fitness",
+    "idea": "Сторис: опрос про fitness",
     "type": "carousel"
   },
   {
-    "date": "2026-07-17",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "post"
-  },
-  {
-    "date": "2026-07-18",
-    "niche": "tutor",
-    "idea": "Карусель: 5 инструментов для tutor",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-07-19",
-    "niche": "wb",
-    "idea": "Прямой эфир: отвечаю про wb",
-    "type": "reels"
-  },
-  {
-    "date": "2026-07-20",
-    "niche": "barber",
-    "idea": "Пост про barber: топ 3 ошибки",
+    "date": "2026-04-28",
+    "niche": "build",
+    "idea": "Пост про build: топ 3 ошибки",
     "type": "story"
   },
   {
-    "date": "2026-07-21",
-    "niche": "content",
-    "idea": "Прямой эфир: отвечаю про content",
-    "type": "post"
-  },
-  {
-    "date": "2026-07-22",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "story"
-  },
-  {
-    "date": "2026-07-23",
-    "niche": "auto",
-    "idea": "Рилс: как сделать auto за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-07-24",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-07-25",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "reels"
-  },
-  {
-    "date": "2026-07-26",
+    "date": "2026-04-29",
     "niche": "build",
     "idea": "Рилс: как сделать build за 15 сек",
     "type": "story"
   },
   {
-    "date": "2026-07-27",
-    "niche": "beauty",
-    "idea": "Сторис: опрос про beauty",
+    "date": "2026-04-30",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
+    "type": "story"
+  },
+  {
+    "date": "2026-05-01",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-02",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-05-03",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-04",
+    "niche": "barber",
+    "idea": "Пост про barber: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-05-05",
+    "niche": "build",
+    "idea": "Прямой эфир: отвечаю про build",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-06",
+    "niche": "cafe",
+    "idea": "Сторис: опрос про cafe",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-07",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
     "type": "reels"
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-05-08",
     "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-05-09",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-05-10",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-11",
+    "niche": "law",
+    "idea": "Карусель: 5 инструментов для law",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-12",
+    "niche": "cafe",
+    "idea": "Сторис: опрос про cafe",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-13",
+    "niche": "barber",
+    "idea": "Прямой эфир: отвечаю про barber",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-14",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-15",
+    "niche": "build",
+    "idea": "Прямой эфир: отвечаю про build",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-16",
+    "niche": "content",
+    "idea": "Сторис: опрос про content",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-17",
+    "niche": "wb",
+    "idea": "Пост про wb: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-18",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-05-19",
+    "niche": "build",
+    "idea": "Рилс: как сделать build за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-20",
+    "niche": "law",
+    "idea": "Пост про law: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-21",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-22",
+    "niche": "wb",
+    "idea": "Пост про wb: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-23",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
     "type": "live"
   },
   {
-    "date": "2026-07-29",
+    "date": "2026-05-24",
+    "niche": "build",
+    "idea": "Прямой эфир: отвечаю про build",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-25",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-26",
+    "niche": "cafe",
+    "idea": "Сторис: опрос про cafe",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-27",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "post"
+  },
+  {
+    "date": "2026-05-28",
+    "niche": "barber",
+    "idea": "Рилс: как сделать barber за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-05-29",
+    "niche": "crypto",
+    "idea": "Сторис: опрос про crypto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-30",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-05-31",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-01",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-02",
+    "niche": "barber",
+    "idea": "Сторис: опрос про barber",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-03",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
+    "type": "live"
+  },
+  {
+    "date": "2026-06-04",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-05",
+    "niche": "cafe",
+    "idea": "Сторис: опрос про cafe",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-06",
+    "niche": "auto",
+    "idea": "Карусель: 5 инструментов для auto",
+    "type": "live"
+  },
+  {
+    "date": "2026-06-07",
+    "niche": "beauty",
+    "idea": "Рилс: как сделать beauty за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-06-08",
+    "niche": "barber",
+    "idea": "Рилс: как сделать barber за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-09",
     "niche": "coding",
-    "idea": "Прямой эфир: отвечаю про coding",
+    "idea": "Сторис: опрос про coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-10",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-11",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-12",
+    "niche": "crypto",
+    "idea": "Сторис: опрос про crypto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-06-13",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-06-14",
+    "niche": "beauty",
+    "idea": "Прямой эфир: отвечаю про beauty",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-15",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "reels"
+  },
+  {
+    "date": "2026-06-16",
+    "niche": "content",
+    "idea": "Сторис: опрос про content",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-06-17",
+    "niche": "content",
+    "idea": "Карусель: 5 инструментов для content",
+    "type": "live"
+  },
+  {
+    "date": "2026-06-18",
+    "niche": "coding",
+    "idea": "Сторис: опрос про coding",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-06-19",
+    "niche": "auto",
+    "idea": "Карусель: 5 инструментов для auto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-06-20",
+    "niche": "beauty",
+    "idea": "Рилс: как сделать beauty за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-21",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "live"
+  },
+  {
+    "date": "2026-06-22",
+    "niche": "build",
+    "idea": "Рилс: как сделать build за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-23",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-24",
+    "niche": "build",
+    "idea": "Прямой эфир: отвечаю про build",
+    "type": "story"
+  },
+  {
+    "date": "2026-06-25",
+    "niche": "build",
+    "idea": "Карусель: 5 инструментов для build",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-26",
+    "niche": "cafe",
+    "idea": "Прямой эфир: отвечаю про cafe",
+    "type": "live"
+  },
+  {
+    "date": "2026-06-27",
+    "niche": "tutor",
+    "idea": "Пост про tutor: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-06-28",
+    "niche": "auto",
+    "idea": "Прямой эфир: отвечаю про auto",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-06-29",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-06-30",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "reels"
+  },
+  {
+    "date": "2026-07-01",
+    "niche": "wb",
+    "idea": "Пост про wb: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-02",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-07-03",
+    "niche": "beauty",
+    "idea": "Рилс: как сделать beauty за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-04",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-05",
+    "niche": "content",
+    "idea": "Сторис: опрос про content",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-06",
+    "niche": "beauty",
+    "idea": "Карусель: 5 инструментов для beauty",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-07",
+    "niche": "fitness",
+    "idea": "Сторис: опрос про fitness",
+    "type": "story"
+  },
+  {
+    "date": "2026-07-08",
+    "niche": "tutor",
+    "idea": "Карусель: 5 инструментов для tutor",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-09",
+    "niche": "content",
+    "idea": "Рилс: как сделать content за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-10",
+    "niche": "beauty",
+    "idea": "Прямой эфир: отвечаю про beauty",
+    "type": "reels"
+  },
+  {
+    "date": "2026-07-11",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "live"
+  },
+  {
+    "date": "2026-07-12",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-13",
+    "niche": "wb",
+    "idea": "Карусель: 5 инструментов для wb",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-14",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-07-15",
+    "niche": "build",
+    "idea": "Прямой эфир: отвечаю про build",
+    "type": "live"
+  },
+  {
+    "date": "2026-07-16",
+    "niche": "barber",
+    "idea": "Пост про barber: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-07-17",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "live"
+  },
+  {
+    "date": "2026-07-18",
+    "niche": "coding",
+    "idea": "Пост про coding: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-19",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-20",
+    "niche": "wb",
+    "idea": "Пост про wb: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-21",
+    "niche": "fitness",
+    "idea": "Сторис: опрос про fitness",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-22",
+    "niche": "barber",
+    "idea": "Прямой эфир: отвечаю про barber",
+    "type": "live"
+  },
+  {
+    "date": "2026-07-23",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-07-24",
+    "niche": "build",
+    "idea": "Рилс: как сделать build за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-25",
+    "niche": "law",
+    "idea": "Рилс: как сделать law за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-07-26",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-27",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-07-28",
+    "niche": "tutor",
+    "idea": "Прямой эфир: отвечаю про tutor",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-07-29",
+    "niche": "fitness",
+    "idea": "Сторис: опрос про fitness",
     "type": "reels"
   },
   {
     "date": "2026-07-30",
     "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
+    "idea": "Сторис: опрос про tutor",
     "type": "carousel"
   },
   {
     "date": "2026-07-31",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "live"
-  },
-  {
-    "date": "2026-08-01",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
+    "niche": "crypto",
+    "idea": "Рилс: как сделать crypto за 15 сек",
     "type": "reels"
   },
   {
+    "date": "2026-08-01",
+    "niche": "auto",
+    "idea": "Прямой эфир: отвечаю про auto",
+    "type": "live"
+  },
+  {
     "date": "2026-08-02",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "post"
+    "niche": "law",
+    "idea": "Карусель: 5 инструментов для law",
+    "type": "reels"
   },
   {
     "date": "2026-08-03",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
+    "niche": "cafe",
+    "idea": "Прямой эфир: отвечаю про cafe",
     "type": "story"
   },
   {
     "date": "2026-08-04",
     "niche": "law",
     "idea": "Сторис: опрос про law",
-    "type": "carousel"
+    "type": "reels"
   },
   {
     "date": "2026-08-05",
-    "niche": "beauty",
-    "idea": "Рилс: как сделать beauty за 15 сек",
-    "type": "story"
+    "niche": "cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "live"
   },
   {
     "date": "2026-08-06",
-    "niche": "cafe",
-    "idea": "Сторис: опрос про cafe",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
     "type": "reels"
   },
   {
     "date": "2026-08-07",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-08-08",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-08-09",
-    "niche": "content",
-    "idea": "Прямой эфир: отвечаю про content",
-    "type": "reels"
-  },
-  {
-    "date": "2026-08-10",
-    "niche": "barber",
-    "idea": "Сторис: опрос про barber",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-11",
-    "niche": "build",
-    "idea": "Прямой эфир: отвечаю про build",
-    "type": "live"
-  },
-  {
-    "date": "2026-08-12",
-    "niche": "fitness",
-    "idea": "Карусель: 5 инструментов для fitness",
-    "type": "post"
-  },
-  {
-    "date": "2026-08-13",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-08-14",
-    "niche": "crypto",
-    "idea": "Сторис: опрос про crypto",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-15",
-    "niche": "auto",
-    "idea": "Сторис: опрос про auto",
-    "type": "reels"
-  },
-  {
-    "date": "2026-08-16",
-    "niche": "barber",
-    "idea": "Прямой эфир: отвечаю про barber",
-    "type": "reels"
-  },
-  {
-    "date": "2026-08-17",
-    "niche": "tutor",
-    "idea": "Сторис: опрос про tutor",
-    "type": "live"
-  },
-  {
-    "date": "2026-08-18",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-08-19",
-    "niche": "wb",
-    "idea": "Карусель: 5 инструментов для wb",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-20",
-    "niche": "law",
-    "idea": "Рилс: как сделать law за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-08-21",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-22",
-    "niche": "auto",
-    "idea": "Пост про auto: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-08-23",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-24",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "live"
-  },
-  {
-    "date": "2026-08-25",
-    "niche": "crypto",
-    "idea": "Сторис: опрос про crypto",
-    "type": "post"
-  },
-  {
-    "date": "2026-08-26",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-27",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "story"
-  },
-  {
-    "date": "2026-08-28",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "post"
-  },
-  {
-    "date": "2026-08-29",
-    "niche": "beauty",
-    "idea": "Сторис: опрос про beauty",
-    "type": "post"
-  },
-  {
-    "date": "2026-08-30",
-    "niche": "coding",
-    "idea": "Прямой эфир: отвечаю про coding",
-    "type": "live"
-  },
-  {
-    "date": "2026-08-31",
-    "niche": "auto",
-    "idea": "Карусель: 5 инструментов для auto",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-01",
     "niche": "crypto",
     "idea": "Рилс: как сделать crypto за 15 сек",
     "type": "reels"
   },
   {
-    "date": "2026-09-02",
-    "niche": "content",
-    "idea": "Сторис: опрос про content",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-03",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-04",
-    "niche": "content",
-    "idea": "Сторис: опрос про content",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-05",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-06",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "live"
-  },
-  {
-    "date": "2026-09-07",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-08",
-    "niche": "fitness",
-    "idea": "Прямой эфир: отвечаю про fitness",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-09",
-    "niche": "cafe",
-    "idea": "Рилс: как сделать cafe за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-09-10",
-    "niche": "build",
-    "idea": "Сторис: опрос про build",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-11",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-09-12",
-    "niche": "barber",
-    "idea": "Прямой эфир: отвечаю про barber",
-    "type": "live"
-  },
-  {
-    "date": "2026-09-13",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-14",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-09-15",
-    "niche": "coding",
-    "idea": "Прямой эфир: отвечаю про coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-16",
-    "niche": "barber",
-    "idea": "Пост про barber: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-09-17",
-    "niche": "beauty",
-    "idea": "Сторис: опрос про beauty",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-18",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-19",
-    "niche": "law",
-    "idea": "Прямой эфир: отвечаю про law",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-20",
-    "niche": "auto",
-    "idea": "Пост про auto: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-09-21",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-22",
-    "niche": "crypto",
-    "idea": "Пост про crypto: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-09-23",
-    "niche": "law",
-    "idea": "Прямой эфир: отвечаю про law",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-09-24",
-    "niche": "fitness",
-    "idea": "Карусель: 5 инструментов для fitness",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-09-25",
-    "niche": "wb",
-    "idea": "Прямой эфир: отвечаю про wb",
-    "type": "story"
-  },
-  {
-    "date": "2026-09-26",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "post"
-  },
-  {
-    "date": "2026-09-27",
-    "niche": "tutor",
-    "idea": "Карусель: 5 инструментов для tutor",
-    "type": "live"
-  },
-  {
-    "date": "2026-09-28",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "reels"
-  },
-  {
-    "date": "2026-09-29",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "post"
-  },
-  {
-    "date": "2026-09-30",
-    "niche": "cafe",
-    "idea": "Сторис: опрос про cafe",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-01",
-    "niche": "content",
-    "idea": "Пост про content: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-10-02",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-03",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-04",
-    "niche": "crypto",
-    "idea": "Сторис: опрос про crypto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-05",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-06",
-    "niche": "barber",
-    "idea": "Прямой эфир: отвечаю про barber",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-07",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-08",
-    "niche": "law",
-    "idea": "Сторис: опрос про law",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-09",
-    "niche": "law",
-    "idea": "Сторис: опрос про law",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-10",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-11",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "reels"
-  },
-  {
-    "date": "2026-10-12",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "post"
-  },
-  {
-    "date": "2026-10-13",
-    "niche": "auto",
-    "idea": "Рилс: как сделать auto за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-14",
-    "niche": "barber",
-    "idea": "Рилс: как сделать barber за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-15",
-    "niche": "coding",
-    "idea": "Карусель: 5 инструментов для coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-10-16",
-    "niche": "barber",
-    "idea": "Пост про barber: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-17",
-    "niche": "cafe",
-    "idea": "Рилс: как сделать cafe за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-18",
-    "niche": "tutor",
-    "idea": "Карусель: 5 инструментов для tutor",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-19",
+    "date": "2026-08-08",
     "niche": "coding",
     "idea": "Сторис: опрос про coding",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-20",
-    "niche": "build",
-    "idea": "Рилс: как сделать build за 15 сек",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-21",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
     "type": "live"
   },
   {
-    "date": "2026-10-22",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-23",
-    "niche": "content",
-    "idea": "Рилс: как сделать content за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-24",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-25",
-    "niche": "content",
-    "idea": "Карусель: 5 инструментов для content",
-    "type": "story"
-  },
-  {
-    "date": "2026-10-26",
-    "niche": "coding",
-    "idea": "Карусель: 5 инструментов для coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-10-27",
-    "niche": "fitness",
-    "idea": "Пост про fitness: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-28",
-    "niche": "beauty",
-    "idea": "Сторис: опрос про beauty",
-    "type": "reels"
-  },
-  {
-    "date": "2026-10-29",
-    "niche": "crypto",
-    "idea": "Карусель: 5 инструментов для crypto",
-    "type": "live"
-  },
-  {
-    "date": "2026-10-30",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-10-31",
-    "niche": "wb",
-    "idea": "Сторис: опрос про wb",
-    "type": "story"
-  },
-  {
-    "date": "2026-11-01",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-11-02",
-    "niche": "law",
-    "idea": "Пост про law: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-11-03",
-    "niche": "build",
-    "idea": "Пост про build: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-04",
-    "niche": "cafe",
-    "idea": "Прямой эфир: отвечаю про cafe",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-11-05",
-    "niche": "cafe",
-    "idea": "Карусель: 5 инструментов для cafe",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-06",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-11-07",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-11-08",
+    "date": "2026-08-09",
     "niche": "content",
     "idea": "Сторис: опрос про content",
-    "type": "post"
-  },
-  {
-    "date": "2026-11-09",
-    "niche": "fitness",
-    "idea": "Рилс: как сделать fitness за 15 сек",
     "type": "carousel"
   },
   {
-    "date": "2026-11-10",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-11-11",
-    "niche": "wb",
-    "idea": "Пост про wb: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-11-12",
+    "date": "2026-08-10",
     "niche": "build",
     "idea": "Рилс: как сделать build за 15 сек",
-    "type": "reels"
-  },
-  {
-    "date": "2026-11-13",
-    "niche": "cafe",
-    "idea": "Пост про cafe: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-14",
-    "niche": "build",
-    "idea": "Сторис: опрос про build",
-    "type": "post"
-  },
-  {
-    "date": "2026-11-15",
-    "niche": "tutor",
-    "idea": "Рилс: как сделать tutor за 15 сек",
-    "type": "post"
-  },
-  {
-    "date": "2026-11-16",
-    "niche": "crypto",
-    "idea": "Пост про crypto: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-11-17",
-    "niche": "fitness",
-    "idea": "Карусель: 5 инструментов для fitness",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-18",
-    "niche": "coding",
-    "idea": "Рилс: как сделать coding за 15 сек",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-19",
-    "niche": "auto",
-    "idea": "Карусель: 5 инструментов для auto",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-20",
-    "niche": "build",
-    "idea": "Прямой эфир: отвечаю про build",
-    "type": "reels"
-  },
-  {
-    "date": "2026-11-21",
-    "niche": "crypto",
-    "idea": "Пост про crypto: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-22",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
     "type": "carousel"
   },
   {
-    "date": "2026-11-23",
-    "niche": "coding",
-    "idea": "Карусель: 5 инструментов для coding",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-11-24",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-11-25",
-    "niche": "content",
-    "idea": "Пост про content: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-11-26",
-    "niche": "tutor",
-    "idea": "Прямой эфир: отвечаю про tutor",
-    "type": "post"
-  },
-  {
-    "date": "2026-11-27",
-    "niche": "build",
-    "idea": "Прямой эфир: отвечаю про build",
-    "type": "story"
-  },
-  {
-    "date": "2026-11-28",
-    "niche": "coding",
-    "idea": "Пост про coding: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-11-29",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "story"
-  },
-  {
-    "date": "2026-11-30",
-    "niche": "cafe",
-    "idea": "Прямой эфир: отвечаю про cafe",
-    "type": "reels"
-  },
-  {
-    "date": "2026-12-01",
-    "niche": "auto",
-    "idea": "Пост про auto: топ 3 ошибки",
-    "type": "reels"
-  },
-  {
-    "date": "2026-12-02",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-03",
-    "niche": "beauty",
-    "idea": "Прямой эфир: отвечаю про beauty",
-    "type": "story"
-  },
-  {
-    "date": "2026-12-04",
-    "niche": "content",
-    "idea": "Сторис: опрос про content",
-    "type": "live"
-  },
-  {
-    "date": "2026-12-05",
-    "niche": "coding",
-    "idea": "Карусель: 5 инструментов для coding",
-    "type": "reels"
-  },
-  {
-    "date": "2026-12-06",
-    "niche": "content",
-    "idea": "Прямой эфир: отвечаю про content",
-    "type": "reels"
-  },
-  {
-    "date": "2026-12-07",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "post"
-  },
-  {
-    "date": "2026-12-08",
-    "niche": "cafe",
-    "idea": "Карусель: 5 инструментов для cafe",
-    "type": "post"
-  },
-  {
-    "date": "2026-12-09",
-    "niche": "law",
-    "idea": "Сторис: опрос про law",
-    "type": "post"
-  },
-  {
-    "date": "2026-12-10",
-    "niche": "content",
-    "idea": "Пост про content: топ 3 ошибки",
-    "type": "live"
-  },
-  {
-    "date": "2026-12-11",
-    "niche": "cafe",
-    "idea": "Карусель: 5 инструментов для cafe",
-    "type": "live"
-  },
-  {
-    "date": "2026-12-12",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "live"
-  },
-  {
-    "date": "2026-12-13",
-    "niche": "build",
-    "idea": "Пост про build: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-14",
-    "niche": "auto",
-    "idea": "Пост про auto: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-12-15",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "live"
-  },
-  {
-    "date": "2026-12-16",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-17",
-    "niche": "crypto",
-    "idea": "Пост про crypto: топ 3 ошибки",
-    "type": "story"
-  },
-  {
-    "date": "2026-12-18",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "live"
-  },
-  {
-    "date": "2026-12-19",
-    "niche": "tutor",
-    "idea": "Пост про tutor: топ 3 ошибки",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-20",
-    "niche": "law",
-    "idea": "Сторис: опрос про law",
-    "type": "post"
-  },
-  {
-    "date": "2026-12-21",
-    "niche": "auto",
-    "idea": "Рилс: как сделать auto за 15 сек",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-22",
-    "niche": "law",
-    "idea": "Карусель: 5 инструментов для law",
-    "type": "post"
-  },
-  {
-    "date": "2026-12-23",
-    "niche": "build",
-    "idea": "Карусель: 5 инструментов для build",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-24",
-    "niche": "barber",
-    "idea": "Карусель: 5 инструментов для barber",
-    "type": "carousel"
-  },
-  {
-    "date": "2026-12-25",
+    "date": "2026-08-11",
     "niche": "fitness",
     "idea": "Сторис: опрос про fitness",
     "type": "reels"
   },
   {
-    "date": "2026-12-26",
-    "niche": "crypto",
-    "idea": "Прямой эфир: отвечаю про crypto",
-    "type": "story"
-  },
-  {
-    "date": "2026-12-27",
-    "niche": "beauty",
-    "idea": "Карусель: 5 инструментов для beauty",
-    "type": "post"
-  },
-  {
-    "date": "2026-12-28",
-    "niche": "tutor",
-    "idea": "Карусель: 5 инструментов для tutor",
+    "date": "2026-08-12",
+    "niche": "content",
+    "idea": "Карусель: 5 инструментов для content",
     "type": "carousel"
   },
   {
-    "date": "2026-12-29",
-    "niche": "cafe",
-    "idea": "Прямой эфир: отвечаю про cafe",
+    "date": "2026-08-13",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
     "type": "live"
   },
   {
-    "date": "2026-12-30",
+    "date": "2026-08-14",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-08-15",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "post"
+  },
+  {
+    "date": "2026-08-16",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-08-17",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "story"
+  },
+  {
+    "date": "2026-08-18",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-08-19",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "live"
+  },
+  {
+    "date": "2026-08-20",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-08-21",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "reels"
+  },
+  {
+    "date": "2026-08-22",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-08-23",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-08-24",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-08-25",
+    "niche": "beauty",
+    "idea": "Прямой эфир: отвечаю про beauty",
+    "type": "reels"
+  },
+  {
+    "date": "2026-08-26",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-08-27",
+    "niche": "tutor",
+    "idea": "Пост про tutor: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-08-28",
+    "niche": "fitness",
+    "idea": "Пост про fitness: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-08-29",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-08-30",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-08-31",
+    "niche": "crypto",
+    "idea": "Прямой эфир: отвечаю про crypto",
+    "type": "live"
+  },
+  {
+    "date": "2026-09-01",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-02",
+    "niche": "auto",
+    "idea": "Прямой эфир: отвечаю про auto",
+    "type": "story"
+  },
+  {
+    "date": "2026-09-03",
+    "niche": "coding",
+    "idea": "Прямой эфир: отвечаю про coding",
+    "type": "live"
+  },
+  {
+    "date": "2026-09-04",
+    "niche": "content",
+    "idea": "Сторис: опрос про content",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-05",
+    "niche": "coding",
+    "idea": "Пост про coding: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-09-06",
+    "niche": "law",
+    "idea": "Прямой эфир: отвечаю про law",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-07",
+    "niche": "tutor",
+    "idea": "Прямой эфир: отвечаю про tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-09-08",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-09",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-10",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "post"
+  },
+  {
+    "date": "2026-09-11",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-12",
+    "niche": "beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "story"
+  },
+  {
+    "date": "2026-09-13",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-09-14",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-09-15",
+    "niche": "content",
+    "idea": "Карусель: 5 инструментов для content",
+    "type": "post"
+  },
+  {
+    "date": "2026-09-16",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-09-17",
+    "niche": "coding",
+    "idea": "Пост про coding: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-09-18",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-09-19",
+    "niche": "coding",
+    "idea": "Прямой эфир: отвечаю про coding",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-20",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-09-21",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-22",
+    "niche": "auto",
+    "idea": "Рилс: как сделать auto за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-09-23",
+    "niche": "tutor",
+    "idea": "Пост про tutor: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-09-24",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-09-25",
+    "niche": "wb",
+    "idea": "Карусель: 5 инструментов для wb",
+    "type": "story"
+  },
+  {
+    "date": "2026-09-26",
+    "niche": "beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "live"
+  },
+  {
+    "date": "2026-09-27",
     "niche": "content",
     "idea": "Прямой эфир: отвечаю про content",
     "type": "carousel"
   },
   {
-    "date": "2026-12-31",
-    "niche": "coding",
-    "idea": "Сторис: опрос про coding",
+    "date": "2026-09-28",
+    "niche": "wb",
+    "idea": "Карусель: 5 инструментов для wb",
+    "type": "reels"
+  },
+  {
+    "date": "2026-09-29",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
     "type": "carousel"
+  },
+  {
+    "date": "2026-09-30",
+    "niche": "crypto",
+    "idea": "Пост про crypto: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-10-01",
+    "niche": "auto",
+    "idea": "Прямой эфир: отвечаю про auto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-02",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-03",
+    "niche": "coding",
+    "idea": "Пост про coding: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-04",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-10-05",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-06",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-07",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-08",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-10-09",
+    "niche": "fitness",
+    "idea": "Прямой эфир: отвечаю про fitness",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-10",
+    "niche": "fitness",
+    "idea": "Прямой эфир: отвечаю про fitness",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-11",
+    "niche": "fitness",
+    "idea": "Рилс: как сделать fitness за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-10-12",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-10-13",
+    "niche": "beauty",
+    "idea": "Карусель: 5 инструментов для beauty",
+    "type": "post"
+  },
+  {
+    "date": "2026-10-14",
+    "niche": "crypto",
+    "idea": "Сторис: опрос про crypto",
+    "type": "post"
+  },
+  {
+    "date": "2026-10-15",
+    "niche": "wb",
+    "idea": "Прямой эфир: отвечаю про wb",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-10-16",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-17",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "post"
+  },
+  {
+    "date": "2026-10-18",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "post"
+  },
+  {
+    "date": "2026-10-19",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-20",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-10-21",
+    "niche": "crypto",
+    "idea": "Рилс: как сделать crypto за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-22",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "post"
+  },
+  {
+    "date": "2026-10-23",
+    "niche": "auto",
+    "idea": "Рилс: как сделать auto за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-10-24",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-25",
+    "niche": "wb",
+    "idea": "Пост про wb: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-10-26",
+    "niche": "beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "story"
+  },
+  {
+    "date": "2026-10-27",
+    "niche": "barber",
+    "idea": "Карусель: 5 инструментов для barber",
+    "type": "live"
+  },
+  {
+    "date": "2026-10-28",
+    "niche": "beauty",
+    "idea": "Карусель: 5 инструментов для beauty",
+    "type": "reels"
+  },
+  {
+    "date": "2026-10-29",
+    "niche": "barber",
+    "idea": "Пост про barber: топ 3 ошибки",
+    "type": "story"
+  },
+  {
+    "date": "2026-10-30",
+    "niche": "auto",
+    "idea": "Рилс: как сделать auto за 15 сек",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-10-31",
+    "niche": "fitness",
+    "idea": "Пост про fitness: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-11-01",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-11-02",
+    "niche": "crypto",
+    "idea": "Пост про crypto: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-03",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "story"
+  },
+  {
+    "date": "2026-11-04",
+    "niche": "content",
+    "idea": "Рилс: как сделать content за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-05",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "story"
+  },
+  {
+    "date": "2026-11-06",
+    "niche": "crypto",
+    "idea": "Прямой эфир: отвечаю про crypto",
+    "type": "story"
+  },
+  {
+    "date": "2026-11-07",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-11-08",
+    "niche": "cafe",
+    "idea": "Прямой эфир: отвечаю про cafe",
+    "type": "post"
+  },
+  {
+    "date": "2026-11-09",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-10",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-11",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-11-12",
+    "niche": "tutor",
+    "idea": "Сторис: опрос про tutor",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-11-13",
+    "niche": "fitness",
+    "idea": "Пост про fitness: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-14",
+    "niche": "wb",
+    "idea": "Сторис: опрос про wb",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-11-15",
+    "niche": "auto",
+    "idea": "Пост про auto: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-11-16",
+    "niche": "tutor",
+    "idea": "Рилс: как сделать tutor за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-17",
+    "niche": "cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-18",
+    "niche": "beauty",
+    "idea": "Пост про beauty: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-11-19",
+    "niche": "tutor",
+    "idea": "Карусель: 5 инструментов для tutor",
+    "type": "reels"
+  },
+  {
+    "date": "2026-11-20",
+    "niche": "beauty",
+    "idea": "Прямой эфир: отвечаю про beauty",
+    "type": "story"
+  },
+  {
+    "date": "2026-11-21",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-22",
+    "niche": "fitness",
+    "idea": "Пост про fitness: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-23",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-11-24",
+    "niche": "coding",
+    "idea": "Прямой эфир: отвечаю про coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-11-25",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "post"
+  },
+  {
+    "date": "2026-11-26",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-27",
+    "niche": "beauty",
+    "idea": "Прямой эфир: отвечаю про beauty",
+    "type": "post"
+  },
+  {
+    "date": "2026-11-28",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-11-29",
+    "niche": "content",
+    "idea": "Пост про content: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-11-30",
+    "niche": "coding",
+    "idea": "Пост про coding: топ 3 ошибки",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-01",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
+    "type": "post"
+  },
+  {
+    "date": "2026-12-02",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-12-03",
+    "niche": "crypto",
+    "idea": "Карусель: 5 инструментов для crypto",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-04",
+    "niche": "build",
+    "idea": "Сторис: опрос про build",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-12-05",
+    "niche": "cafe",
+    "idea": "Карусель: 5 инструментов для cafe",
+    "type": "story"
+  },
+  {
+    "date": "2026-12-06",
+    "niche": "build",
+    "idea": "Пост про build: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-12-07",
+    "niche": "law",
+    "idea": "Сторис: опрос про law",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-08",
+    "niche": "wb",
+    "idea": "Карусель: 5 инструментов для wb",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-09",
+    "niche": "coding",
+    "idea": "Рилс: как сделать coding за 15 сек",
+    "type": "post"
+  },
+  {
+    "date": "2026-12-10",
+    "niche": "fitness",
+    "idea": "Сторис: опрос про fitness",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-11",
+    "niche": "law",
+    "idea": "Карусель: 5 инструментов для law",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-12",
+    "niche": "crypto",
+    "idea": "Прямой эфир: отвечаю про crypto",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-13",
+    "niche": "tutor",
+    "idea": "Пост про tutor: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-14",
+    "niche": "cafe",
+    "idea": "Пост про cafe: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-12-15",
+    "niche": "content",
+    "idea": "Прямой эфир: отвечаю про content",
+    "type": "story"
+  },
+  {
+    "date": "2026-12-16",
+    "niche": "crypto",
+    "idea": "Рилс: как сделать crypto за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-17",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-12-18",
+    "niche": "beauty",
+    "idea": "Сторис: опрос про beauty",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-19",
+    "niche": "wb",
+    "idea": "Пост про wb: топ 3 ошибки",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-20",
+    "niche": "tutor",
+    "idea": "Прямой эфир: отвечаю про tutor",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-12-21",
+    "niche": "crypto",
+    "idea": "Пост про crypto: топ 3 ошибки",
+    "type": "carousel"
+  },
+  {
+    "date": "2026-12-22",
+    "niche": "wb",
+    "idea": "Рилс: как сделать wb за 15 сек",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-23",
+    "niche": "content",
+    "idea": "Сторис: опрос про content",
+    "type": "live"
+  },
+  {
+    "date": "2026-12-24",
+    "niche": "fitness",
+    "idea": "Карусель: 5 инструментов для fitness",
+    "type": "story"
+  },
+  {
+    "date": "2026-12-25",
+    "niche": "auto",
+    "idea": "Рилс: как сделать auto за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-26",
+    "niche": "crypto",
+    "idea": "Рилс: как сделать crypto за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-12-27",
+    "niche": "cafe",
+    "idea": "Рилс: как сделать cafe за 15 сек",
+    "type": "story"
+  },
+  {
+    "date": "2026-12-28",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "post"
+  },
+  {
+    "date": "2026-12-29",
+    "niche": "build",
+    "idea": "Рилс: как сделать build за 15 сек",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-30",
+    "niche": "coding",
+    "idea": "Карусель: 5 инструментов для coding",
+    "type": "reels"
+  },
+  {
+    "date": "2026-12-31",
+    "niche": "auto",
+    "idea": "Сторис: опрос про auto",
+    "type": "live"
   }
 ]

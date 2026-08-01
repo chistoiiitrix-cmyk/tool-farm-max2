@@ -3,7 +3,7 @@
     "week_id": "W2026W31_wb",
     "year": 2026,
     "week": 31,
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "niche": {
       "id": "wb",
       "name": "WB/Ozon продавцы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W31_trending_TREND",
     "year": 2026,
     "week": 31,
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "the session you cannot take with you",
-        "google fixed more chrome bugs in june than over the past two",
-        "jep 401: value objects (preview) merged to openjdk master",
-        "deepseek-v4-flash update",
-        "show hn: gander, an android file viewer that asks for no per"
+        "ten advances in mathematics and theoretical computer science",
+        "elevators",
+        "flint: a visualization language for the ai era",
+        "ten ways nas is getting enshitified",
+        "how to exist"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам the session you cannot take with you, google fixed more chrome bugs in june than over the past two, jep 401: value objects (preview) merged to openjdk master. Авто-сгенерировано по трендам 2026-07-31. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам ten advances in mathematics and theoretical computer science, elevators, flint: a visualization language for the ai era. Авто-сгенерировано по трендам 2026-08-01. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
