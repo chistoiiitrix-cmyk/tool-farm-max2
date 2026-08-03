@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 17355₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 28556₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'

@@ -1,1 +1,1 @@
-VIDEO FAIL проверка ИНН убивает твой фитнес — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в кодинг которая стоит 82593₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
