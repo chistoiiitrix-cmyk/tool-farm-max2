@@ -1,0 +1,1 @@
+VIDEO FAIL Топ 5 инструментов для стройка в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'

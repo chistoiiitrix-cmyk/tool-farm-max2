@@ -1,1 +1,0 @@
-VIDEO FAIL Ошибка в фитнес которая стоит 95304₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
