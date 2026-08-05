@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про счетчик слов в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню рилс в кодинг module 'PIL.Image' has no attribute 'ANTIALIAS'
