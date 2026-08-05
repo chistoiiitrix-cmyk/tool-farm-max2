@@ -3,7 +3,7 @@
     "week_id": "W2026W32_crypto",
     "year": 2026,
     "week": 32,
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "niche": {
       "id": "crypto",
       "name": "Крипто боты и каналы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W32_trending_TREND",
     "year": 2026,
     "week": 32,
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "ffmpeg 9.0",
-        "deepseek v4 flash on a single amd mi300x",
-        "bending spoons makes first post-ipo acquisition with $1.3b a",
-        "llms reward expertise",
-        "harness engineering for self-improvement"
+        "stateless mcp has recaptured my interest",
+        "\"gravity is worth asking about.\"",
+        "the golden age of british ice cream",
+        "pi's minimalism is its advantage",
+        "the pneumatics of hero of alexandria"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам ffmpeg 9.0, deepseek v4 flash on a single amd mi300x, bending spoons makes first post-ipo acquisition with $1.3b a. Авто-сгенерировано по трендам 2026-08-04. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам stateless mcp has recaptured my interest, \"gravity is worth asking about.\", the golden age of british ice cream. Авто-сгенерировано по трендам 2026-08-05. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]

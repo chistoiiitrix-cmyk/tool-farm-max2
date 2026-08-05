@@ -1,1 +1,1 @@
-VIDEO FAIL рилс убивает твой стройка — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про счетчик слов в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
