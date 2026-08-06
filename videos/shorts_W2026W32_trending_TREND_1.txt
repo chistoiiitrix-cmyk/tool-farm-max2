@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню рилс в кодинг module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 96161₽ чтобы узнать проверка ИНН module 'PIL.Image' has no attribute 'ANTIALIAS'
