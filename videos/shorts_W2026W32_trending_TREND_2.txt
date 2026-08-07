@@ -1,1 +1,1 @@
-VIDEO FAIL НДС убивает твой репетитор — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про рилс в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'

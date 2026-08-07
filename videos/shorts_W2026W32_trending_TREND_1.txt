@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 40038₽ чтобы узнать транслит module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в юрист которая стоит 25199₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
