@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню рилс в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL проверка ИНН убивает твой кафе — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
