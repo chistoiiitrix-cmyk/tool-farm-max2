@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для барбер в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню транслит в кодинг module 'PIL.Image' has no attribute 'ANTIALIAS'
