@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в репетитор которая стоит 52865₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню НДС в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'

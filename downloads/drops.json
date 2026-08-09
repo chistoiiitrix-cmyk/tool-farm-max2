@@ -3,7 +3,7 @@
     "week_id": "W2026W32_crypto",
     "year": 2026,
     "week": 32,
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "niche": {
       "id": "crypto",
       "name": "Крипто боты и каналы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W32_trending_TREND",
     "year": 2026,
     "week": 32,
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "hardware backdoors in some x86 cpus",
-        "a physicist rigged his pet hamster’s wheel to upload to stra",
-        "deepseek v4 flash 0731",
-        "u.s. department of energy launches the genesis open models i",
-        "what happens if an entire class of workers loses faith in th"
+        "the original url for this prediction will no longer be avail",
+        "my server is a phone now",
+        "improving heuristics for a* pathfinding",
+        "melatonin impairs morning cognition in healthy young adults",
+        "shopify replaced redis with mysql for inventory reservations"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам hardware backdoors in some x86 cpus, a physicist rigged his pet hamster’s wheel to upload to stra, deepseek v4 flash 0731. Авто-сгенерировано по трендам 2026-08-08. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам the original url for this prediction will no longer be avail, my server is a phone now, improving heuristics for a* pathfinding. Авто-сгенерировано по трендам 2026-08-09. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
