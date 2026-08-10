@@ -1,0 +1,1 @@
+VIDEO FAIL За 15 сек объясню проверка ИНН в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
