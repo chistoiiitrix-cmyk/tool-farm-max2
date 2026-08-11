@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 39200₽ чтобы узнать счетчик слов module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета фитнес о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
