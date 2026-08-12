@@ -3,7 +3,7 @@
     "week_id": "W2026W33_barber",
     "year": 2026,
     "week": 33,
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W33_trending_TREND",
     "year": 2026,
     "week": 33,
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "h3-metal – native minimax-h3 inference for apple silicon",
-        "as ai eats the web, the internet’s collective memory is disa",
-        "show hn: mcptoon – token-efficient mcp cli client",
-        "chicken scheme 6.0",
-        "lfm2.5 2.6b model competitive with 4x larger models"
+        "the hardest working font in manhattan (2025)",
+        "compression is prediction",
+        "llama.cpp",
+        "worldclaw agentic 3d open-world generation at scale",
+        "the lifesaving secret hidden inside a horseshoe crab's blue "
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам h3-metal – native minimax-h3 inference for apple silicon, as ai eats the web, the internet’s collective memory is disa, show hn: mcptoon – token-efficient mcp cli client. Авто-сгенерировано по трендам 2026-08-11. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам the hardest working font in manhattan (2025), compression is prediction, llama.cpp. Авто-сгенерировано по трендам 2026-08-12. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
