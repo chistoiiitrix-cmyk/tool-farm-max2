@@ -1,1 +1,1 @@
-VIDEO FAIL Как я сделал генератор лого за 1 день без вложений module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню НДС в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
