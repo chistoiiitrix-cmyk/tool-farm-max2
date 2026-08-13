@@ -3,7 +3,7 @@
     "week_id": "W2026W33_barber",
     "year": 2026,
     "week": 33,
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W33_trending_TREND",
     "year": 2026,
     "week": 33,
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "linkedin cringebot 3000",
-        "the hardest working font in manhattan (2025)",
-        "compression is prediction",
-        "worms: the future of yesterday's worms today",
-        "llama.cpp"
+        "deepseek v4 pro 0813",
+        "we tracked down the 16-year-old wal-reset sqlite bug",
+        "mushroom behind 'tiny people' hallucinations identified",
+        "delta",
+        "qwen3.8-2.4t"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам linkedin cringebot 3000, the hardest working font in manhattan (2025), compression is prediction. Авто-сгенерировано по трендам 2026-08-12. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам deepseek v4 pro 0813, we tracked down the 16-year-old wal-reset sqlite bug, mushroom behind 'tiny people' hallucinations identified. Авто-сгенерировано по трендам 2026-08-13. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
