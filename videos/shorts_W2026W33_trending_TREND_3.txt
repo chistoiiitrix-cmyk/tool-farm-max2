@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в стройка которая стоит 41205₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Как я сделал рилс за 1 день без вложений module 'PIL.Image' has no attribute 'ANTIALIAS'
