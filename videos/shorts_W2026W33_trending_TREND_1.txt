@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про хуки в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Как я сделал НДС за 1 день без вложений module 'PIL.Image' has no attribute 'ANTIALIAS'
