@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню проверка ИНН в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 31103₽ чтобы узнать сторис module 'PIL.Image' has no attribute 'ANTIALIAS'
