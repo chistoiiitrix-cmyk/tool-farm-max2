@@ -1,1 +1,0 @@
-VIDEO FAIL За 15 сек объясню проверка ИНН в кодинг module 'PIL.Image' has no attribute 'ANTIALIAS'

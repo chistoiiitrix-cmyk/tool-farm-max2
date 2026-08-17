@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W33_barber",
+    "week_id": "W2026W34_fitness",
     "year": 2026,
-    "week": 33,
-    "date": "2026-08-16",
+    "week": 34,
+    "date": "2026-08-17",
     "niche": {
-      "id": "barber",
-      "name": "Барбершопы и салоны",
+      "id": "fitness",
+      "name": "Фитнес и спорт",
       "keywords": [
-        "стрижка",
-        "запись",
-        "прайс"
+        "тренировка",
+        "абонемент",
+        "челлендж"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W33_barber/logo-drop-50-barber.zip",
-      "prompts": "weekly/W2026W33_barber/prompts-drop-100-barber.zip",
-      "templates": "weekly/W2026W33_barber/templates-drop-20-barber.zip",
-      "bundle": "weekly/W2026W33_barber/BUNDLE-W2026W33_barber.zip"
+      "logos": "weekly/W2026W34_fitness/logo-drop-50-fitness.zip",
+      "prompts": "weekly/W2026W34_fitness/prompts-drop-100-fitness.zip",
+      "templates": "weekly/W2026W34_fitness/templates-drop-20-fitness.zip",
+      "bundle": "weekly/W2026W34_fitness/BUNDLE-W2026W34_fitness.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Барбершопы и салоны: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Фитнес и спорт: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W33_trending_TREND",
+    "week_id": "W2026W34_trending_TREND",
     "year": 2026,
-    "week": 33,
-    "date": "2026-08-16",
+    "week": 34,
+    "date": "2026-08-17",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "asus bike booster",
-        "what happens when an llm never sees material beyond fifth gr",
-        "asynchronous i/o in duckdb: work, thread, work",
-        "semaglutide linked to lower predicted dementia risk",
-        "patterns and problems in emerging multi-agent systems"
+        "qwen 3.8 27b is excellent, but it defaults to overthinking t",
+        "the life and death of direct file [pdf]",
+        "agi-64 brings sierra adventures to the commodore 64",
+        "a third world engineer responds to “risc-v: they should have",
+        "claude: system prompts"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W33_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W33_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W33_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W33_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W33_trending_TREND/BUNDLE-W2026W33_trending_TREND.zip"
+      "logos": "weekly/W2026W34_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W34_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W34_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W34_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W34_trending_TREND/BUNDLE-W2026W34_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам asus bike booster, what happens when an llm never sees material beyond fifth gr, asynchronous i/o in duckdb: work, thread, work. Авто-сгенерировано по трендам 2026-08-16. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам qwen 3.8 27b is excellent, but it defaults to overthinking t, the life and death of direct file [pdf], agi-64 brings sierra adventures to the commodore 64. Авто-сгенерировано по трендам 2026-08-17. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
