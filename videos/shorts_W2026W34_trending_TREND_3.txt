@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про счетчик слов в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Топ 5 инструментов для барбер в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
