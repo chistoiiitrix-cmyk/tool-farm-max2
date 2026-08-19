@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета юрист о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в авто которая стоит 24853₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

@@ -3,7 +3,7 @@
     "week_id": "W2026W34_fitness",
     "year": 2026,
     "week": 34,
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "niche": {
       "id": "fitness",
       "name": "Фитнес и спорт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W34_trending_TREND",
     "year": 2026,
     "week": 34,
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "how bluesky draws its logo on screenshots",
-        "gpt-5.6 sol pricing cut by 50%",
-        "quake shareware, a cd-rom just a little too full",
-        "fairphone 6 and postmarketos working main camera",
-        "a preview of duckdb v2.0"
+        "meta's blockbuster trial draws parallels to big tobacco",
+        "bun 1.4 rust rewrite is not looking good",
+        "openlogi",
+        "palomar: a registry of lean verified mathematics",
+        "supersonic trebuchet [video]"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам how bluesky draws its logo on screenshots, gpt-5.6 sol pricing cut by 50%, quake shareware, a cd-rom just a little too full. Авто-сгенерировано по трендам 2026-08-18. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам meta's blockbuster trial draws parallels to big tobacco, bun 1.4 rust rewrite is not looking good, openlogi. Авто-сгенерировано по трендам 2026-08-19. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]

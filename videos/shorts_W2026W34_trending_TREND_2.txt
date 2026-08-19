@@ -1,1 +1,1 @@
-VIDEO FAIL генератор лого убивает твой репетитор — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в юрист которая стоит 37573₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
