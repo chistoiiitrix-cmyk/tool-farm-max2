@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в авто которая стоит 24853₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про сторис в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
