@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про рилс в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 58022₽ чтобы узнать удаление дублей module 'PIL.Image' has no attribute 'ANTIALIAS'
