@@ -3,7 +3,7 @@
     "week_id": "W2026W34_fitness",
     "year": 2026,
     "week": 34,
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "niche": {
       "id": "fitness",
       "name": "Фитнес и спорт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W34_trending_TREND",
     "year": 2026,
     "week": 34,
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "openlogi",
-        "where human sleep went wrong",
-        "cerebras cs-4",
-        "palomar: a registry of lean verified mathematics",
-        "supersonic trebuchet [video]"
+        "why microsoft entertainment pack had a sticker announcing th",
+        "asana cleared 5 years of engineering work in 2 weeks with co",
+        "openrouter is joining stripe",
+        "turns are better than radians (2022)",
+        "go 1.27"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам openlogi, where human sleep went wrong, cerebras cs-4. Авто-сгенерировано по трендам 2026-08-19. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам why microsoft entertainment pack had a sticker announcing th, asana cleared 5 years of engineering work in 2 weeks with co, openrouter is joining stripe. Авто-сгенерировано по трендам 2026-08-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]

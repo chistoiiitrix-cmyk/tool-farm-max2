@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про хуки в стройка module 'PIL.Image' has no attribute 'ANTIALIAS'

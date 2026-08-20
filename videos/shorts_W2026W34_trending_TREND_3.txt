@@ -1,1 +1,1 @@
-VIDEO FAIL Как я сделал генератор лого за 1 день без вложений module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 93483₽ чтобы узнать счетчик слов module 'PIL.Image' has no attribute 'ANTIALIAS'
