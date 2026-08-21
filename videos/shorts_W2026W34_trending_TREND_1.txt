@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для крипто в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 95902₽ чтобы узнать транслит module 'PIL.Image' has no attribute 'ANTIALIAS'
