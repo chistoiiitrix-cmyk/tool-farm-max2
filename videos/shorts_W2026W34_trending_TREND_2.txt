@@ -1,1 +1,1 @@
-VIDEO FAIL сторис убивает твой юрист — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про счетчик слов в WB module 'PIL.Image' has no attribute 'ANTIALIAS'

@@ -3,7 +3,7 @@
     "week_id": "W2026W34_fitness",
     "year": 2026,
     "week": 34,
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "niche": {
       "id": "fitness",
       "name": "Фитнес и спорт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W34_trending_TREND",
     "year": 2026,
     "week": 34,
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "the lost treasure of sid meier's pirates",
-        "we rebuilt the linux microvm stack on apple silicon",
-        "the august 17 outage",
-        "i like 'em thick: an apology to my english teachers",
-        "html can do that"
+        "there's no reason for software to be slow anymore",
+        "initial focus for our partnership with motorola is a regular",
+        "felony bench",
+        "gpt 5.6 sol 20% price reduction",
+        "rust glancer: rust lsp using 100x less ram"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам the lost treasure of sid meier's pirates, we rebuilt the linux microvm stack on apple silicon, the august 17 outage. Авто-сгенерировано по трендам 2026-08-21. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам there's no reason for software to be slow anymore, initial focus for our partnership with motorola is a regular, felony bench. Авто-сгенерировано по трендам 2026-08-22. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
