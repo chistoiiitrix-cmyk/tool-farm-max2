@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в бьюти которая стоит 85731₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про сторис в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
