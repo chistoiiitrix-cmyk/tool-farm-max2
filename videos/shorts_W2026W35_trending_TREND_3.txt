@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню сторис в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про хуки в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
