@@ -1,1 +1,0 @@
-VIDEO FAIL 3 секрета репетитор о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'

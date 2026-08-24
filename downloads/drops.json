@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W34_fitness",
+    "week_id": "W2026W35_auto",
     "year": 2026,
-    "week": 34,
-    "date": "2026-08-23",
+    "week": 35,
+    "date": "2026-08-24",
     "niche": {
-      "id": "fitness",
-      "name": "Фитнес и спорт",
+      "id": "auto",
+      "name": "Автосервисы",
       "keywords": [
-        "тренировка",
-        "абонемент",
-        "челлендж"
+        "диагностика",
+        "ТО",
+        "запчасти"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W34_fitness/logo-drop-50-fitness.zip",
-      "prompts": "weekly/W2026W34_fitness/prompts-drop-100-fitness.zip",
-      "templates": "weekly/W2026W34_fitness/templates-drop-20-fitness.zip",
-      "bundle": "weekly/W2026W34_fitness/BUNDLE-W2026W34_fitness.zip"
+      "logos": "weekly/W2026W35_auto/logo-drop-50-auto.zip",
+      "prompts": "weekly/W2026W35_auto/prompts-drop-100-auto.zip",
+      "templates": "weekly/W2026W35_auto/templates-drop-20-auto.zip",
+      "bundle": "weekly/W2026W35_auto/BUNDLE-W2026W35_auto.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Фитнес и спорт: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Автосервисы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W34_trending_TREND",
+    "week_id": "W2026W35_trending_TREND",
     "year": 2026,
-    "week": 34,
-    "date": "2026-08-23",
+    "week": 35,
+    "date": "2026-08-24",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "the end of an athlon",
-        "jit compiling code in 5μs",
-        "to become a better writer, read as much as you can",
-        "martypc is a cross-platform emulator of early pcs written in",
-        "i dream of quieter computing"
+        "everything i own, owned",
+        "anthropic's best ai model struggles to attract users as chea",
+        "how i find problems to solve as a staff engineer",
+        "my agent.md to improve llm-assisted code quality",
+        "google workspace thinks my domain is an email provider (2025"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W34_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W34_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W34_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W34_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W34_trending_TREND/BUNDLE-W2026W34_trending_TREND.zip"
+      "logos": "weekly/W2026W35_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W35_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W35_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W35_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W35_trending_TREND/BUNDLE-W2026W35_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам the end of an athlon, jit compiling code in 5μs, to become a better writer, read as much as you can. Авто-сгенерировано по трендам 2026-08-23. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам everything i own, owned, anthropic's best ai model struggles to attract users as chea, how i find problems to solve as a staff engineer. Авто-сгенерировано по трендам 2026-08-24. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
