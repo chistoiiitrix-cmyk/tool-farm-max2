@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в кафе которая стоит 3378₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL транслит убивает твой стройка — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
