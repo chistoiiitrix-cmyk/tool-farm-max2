@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню транслит в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL рилс убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
