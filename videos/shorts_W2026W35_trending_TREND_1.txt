@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про рилс в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню НДС в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
