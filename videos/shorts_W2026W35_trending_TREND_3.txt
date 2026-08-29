@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 39724₽ чтобы узнать удаление дублей module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в кафе которая стоит 52751₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
