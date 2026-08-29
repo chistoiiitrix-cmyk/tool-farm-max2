@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в кафе которая стоит 52751₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL удаление дублей убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'

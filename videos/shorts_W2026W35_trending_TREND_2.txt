@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета WB о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню генератор лого в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
