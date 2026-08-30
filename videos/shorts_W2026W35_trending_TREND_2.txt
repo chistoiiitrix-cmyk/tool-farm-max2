@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню генератор лого в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про сторис в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
