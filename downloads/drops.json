@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W35_auto",
+    "week_id": "W2026W36_law",
     "year": 2026,
-    "week": 35,
-    "date": "2026-08-30",
+    "week": 36,
+    "date": "2026-08-31",
     "niche": {
-      "id": "auto",
-      "name": "Автосервисы",
+      "id": "law",
+      "name": "Юристы",
       "keywords": [
-        "диагностика",
-        "ТО",
-        "запчасти"
+        "договор",
+        "иск",
+        "консультация"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W35_auto/logo-drop-50-auto.zip",
-      "prompts": "weekly/W2026W35_auto/prompts-drop-100-auto.zip",
-      "templates": "weekly/W2026W35_auto/templates-drop-20-auto.zip",
-      "bundle": "weekly/W2026W35_auto/BUNDLE-W2026W35_auto.zip"
+      "logos": "weekly/W2026W36_law/logo-drop-50-law.zip",
+      "prompts": "weekly/W2026W36_law/prompts-drop-100-law.zip",
+      "templates": "weekly/W2026W36_law/templates-drop-20-law.zip",
+      "bundle": "weekly/W2026W36_law/BUNDLE-W2026W36_law.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Автосервисы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Юристы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W35_trending_TREND",
+    "week_id": "W2026W36_trending_TREND",
     "year": 2026,
-    "week": 35,
-    "date": "2026-08-30",
+    "week": 36,
+    "date": "2026-08-31",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "hacking ikea furniture",
-        "arbitrary code execution in qubesos via copy-to-vm error rep",
-        "longest straight line paths on water or land on the earth (2",
-        "casey muratori – the root of the root of all evil – bsc 2026",
-        "an implementation of conway's game of life for windows 3.1x "
+        "openshot 4.0: record, edit, and color like never before",
+        "“i just chose words carefully”",
+        "breaking claude code opus 5 auto mode",
+        "creepy crawlies",
+        "agent memory as a file format"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W35_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W35_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W35_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W35_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W35_trending_TREND/BUNDLE-W2026W35_trending_TREND.zip"
+      "logos": "weekly/W2026W36_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W36_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W36_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W36_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W36_trending_TREND/BUNDLE-W2026W36_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам hacking ikea furniture, arbitrary code execution in qubesos via copy-to-vm error rep, longest straight line paths on water or land on the earth (2. Авто-сгенерировано по трендам 2026-08-30. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам openshot 4.0: record, edit, and color like never before, “i just chose words carefully”, breaking claude code opus 5 auto mode. Авто-сгенерировано по трендам 2026-08-31. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
