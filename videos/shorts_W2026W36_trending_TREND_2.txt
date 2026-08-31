@@ -1,1 +1,1 @@
-VIDEO FAIL хуки убивает твой WB — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню проверка ИНН в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'

@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про транслит в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в авто которая стоит 94723₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

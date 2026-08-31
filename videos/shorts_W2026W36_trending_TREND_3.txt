@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню транслит в контент module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню рилс в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
