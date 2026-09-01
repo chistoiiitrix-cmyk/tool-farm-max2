@@ -3,7 +3,7 @@
     "week_id": "W2026W36_law",
     "year": 2026,
     "week": 36,
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "niche": {
       "id": "law",
       "name": "Юристы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W36_trending_TREND",
     "year": 2026,
     "week": 36,
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "playa phone",
-        "openshot 4.0: record, edit, and color like never before",
-        "apache iggy, a message streaming platform in rust, graduates",
-        "chatgpt work tool and skill reference",
-        "launch hn: almanac (yc s26) – ai that knows your company"
+        "ankidroid: google play no longer allowing open collective do",
+        "gpu world",
+        "fastpotify",
+        "44% on arc-agi-1 in 67 cents",
+        "american airlines' legendary mechanic passes away at 100 aft"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам playa phone, openshot 4.0: record, edit, and color like never before, apache iggy, a message streaming platform in rust, graduates. Авто-сгенерировано по трендам 2026-08-31. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам ankidroid: google play no longer allowing open collective do, gpu world, fastpotify. Авто-сгенерировано по трендам 2026-09-01. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
