@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню счетчик слов в стройка module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню рилс в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
