@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в WB которая стоит 99783₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

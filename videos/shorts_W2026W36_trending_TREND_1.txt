@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню рилс в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета контент о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
