@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL хуки убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
