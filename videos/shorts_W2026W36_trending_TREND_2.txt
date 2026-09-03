@@ -1,1 +1,1 @@
-VIDEO FAIL хуки убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в барбер которая стоит 75668₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
