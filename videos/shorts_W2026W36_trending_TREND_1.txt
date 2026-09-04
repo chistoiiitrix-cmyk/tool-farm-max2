@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в контент которая стоит 16582₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в кафе которая стоит 64755₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
