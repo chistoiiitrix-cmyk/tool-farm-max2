@@ -1,1 +1,1 @@
-VIDEO FAIL Как я сделал хуки за 1 день без вложений module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 55523₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'
