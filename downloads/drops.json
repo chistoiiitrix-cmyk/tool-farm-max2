@@ -33,10 +33,10 @@
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "ai handles incidents, engineers lose touch with their system",
         "actively exploited sandbox rce in all chromium versions",
         "discovery of a new openai agent message board",
         "formalizing fermat's last theorem",
+        "ai handles incidents, engineers lose touch with their system",
         "nitter has more working instances than before the takedowns"
       ]
     },
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам ai handles incidents, engineers lose touch with their system, actively exploited sandbox rce in all chromium versions, discovery of a new openai agent message board. Авто-сгенерировано по трендам 2026-09-05. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам actively exploited sandbox rce in all chromium versions, discovery of a new openai agent message board, formalizing fermat's last theorem. Авто-сгенерировано по трендам 2026-09-05. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
