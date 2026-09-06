@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета стройка о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню хуки в контент module 'PIL.Image' has no attribute 'ANTIALIAS'
