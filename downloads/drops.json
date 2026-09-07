@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W36_law",
+    "week_id": "W2026W37_build",
     "year": 2026,
-    "week": 36,
-    "date": "2026-09-06",
+    "week": 37,
+    "date": "2026-09-07",
     "niche": {
-      "id": "law",
-      "name": "Юристы",
+      "id": "build",
+      "name": "Стройка и ремонт",
       "keywords": [
-        "договор",
-        "иск",
-        "консультация"
+        "смета",
+        "отделка",
+        "объект"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W36_law/logo-drop-50-law.zip",
-      "prompts": "weekly/W2026W36_law/prompts-drop-100-law.zip",
-      "templates": "weekly/W2026W36_law/templates-drop-20-law.zip",
-      "bundle": "weekly/W2026W36_law/BUNDLE-W2026W36_law.zip"
+      "logos": "weekly/W2026W37_build/logo-drop-50-build.zip",
+      "prompts": "weekly/W2026W37_build/prompts-drop-100-build.zip",
+      "templates": "weekly/W2026W37_build/templates-drop-20-build.zip",
+      "bundle": "weekly/W2026W37_build/BUNDLE-W2026W37_build.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Юристы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Стройка и ремонт: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W36_trending_TREND",
+    "week_id": "W2026W37_trending_TREND",
     "year": 2026,
-    "week": 36,
-    "date": "2026-09-06",
+    "week": 37,
+    "date": "2026-09-07",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "isar aerospace reaches orbit and deploys payloads on second ",
-        "i changed my license",
-        "cloud in a bottle: making self-hosting accessible to everyon",
-        "m-disc – dvd/blu-ray compatible discs that may last up to 10",
-        "the revolt of the reader"
+        "keep our servers running",
+        "caltech mathathon – first hackathon ever devoted to research",
+        "live map of public transport in belgium",
+        "speculative decoding in vllm on amd gpus",
+        "impedance matching"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W36_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W36_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W36_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W36_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W36_trending_TREND/BUNDLE-W2026W36_trending_TREND.zip"
+      "logos": "weekly/W2026W37_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W37_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W37_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W37_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W37_trending_TREND/BUNDLE-W2026W37_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам isar aerospace reaches orbit and deploys payloads on second , i changed my license, cloud in a bottle: making self-hosting accessible to everyon. Авто-сгенерировано по трендам 2026-09-06. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам keep our servers running, caltech mathathon – first hackathon ever devoted to research, live map of public transport in belgium. Авто-сгенерировано по трендам 2026-09-07. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
