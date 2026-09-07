@@ -1,1 +1,1 @@
-VIDEO FAIL удаление дублей убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета контент о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
