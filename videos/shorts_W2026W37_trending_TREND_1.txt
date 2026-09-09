@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета бьюти о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 54866₽ чтобы узнать хуки module 'PIL.Image' has no attribute 'ANTIALIAS'

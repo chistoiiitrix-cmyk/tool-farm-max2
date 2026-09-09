@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в барбер которая стоит 91990₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета крипто о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
