@@ -1,1 +1,1 @@
-VIDEO FAIL рилс убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 11662₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'

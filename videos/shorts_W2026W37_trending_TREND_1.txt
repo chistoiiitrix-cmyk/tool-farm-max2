@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 54866₽ чтобы узнать хуки module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про генератор лого в контент module 'PIL.Image' has no attribute 'ANTIALIAS'
