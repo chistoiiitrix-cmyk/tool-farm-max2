@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета стройка о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про НДС в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
