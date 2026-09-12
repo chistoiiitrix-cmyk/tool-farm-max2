@@ -3,7 +3,7 @@
     "week_id": "W2026W37_build",
     "year": 2026,
     "week": 37,
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "niche": {
       "id": "build",
       "name": "Стройка и ремонт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W37_trending_TREND",
     "year": 2026,
     "week": 37,
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "the waymo effect: how ai is quietly making research less col",
-        "rtk reports token savings, but our cost benchmarks disagree",
-        "cherenkov radiation - traveling faster than light",
-        "so you want to use openrouter?",
-        "shopify is moving from react native back to swift and kotlin"
+        "retrospectively reverse-engineering apple's neural engine",
+        "ikea made a mod for skyrim [video]",
+        "a misalignment of ai in mathematics",
+        "i spent $220 on google app ads and 60% of the installs were ",
+        "navier-stokes announcement"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам the waymo effect: how ai is quietly making research less col, rtk reports token savings, but our cost benchmarks disagree, cherenkov radiation - traveling faster than light. Авто-сгенерировано по трендам 2026-09-11. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам retrospectively reverse-engineering apple's neural engine, ikea made a mod for skyrim [video], a misalignment of ai in mathematics. Авто-сгенерировано по трендам 2026-09-12. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
