@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 47827₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Топ 5 инструментов для контент в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
