@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W37_build",
+    "week_id": "W2026W38_beauty",
     "year": 2026,
-    "week": 37,
-    "date": "2026-09-13",
+    "week": 38,
+    "date": "2026-09-14",
     "niche": {
-      "id": "build",
-      "name": "Стройка и ремонт",
+      "id": "beauty",
+      "name": "Бьюти сфера",
       "keywords": [
-        "смета",
-        "отделка",
-        "объект"
+        "маникюр",
+        "ресницы",
+        "уход"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W37_build/logo-drop-50-build.zip",
-      "prompts": "weekly/W2026W37_build/prompts-drop-100-build.zip",
-      "templates": "weekly/W2026W37_build/templates-drop-20-build.zip",
-      "bundle": "weekly/W2026W37_build/BUNDLE-W2026W37_build.zip"
+      "logos": "weekly/W2026W38_beauty/logo-drop-50-beauty.zip",
+      "prompts": "weekly/W2026W38_beauty/prompts-drop-100-beauty.zip",
+      "templates": "weekly/W2026W38_beauty/templates-drop-20-beauty.zip",
+      "bundle": "weekly/W2026W38_beauty/BUNDLE-W2026W38_beauty.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Стройка и ремонт: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Бьюти сфера: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W37_trending_TREND",
+    "week_id": "W2026W38_trending_TREND",
     "year": 2026,
-    "week": 37,
-    "date": "2026-09-13",
+    "week": 38,
+    "date": "2026-09-14",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "jetkvm mini",
-        "'fingerprints' inside the sun could reveal if it once swallo",
-        "why are ai agents lying, cheating and coordinating?",
-        "tailtalk: a modern async user space appletalk stack with rus",
-        "make your first edit to openstreetmap"
+        "eurobirdportal – live bird movements across europe",
+        "fable 5.1 solves the cyphral distich, a 370-year-old cipher",
+        "a 386 pc for your rp2350",
+        "spaceships (reverse asteroid)",
+        "registration without a phone number on signal will use zero-"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W37_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W37_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W37_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W37_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W37_trending_TREND/BUNDLE-W2026W37_trending_TREND.zip"
+      "logos": "weekly/W2026W38_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W38_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W38_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W38_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W38_trending_TREND/BUNDLE-W2026W38_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам jetkvm mini, 'fingerprints' inside the sun could reveal if it once swallo, why are ai agents lying, cheating and coordinating?. Авто-сгенерировано по трендам 2026-09-13. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам eurobirdportal – live bird movements across europe, fable 5.1 solves the cyphral distich, a 370-year-old cipher, a 386 pc for your rp2350. Авто-сгенерировано по трендам 2026-09-14. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
