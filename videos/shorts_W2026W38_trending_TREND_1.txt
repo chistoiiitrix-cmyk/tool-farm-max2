@@ -1,1 +1,1 @@
-VIDEO FAIL НДС убивает твой бьюти — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL НДС убивает твой кафе — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
