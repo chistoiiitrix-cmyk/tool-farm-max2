@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню сторис в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню транслит в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'

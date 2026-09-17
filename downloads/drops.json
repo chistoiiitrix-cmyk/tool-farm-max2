@@ -3,7 +3,7 @@
     "week_id": "W2026W38_beauty",
     "year": 2026,
     "week": 38,
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "niche": {
       "id": "beauty",
       "name": "Бьюти сфера",
@@ -28,16 +28,16 @@
     "week_id": "W2026W38_trending_TREND",
     "year": 2026,
     "week": 38,
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "the google play app review process now regularly takes longe",
-        "eu chief opens door for canada to become 'associate member'",
-        "mistral x mozilla: private, multilingual ai browsing",
-        "salesforce global outage",
-        "introducing system one models and jev"
+        "one year of sponsored servo development",
+        "glm built its own inference infrastructure",
+        "nvidia announces native gpu programming in rust",
+        "keys not included: recovering the signing keys for us driver",
+        "my temporary php fix from 2014 has nearly 20m installs. toda"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам the google play app review process now regularly takes longe, eu chief opens door for canada to become 'associate member', mistral x mozilla: private, multilingual ai browsing. Авто-сгенерировано по трендам 2026-09-16. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам one year of sponsored servo development, glm built its own inference infrastructure, nvidia announces native gpu programming in rust. Авто-сгенерировано по трендам 2026-09-17. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
