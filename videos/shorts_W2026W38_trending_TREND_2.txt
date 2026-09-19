@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в авто которая стоит 22845₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про НДС в фитнес module 'PIL.Image' has no attribute 'ANTIALIAS'
