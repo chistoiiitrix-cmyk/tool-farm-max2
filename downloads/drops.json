@@ -3,7 +3,7 @@
     "week_id": "W2026W38_beauty",
     "year": 2026,
     "week": 38,
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "niche": {
       "id": "beauty",
       "name": "Бьюти сфера",
@@ -28,16 +28,16 @@
     "week_id": "W2026W38_trending_TREND",
     "year": 2026,
     "week": 38,
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "human brain is two separate organs, stanford medicine-led re",
-        "ai-generated posters don’t have to be horrible",
-        "“the secret life of circuits” is here",
-        "laya the open source version of jev",
-        "gpt-6 astra solves a wwi german radio cipher"
+        "exfiltrate your weights",
+        "weeping whales: stillborn humpback whale grieving documented",
+        "step 5 preview: advancing the pareto frontier",
+        "english: a vs. an",
+        "when the fm band goes transatlantic"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам human brain is two separate organs, stanford medicine-led re, ai-generated posters don’t have to be horrible, “the secret life of circuits” is here. Авто-сгенерировано по трендам 2026-09-19. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам exfiltrate your weights, weeping whales: stillborn humpback whale grieving documented, step 5 preview: advancing the pareto frontier. Авто-сгенерировано по трендам 2026-09-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
