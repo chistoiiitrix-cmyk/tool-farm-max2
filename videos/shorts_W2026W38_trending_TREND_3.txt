@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про НДС в контент module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL счетчик слов убивает твой стройка — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
