@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про счетчик слов в барбер module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 46095₽ чтобы узнать НДС module 'PIL.Image' has no attribute 'ANTIALIAS'
