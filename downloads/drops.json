@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W38_beauty",
+    "week_id": "W2026W39_tutor",
     "year": 2026,
-    "week": 38,
-    "date": "2026-09-20",
+    "week": 39,
+    "date": "2026-09-21",
     "niche": {
-      "id": "beauty",
-      "name": "Бьюти сфера",
+      "id": "tutor",
+      "name": "Репетиторы",
       "keywords": [
-        "маникюр",
-        "ресницы",
-        "уход"
+        "урок",
+        "курс",
+        "домашка"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W38_beauty/logo-drop-50-beauty.zip",
-      "prompts": "weekly/W2026W38_beauty/prompts-drop-100-beauty.zip",
-      "templates": "weekly/W2026W38_beauty/templates-drop-20-beauty.zip",
-      "bundle": "weekly/W2026W38_beauty/BUNDLE-W2026W38_beauty.zip"
+      "logos": "weekly/W2026W39_tutor/logo-drop-50-tutor.zip",
+      "prompts": "weekly/W2026W39_tutor/prompts-drop-100-tutor.zip",
+      "templates": "weekly/W2026W39_tutor/templates-drop-20-tutor.zip",
+      "bundle": "weekly/W2026W39_tutor/BUNDLE-W2026W39_tutor.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Бьюти сфера: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Репетиторы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W38_trending_TREND",
+    "week_id": "W2026W39_trending_TREND",
     "year": 2026,
-    "week": 38,
-    "date": "2026-09-20",
+    "week": 39,
+    "date": "2026-09-21",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "ai and the destruction of the creative commons",
-        "why do we need human mathematicians anymore?",
-        "exfiltrate your weights",
-        "weeping whales: stillborn humpback whale grieving documented",
-        "chat-based large language models replicate the mechanisms of"
+        "zuckoff know when a camera is in the room",
+        "zuckoff is a free app that sees meta glasses before they see",
+        "kev: tiny jev-like family of decision models built on top of",
+        "jev-leftpad",
+        "grim fandango puzzle document (1996) [pdf]"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W38_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W38_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W38_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W38_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W38_trending_TREND/BUNDLE-W2026W38_trending_TREND.zip"
+      "logos": "weekly/W2026W39_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W39_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W39_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W39_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W39_trending_TREND/BUNDLE-W2026W39_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам ai and the destruction of the creative commons, why do we need human mathematicians anymore?, exfiltrate your weights. Авто-сгенерировано по трендам 2026-09-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам zuckoff know when a camera is in the room, zuckoff is a free app that sees meta glasses before they see, kev: tiny jev-like family of decision models built on top of. Авто-сгенерировано по трендам 2026-09-21. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
