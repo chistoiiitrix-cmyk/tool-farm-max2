@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про хуки в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в стройка которая стоит 82707₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
