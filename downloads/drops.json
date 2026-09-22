@@ -3,7 +3,7 @@
     "week_id": "W2026W39_tutor",
     "year": 2026,
     "week": 39,
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "niche": {
       "id": "tutor",
       "name": "Репетиторы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W39_trending_TREND",
     "year": 2026,
     "week": 39,
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "what sun got wrong",
-        "uber arbitration award over emily normandin-parker's death",
-        "zuckoff know when a camera is in the room",
-        "disney+: new user agreement allows ads before movies in all ",
-        "kev: tiny jev-like family of decision models built on top of"
+        "can gzip be a language model?",
+        "amd's random number generator can't generate a 0?",
+        "mimo v2.6",
+        "spymarks, not watermarks",
+        "i said no and apple said yes"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам what sun got wrong, uber arbitration award over emily normandin-parker's death, zuckoff know when a camera is in the room. Авто-сгенерировано по трендам 2026-09-21. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам can gzip be a language model?, amd's random number generator can't generate a 0?, mimo v2.6. Авто-сгенерировано по трендам 2026-09-22. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
