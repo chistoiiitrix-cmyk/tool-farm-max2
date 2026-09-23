@@ -33,11 +33,11 @@
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
+        "claude code reads agents.md only when telemetry is on",
         "jev in 25 lines of python",
-        "gpt-6 sol and luna",
-        "claude opus 5.5",
-        "abandoning scientific linux was a mistake",
-        "transit rewards"
+        "i don't want the details",
+        "z80 repl",
+        "gpt-6 sol and luna"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам jev in 25 lines of python, gpt-6 sol and luna, claude opus 5.5. Авто-сгенерировано по трендам 2026-09-23. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам claude code reads agents.md only when telemetry is on, jev in 25 lines of python, i don't want the details. Авто-сгенерировано по трендам 2026-09-23. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
