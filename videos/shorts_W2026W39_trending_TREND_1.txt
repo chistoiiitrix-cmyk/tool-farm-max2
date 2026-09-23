@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для юрист в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Топ 5 инструментов для фитнес в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
