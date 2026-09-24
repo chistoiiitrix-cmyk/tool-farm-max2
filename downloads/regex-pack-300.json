@@ -7,20 +7,20 @@
   },
   {
     "id": 1,
-    "name": "hashtag_1",
-    "regex": "#\\w+",
+    "name": "email_1",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 1"
   },
   {
     "id": 2,
-    "name": "hashtag_2",
-    "regex": "#\\w+",
+    "name": "url_2",
+    "regex": "https?://[^\\s]+",
     "example": "example 2"
   },
   {
     "id": 3,
-    "name": "phone_ru_3",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_3",
+    "regex": "https?://[^\\s]+",
     "example": "example 3"
   },
   {
@@ -31,32 +31,32 @@
   },
   {
     "id": 5,
-    "name": "email_5",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_5",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 5"
   },
   {
     "id": 6,
-    "name": "phone_ru_6",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_6",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 6"
   },
   {
     "id": 7,
-    "name": "phone_ru_7",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_7",
+    "regex": "#\\w+",
     "example": "example 7"
   },
   {
     "id": 8,
-    "name": "phone_ru_8",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_8",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 8"
   },
   {
     "id": 9,
-    "name": "url_9",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_9",
+    "regex": "#\\w+",
     "example": "example 9"
   },
   {
@@ -73,8 +73,8 @@
   },
   {
     "id": 12,
-    "name": "url_12",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_12",
+    "regex": "#\\w+",
     "example": "example 12"
   },
   {
@@ -85,8 +85,8 @@
   },
   {
     "id": 14,
-    "name": "url_14",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_14",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 14"
   },
   {
@@ -97,14 +97,14 @@
   },
   {
     "id": 16,
-    "name": "phone_ru_16",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_16",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 16"
   },
   {
     "id": 17,
-    "name": "hashtag_17",
-    "regex": "#\\w+",
+    "name": "url_17",
+    "regex": "https?://[^\\s]+",
     "example": "example 17"
   },
   {
@@ -121,32 +121,32 @@
   },
   {
     "id": 20,
-    "name": "phone_ru_20",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_20",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 20"
   },
   {
     "id": 21,
-    "name": "phone_ru_21",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_21",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 21"
   },
   {
     "id": 22,
-    "name": "url_22",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_22",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 22"
   },
   {
     "id": 23,
-    "name": "hashtag_23",
-    "regex": "#\\w+",
+    "name": "inn_23",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 23"
   },
   {
     "id": 24,
-    "name": "email_24",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_24",
+    "regex": "#\\w+",
     "example": "example 24"
   },
   {
@@ -157,20 +157,20 @@
   },
   {
     "id": 26,
-    "name": "hashtag_26",
-    "regex": "#\\w+",
+    "name": "inn_26",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 26"
   },
   {
     "id": 27,
-    "name": "hashtag_27",
-    "regex": "#\\w+",
+    "name": "email_27",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 27"
   },
   {
     "id": 28,
-    "name": "url_28",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_28",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 28"
   },
   {
@@ -181,14 +181,14 @@
   },
   {
     "id": 30,
-    "name": "email_30",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_30",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 30"
   },
   {
     "id": 31,
-    "name": "hashtag_31",
-    "regex": "#\\w+",
+    "name": "inn_31",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 31"
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "id": 33,
-    "name": "inn_33",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_33",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 33"
   },
   {
@@ -211,14 +211,14 @@
   },
   {
     "id": 35,
-    "name": "email_35",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_35",
+    "regex": "#\\w+",
     "example": "example 35"
   },
   {
     "id": 36,
-    "name": "hashtag_36",
-    "regex": "#\\w+",
+    "name": "inn_36",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 36"
   },
   {
@@ -229,38 +229,38 @@
   },
   {
     "id": 38,
-    "name": "inn_38",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_38",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 38"
   },
   {
     "id": 39,
-    "name": "email_39",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_39",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 39"
   },
   {
     "id": 40,
-    "name": "email_40",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_40",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 40"
   },
   {
     "id": 41,
-    "name": "hashtag_41",
-    "regex": "#\\w+",
+    "name": "email_41",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 41"
   },
   {
     "id": 42,
-    "name": "email_42",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_42",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 42"
   },
   {
     "id": 43,
-    "name": "inn_43",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_43",
+    "regex": "#\\w+",
     "example": "example 43"
   },
   {
@@ -271,20 +271,20 @@
   },
   {
     "id": 45,
-    "name": "email_45",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_45",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 45"
   },
   {
     "id": 46,
-    "name": "email_46",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_46",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 46"
   },
   {
     "id": 47,
-    "name": "url_47",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_47",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 47"
   },
   {
@@ -295,14 +295,14 @@
   },
   {
     "id": 49,
-    "name": "email_49",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_49",
+    "regex": "#\\w+",
     "example": "example 49"
   },
   {
     "id": 50,
-    "name": "inn_50",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_50",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 50"
   },
   {
@@ -319,14 +319,14 @@
   },
   {
     "id": 53,
-    "name": "url_53",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_53",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 53"
   },
   {
     "id": 54,
-    "name": "phone_ru_54",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_54",
+    "regex": "#\\w+",
     "example": "example 54"
   },
   {
@@ -337,14 +337,14 @@
   },
   {
     "id": 56,
-    "name": "phone_ru_56",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_56",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 56"
   },
   {
     "id": 57,
-    "name": "email_57",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_57",
+    "regex": "#\\w+",
     "example": "example 57"
   },
   {
@@ -355,20 +355,20 @@
   },
   {
     "id": 59,
-    "name": "url_59",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_59",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 59"
   },
   {
     "id": 60,
-    "name": "inn_60",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_60",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 60"
   },
   {
     "id": 61,
-    "name": "inn_61",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_61",
+    "regex": "https?://[^\\s]+",
     "example": "example 61"
   },
   {
@@ -379,44 +379,44 @@
   },
   {
     "id": 63,
-    "name": "inn_63",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_63",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 63"
   },
   {
     "id": 64,
-    "name": "email_64",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_64",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 64"
   },
   {
     "id": 65,
-    "name": "email_65",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_65",
+    "regex": "#\\w+",
     "example": "example 65"
   },
   {
     "id": 66,
-    "name": "url_66",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_66",
+    "regex": "#\\w+",
     "example": "example 66"
   },
   {
     "id": 67,
-    "name": "hashtag_67",
-    "regex": "#\\w+",
+    "name": "phone_ru_67",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 67"
   },
   {
     "id": 68,
-    "name": "inn_68",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_68",
+    "regex": "#\\w+",
     "example": "example 68"
   },
   {
     "id": 69,
-    "name": "phone_ru_69",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_69",
+    "regex": "https?://[^\\s]+",
     "example": "example 69"
   },
   {
@@ -427,14 +427,14 @@
   },
   {
     "id": 71,
-    "name": "hashtag_71",
-    "regex": "#\\w+",
+    "name": "email_71",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 71"
   },
   {
     "id": 72,
-    "name": "url_72",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_72",
+    "regex": "#\\w+",
     "example": "example 72"
   },
   {
@@ -445,80 +445,80 @@
   },
   {
     "id": 74,
-    "name": "email_74",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_74",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 74"
   },
   {
     "id": 75,
-    "name": "inn_75",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_75",
+    "regex": "https?://[^\\s]+",
     "example": "example 75"
   },
   {
     "id": 76,
-    "name": "hashtag_76",
-    "regex": "#\\w+",
+    "name": "url_76",
+    "regex": "https?://[^\\s]+",
     "example": "example 76"
   },
   {
     "id": 77,
-    "name": "email_77",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_77",
+    "regex": "https?://[^\\s]+",
     "example": "example 77"
   },
   {
     "id": 78,
-    "name": "email_78",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_78",
+    "regex": "https?://[^\\s]+",
     "example": "example 78"
   },
   {
     "id": 79,
-    "name": "hashtag_79",
-    "regex": "#\\w+",
+    "name": "inn_79",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 79"
   },
   {
     "id": 80,
-    "name": "phone_ru_80",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_80",
+    "regex": "https?://[^\\s]+",
     "example": "example 80"
   },
   {
     "id": 81,
-    "name": "url_81",
-    "regex": "https?://[^\\s]+",
+    "name": "email_81",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 81"
   },
   {
     "id": 82,
-    "name": "hashtag_82",
-    "regex": "#\\w+",
+    "name": "phone_ru_82",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 82"
   },
   {
     "id": 83,
-    "name": "hashtag_83",
-    "regex": "#\\w+",
+    "name": "phone_ru_83",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 83"
   },
   {
     "id": 84,
-    "name": "email_84",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_84",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 84"
   },
   {
     "id": 85,
-    "name": "phone_ru_85",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_85",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 85"
   },
   {
     "id": 86,
-    "name": "hashtag_86",
-    "regex": "#\\w+",
+    "name": "inn_86",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 86"
   },
   {
@@ -541,8 +541,8 @@
   },
   {
     "id": 90,
-    "name": "phone_ru_90",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_90",
+    "regex": "https?://[^\\s]+",
     "example": "example 90"
   },
   {
@@ -553,8 +553,8 @@
   },
   {
     "id": 92,
-    "name": "inn_92",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_92",
+    "regex": "https?://[^\\s]+",
     "example": "example 92"
   },
   {
@@ -571,8 +571,8 @@
   },
   {
     "id": 95,
-    "name": "phone_ru_95",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_95",
+    "regex": "#\\w+",
     "example": "example 95"
   },
   {
@@ -589,20 +589,20 @@
   },
   {
     "id": 98,
-    "name": "email_98",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_98",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 98"
   },
   {
     "id": 99,
-    "name": "inn_99",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_99",
+    "regex": "https?://[^\\s]+",
     "example": "example 99"
   },
   {
     "id": 100,
-    "name": "phone_ru_100",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_100",
+    "regex": "#\\w+",
     "example": "example 100"
   },
   {
@@ -613,8 +613,8 @@
   },
   {
     "id": 102,
-    "name": "email_102",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_102",
+    "regex": "https?://[^\\s]+",
     "example": "example 102"
   },
   {
@@ -625,38 +625,38 @@
   },
   {
     "id": 104,
-    "name": "email_104",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_104",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 104"
   },
   {
     "id": 105,
-    "name": "phone_ru_105",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_105",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 105"
   },
   {
     "id": 106,
-    "name": "phone_ru_106",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_106",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 106"
   },
   {
     "id": 107,
-    "name": "url_107",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_107",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 107"
   },
   {
     "id": 108,
-    "name": "email_108",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_108",
+    "regex": "https?://[^\\s]+",
     "example": "example 108"
   },
   {
     "id": 109,
-    "name": "hashtag_109",
-    "regex": "#\\w+",
+    "name": "inn_109",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 109"
   },
   {
@@ -667,56 +667,56 @@
   },
   {
     "id": 111,
-    "name": "phone_ru_111",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_111",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 111"
   },
   {
     "id": 112,
-    "name": "hashtag_112",
-    "regex": "#\\w+",
+    "name": "inn_112",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 112"
   },
   {
     "id": 113,
-    "name": "phone_ru_113",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_113",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 113"
   },
   {
     "id": 114,
-    "name": "hashtag_114",
-    "regex": "#\\w+",
+    "name": "inn_114",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 114"
   },
   {
     "id": 115,
-    "name": "phone_ru_115",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_115",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 115"
   },
   {
     "id": 116,
-    "name": "phone_ru_116",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_116",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 116"
   },
   {
     "id": 117,
-    "name": "phone_ru_117",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_117",
+    "regex": "https?://[^\\s]+",
     "example": "example 117"
   },
   {
     "id": 118,
-    "name": "hashtag_118",
-    "regex": "#\\w+",
+    "name": "inn_118",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 118"
   },
   {
     "id": 119,
-    "name": "phone_ru_119",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_119",
+    "regex": "https?://[^\\s]+",
     "example": "example 119"
   },
   {
@@ -733,44 +733,44 @@
   },
   {
     "id": 122,
-    "name": "inn_122",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_122",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 122"
   },
   {
     "id": 123,
-    "name": "url_123",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_123",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 123"
   },
   {
     "id": 124,
-    "name": "email_124",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_124",
+    "regex": "https?://[^\\s]+",
     "example": "example 124"
   },
   {
     "id": 125,
-    "name": "email_125",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_125",
+    "regex": "https?://[^\\s]+",
     "example": "example 125"
   },
   {
     "id": 126,
-    "name": "phone_ru_126",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_126",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 126"
   },
   {
     "id": 127,
-    "name": "email_127",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_127",
+    "regex": "#\\w+",
     "example": "example 127"
   },
   {
     "id": 128,
-    "name": "email_128",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_128",
+    "regex": "#\\w+",
     "example": "example 128"
   },
   {
@@ -781,26 +781,26 @@
   },
   {
     "id": 130,
-    "name": "email_130",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_130",
+    "regex": "https?://[^\\s]+",
     "example": "example 130"
   },
   {
     "id": 131,
-    "name": "hashtag_131",
-    "regex": "#\\w+",
+    "name": "url_131",
+    "regex": "https?://[^\\s]+",
     "example": "example 131"
   },
   {
     "id": 132,
-    "name": "hashtag_132",
-    "regex": "#\\w+",
+    "name": "inn_132",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 132"
   },
   {
     "id": 133,
-    "name": "phone_ru_133",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_133",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 133"
   },
   {
@@ -811,14 +811,14 @@
   },
   {
     "id": 135,
-    "name": "email_135",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_135",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 135"
   },
   {
     "id": 136,
-    "name": "phone_ru_136",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_136",
+    "regex": "#\\w+",
     "example": "example 136"
   },
   {
@@ -829,8 +829,8 @@
   },
   {
     "id": 138,
-    "name": "inn_138",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_138",
+    "regex": "https?://[^\\s]+",
     "example": "example 138"
   },
   {
@@ -841,56 +841,56 @@
   },
   {
     "id": 140,
-    "name": "url_140",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_140",
+    "regex": "#\\w+",
     "example": "example 140"
   },
   {
     "id": 141,
-    "name": "inn_141",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_141",
+    "regex": "#\\w+",
     "example": "example 141"
   },
   {
     "id": 142,
-    "name": "inn_142",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_142",
+    "regex": "https?://[^\\s]+",
     "example": "example 142"
   },
   {
     "id": 143,
-    "name": "phone_ru_143",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_143",
+    "regex": "https?://[^\\s]+",
     "example": "example 143"
   },
   {
     "id": 144,
-    "name": "inn_144",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_144",
+    "regex": "https?://[^\\s]+",
     "example": "example 144"
   },
   {
     "id": 145,
-    "name": "inn_145",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_145",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 145"
   },
   {
     "id": 146,
-    "name": "inn_146",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_146",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 146"
   },
   {
     "id": 147,
-    "name": "phone_ru_147",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_147",
+    "regex": "#\\w+",
     "example": "example 147"
   },
   {
     "id": 148,
-    "name": "inn_148",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_148",
+    "regex": "#\\w+",
     "example": "example 148"
   },
   {
@@ -901,26 +901,26 @@
   },
   {
     "id": 150,
-    "name": "hashtag_150",
-    "regex": "#\\w+",
+    "name": "phone_ru_150",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 150"
   },
   {
     "id": 151,
-    "name": "url_151",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_151",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 151"
   },
   {
     "id": 152,
-    "name": "inn_152",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_152",
+    "regex": "https?://[^\\s]+",
     "example": "example 152"
   },
   {
     "id": 153,
-    "name": "url_153",
-    "regex": "https?://[^\\s]+",
+    "name": "email_153",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 153"
   },
   {
@@ -931,20 +931,20 @@
   },
   {
     "id": 155,
-    "name": "email_155",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_155",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 155"
   },
   {
     "id": 156,
-    "name": "hashtag_156",
-    "regex": "#\\w+",
+    "name": "phone_ru_156",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 156"
   },
   {
     "id": 157,
-    "name": "url_157",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_157",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 157"
   },
   {
@@ -955,14 +955,14 @@
   },
   {
     "id": 159,
-    "name": "phone_ru_159",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_159",
+    "regex": "#\\w+",
     "example": "example 159"
   },
   {
     "id": 160,
-    "name": "phone_ru_160",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_160",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 160"
   },
   {
@@ -973,14 +973,14 @@
   },
   {
     "id": 162,
-    "name": "inn_162",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_162",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 162"
   },
   {
     "id": 163,
-    "name": "phone_ru_163",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_163",
+    "regex": "#\\w+",
     "example": "example 163"
   },
   {
@@ -991,56 +991,56 @@
   },
   {
     "id": 165,
-    "name": "hashtag_165",
-    "regex": "#\\w+",
+    "name": "phone_ru_165",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 165"
   },
   {
     "id": 166,
-    "name": "email_166",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_166",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 166"
   },
   {
     "id": 167,
-    "name": "email_167",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_167",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 167"
   },
   {
     "id": 168,
-    "name": "phone_ru_168",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_168",
+    "regex": "https?://[^\\s]+",
     "example": "example 168"
   },
   {
     "id": 169,
-    "name": "inn_169",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_169",
+    "regex": "https?://[^\\s]+",
     "example": "example 169"
   },
   {
     "id": 170,
-    "name": "inn_170",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_170",
+    "regex": "#\\w+",
     "example": "example 170"
   },
   {
     "id": 171,
-    "name": "phone_ru_171",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_171",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 171"
   },
   {
     "id": 172,
-    "name": "inn_172",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_172",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 172"
   },
   {
     "id": 173,
-    "name": "email_173",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_173",
+    "regex": "#\\w+",
     "example": "example 173"
   },
   {
@@ -1051,32 +1051,32 @@
   },
   {
     "id": 175,
-    "name": "email_175",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_175",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 175"
   },
   {
     "id": 176,
-    "name": "url_176",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_176",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 176"
   },
   {
     "id": 177,
-    "name": "inn_177",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_177",
+    "regex": "https?://[^\\s]+",
     "example": "example 177"
   },
   {
     "id": 178,
-    "name": "inn_178",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_178",
+    "regex": "#\\w+",
     "example": "example 178"
   },
   {
     "id": 179,
-    "name": "phone_ru_179",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_179",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 179"
   },
   {
@@ -1087,26 +1087,26 @@
   },
   {
     "id": 181,
-    "name": "inn_181",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_181",
+    "regex": "#\\w+",
     "example": "example 181"
   },
   {
     "id": 182,
-    "name": "email_182",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_182",
+    "regex": "#\\w+",
     "example": "example 182"
   },
   {
     "id": 183,
-    "name": "url_183",
-    "regex": "https?://[^\\s]+",
+    "name": "email_183",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 183"
   },
   {
     "id": 184,
-    "name": "email_184",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_184",
+    "regex": "#\\w+",
     "example": "example 184"
   },
   {
@@ -1117,8 +1117,8 @@
   },
   {
     "id": 186,
-    "name": "url_186",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_186",
+    "regex": "#\\w+",
     "example": "example 186"
   },
   {
@@ -1129,14 +1129,14 @@
   },
   {
     "id": 188,
-    "name": "hashtag_188",
-    "regex": "#\\w+",
+    "name": "phone_ru_188",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 188"
   },
   {
     "id": 189,
-    "name": "phone_ru_189",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_189",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 189"
   },
   {
@@ -1147,98 +1147,98 @@
   },
   {
     "id": 191,
-    "name": "inn_191",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_191",
+    "regex": "https?://[^\\s]+",
     "example": "example 191"
   },
   {
     "id": 192,
-    "name": "hashtag_192",
-    "regex": "#\\w+",
+    "name": "url_192",
+    "regex": "https?://[^\\s]+",
     "example": "example 192"
   },
   {
     "id": 193,
-    "name": "inn_193",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_193",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 193"
   },
   {
     "id": 194,
-    "name": "url_194",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_194",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 194"
   },
   {
     "id": 195,
-    "name": "phone_ru_195",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_195",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 195"
   },
   {
     "id": 196,
-    "name": "url_196",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_196",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 196"
   },
   {
     "id": 197,
-    "name": "phone_ru_197",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_197",
+    "regex": "#\\w+",
     "example": "example 197"
   },
   {
     "id": 198,
-    "name": "inn_198",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_198",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 198"
   },
   {
     "id": 199,
-    "name": "url_199",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_199",
+    "regex": "#\\w+",
     "example": "example 199"
   },
   {
     "id": 200,
-    "name": "phone_ru_200",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_200",
+    "regex": "#\\w+",
     "example": "example 200"
   },
   {
     "id": 201,
-    "name": "inn_201",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_201",
+    "regex": "https?://[^\\s]+",
     "example": "example 201"
   },
   {
     "id": 202,
-    "name": "url_202",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_202",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 202"
   },
   {
     "id": 203,
-    "name": "hashtag_203",
-    "regex": "#\\w+",
+    "name": "url_203",
+    "regex": "https?://[^\\s]+",
     "example": "example 203"
   },
   {
     "id": 204,
-    "name": "url_204",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_204",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 204"
   },
   {
     "id": 205,
-    "name": "hashtag_205",
-    "regex": "#\\w+",
+    "name": "email_205",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 205"
   },
   {
     "id": 206,
-    "name": "inn_206",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_206",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 206"
   },
   {
@@ -1255,62 +1255,62 @@
   },
   {
     "id": 209,
-    "name": "url_209",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_209",
+    "regex": "#\\w+",
     "example": "example 209"
   },
   {
     "id": 210,
-    "name": "phone_ru_210",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_210",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 210"
   },
   {
     "id": 211,
-    "name": "url_211",
-    "regex": "https?://[^\\s]+",
+    "name": "email_211",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 211"
   },
   {
     "id": 212,
-    "name": "hashtag_212",
-    "regex": "#\\w+",
+    "name": "phone_ru_212",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 212"
   },
   {
     "id": 213,
-    "name": "inn_213",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_213",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 213"
   },
   {
     "id": 214,
-    "name": "hashtag_214",
-    "regex": "#\\w+",
+    "name": "url_214",
+    "regex": "https?://[^\\s]+",
     "example": "example 214"
   },
   {
     "id": 215,
-    "name": "email_215",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_215",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 215"
   },
   {
     "id": 216,
-    "name": "inn_216",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_216",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 216"
   },
   {
     "id": 217,
-    "name": "hashtag_217",
-    "regex": "#\\w+",
+    "name": "inn_217",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 217"
   },
   {
     "id": 218,
-    "name": "hashtag_218",
-    "regex": "#\\w+",
+    "name": "url_218",
+    "regex": "https?://[^\\s]+",
     "example": "example 218"
   },
   {
@@ -1327,80 +1327,80 @@
   },
   {
     "id": 221,
-    "name": "phone_ru_221",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_221",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 221"
   },
   {
     "id": 222,
-    "name": "hashtag_222",
-    "regex": "#\\w+",
+    "name": "phone_ru_222",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 222"
   },
   {
     "id": 223,
-    "name": "hashtag_223",
-    "regex": "#\\w+",
+    "name": "inn_223",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 223"
   },
   {
     "id": 224,
-    "name": "email_224",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_224",
+    "regex": "#\\w+",
     "example": "example 224"
   },
   {
     "id": 225,
-    "name": "phone_ru_225",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_225",
+    "regex": "#\\w+",
     "example": "example 225"
   },
   {
     "id": 226,
-    "name": "email_226",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_226",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 226"
   },
   {
     "id": 227,
-    "name": "email_227",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_227",
+    "regex": "https?://[^\\s]+",
     "example": "example 227"
   },
   {
     "id": 228,
-    "name": "url_228",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_228",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 228"
   },
   {
     "id": 229,
-    "name": "url_229",
-    "regex": "https?://[^\\s]+",
+    "name": "email_229",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 229"
   },
   {
     "id": 230,
-    "name": "phone_ru_230",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_230",
+    "regex": "https?://[^\\s]+",
     "example": "example 230"
   },
   {
     "id": 231,
-    "name": "inn_231",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_231",
+    "regex": "https?://[^\\s]+",
     "example": "example 231"
   },
   {
     "id": 232,
-    "name": "inn_232",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_232",
+    "regex": "#\\w+",
     "example": "example 232"
   },
   {
     "id": 233,
-    "name": "url_233",
-    "regex": "https?://[^\\s]+",
+    "name": "email_233",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 233"
   },
   {
@@ -1411,8 +1411,8 @@
   },
   {
     "id": 235,
-    "name": "phone_ru_235",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_235",
+    "regex": "#\\w+",
     "example": "example 235"
   },
   {
@@ -1429,74 +1429,74 @@
   },
   {
     "id": 238,
-    "name": "phone_ru_238",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_238",
+    "regex": "https?://[^\\s]+",
     "example": "example 238"
   },
   {
     "id": 239,
-    "name": "phone_ru_239",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_239",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 239"
   },
   {
     "id": 240,
-    "name": "hashtag_240",
-    "regex": "#\\w+",
+    "name": "url_240",
+    "regex": "https?://[^\\s]+",
     "example": "example 240"
   },
   {
     "id": 241,
-    "name": "url_241",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_241",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 241"
   },
   {
     "id": 242,
-    "name": "email_242",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_242",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 242"
   },
   {
     "id": 243,
-    "name": "email_243",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_243",
+    "regex": "https?://[^\\s]+",
     "example": "example 243"
   },
   {
     "id": 244,
-    "name": "url_244",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_244",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 244"
   },
   {
     "id": 245,
-    "name": "phone_ru_245",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_245",
+    "regex": "https?://[^\\s]+",
     "example": "example 245"
   },
   {
     "id": 246,
-    "name": "hashtag_246",
-    "regex": "#\\w+",
+    "name": "url_246",
+    "regex": "https?://[^\\s]+",
     "example": "example 246"
   },
   {
     "id": 247,
-    "name": "hashtag_247",
-    "regex": "#\\w+",
+    "name": "email_247",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 247"
   },
   {
     "id": 248,
-    "name": "inn_248",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_248",
+    "regex": "https?://[^\\s]+",
     "example": "example 248"
   },
   {
     "id": 249,
-    "name": "phone_ru_249",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_249",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 249"
   },
   {
@@ -1507,32 +1507,32 @@
   },
   {
     "id": 251,
-    "name": "hashtag_251",
-    "regex": "#\\w+",
+    "name": "inn_251",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 251"
   },
   {
     "id": 252,
-    "name": "inn_252",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_252",
+    "regex": "https?://[^\\s]+",
     "example": "example 252"
   },
   {
     "id": 253,
-    "name": "phone_ru_253",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_253",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 253"
   },
   {
     "id": 254,
-    "name": "url_254",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_254",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 254"
   },
   {
     "id": 255,
-    "name": "phone_ru_255",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_255",
+    "regex": "#\\w+",
     "example": "example 255"
   },
   {
@@ -1549,20 +1549,20 @@
   },
   {
     "id": 258,
-    "name": "url_258",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_258",
+    "regex": "#\\w+",
     "example": "example 258"
   },
   {
     "id": 259,
-    "name": "phone_ru_259",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "hashtag_259",
+    "regex": "#\\w+",
     "example": "example 259"
   },
   {
     "id": 260,
-    "name": "url_260",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_260",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 260"
   },
   {
@@ -1573,14 +1573,14 @@
   },
   {
     "id": 262,
-    "name": "phone_ru_262",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_262",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 262"
   },
   {
     "id": 263,
-    "name": "url_263",
-    "regex": "https?://[^\\s]+",
+    "name": "phone_ru_263",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 263"
   },
   {
@@ -1597,62 +1597,62 @@
   },
   {
     "id": 266,
-    "name": "url_266",
-    "regex": "https?://[^\\s]+",
+    "name": "email_266",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 266"
   },
   {
     "id": 267,
-    "name": "email_267",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "inn_267",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 267"
   },
   {
     "id": 268,
-    "name": "url_268",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_268",
+    "regex": "#\\w+",
     "example": "example 268"
   },
   {
     "id": 269,
-    "name": "email_269",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_269",
+    "regex": "#\\w+",
     "example": "example 269"
   },
   {
     "id": 270,
-    "name": "inn_270",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_270",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 270"
   },
   {
     "id": 271,
-    "name": "phone_ru_271",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_271",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 271"
   },
   {
     "id": 272,
-    "name": "phone_ru_272",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "inn_272",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 272"
   },
   {
     "id": 273,
-    "name": "hashtag_273",
-    "regex": "#\\w+",
+    "name": "phone_ru_273",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 273"
   },
   {
     "id": 274,
-    "name": "url_274",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_274",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 274"
   },
   {
     "id": 275,
-    "name": "inn_275",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_275",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 275"
   },
   {
@@ -1663,20 +1663,20 @@
   },
   {
     "id": 277,
-    "name": "phone_ru_277",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_277",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 277"
   },
   {
     "id": 278,
-    "name": "hashtag_278",
-    "regex": "#\\w+",
+    "name": "inn_278",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 278"
   },
   {
     "id": 279,
-    "name": "inn_279",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "phone_ru_279",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 279"
   },
   {
@@ -1687,38 +1687,38 @@
   },
   {
     "id": 281,
-    "name": "url_281",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_281",
+    "regex": "#\\w+",
     "example": "example 281"
   },
   {
     "id": 282,
-    "name": "email_282",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "hashtag_282",
+    "regex": "#\\w+",
     "example": "example 282"
   },
   {
     "id": 283,
-    "name": "url_283",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_283",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 283"
   },
   {
     "id": 284,
-    "name": "hashtag_284",
-    "regex": "#\\w+",
+    "name": "url_284",
+    "regex": "https?://[^\\s]+",
     "example": "example 284"
   },
   {
     "id": 285,
-    "name": "url_285",
-    "regex": "https?://[^\\s]+",
+    "name": "inn_285",
+    "regex": "\\b\\d{10}|\\d{12}\\b",
     "example": "example 285"
   },
   {
     "id": 286,
-    "name": "inn_286",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "url_286",
+    "regex": "https?://[^\\s]+",
     "example": "example 286"
   },
   {
@@ -1735,20 +1735,20 @@
   },
   {
     "id": 289,
-    "name": "email_289",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "url_289",
+    "regex": "https?://[^\\s]+",
     "example": "example 289"
   },
   {
     "id": 290,
-    "name": "url_290",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_290",
+    "regex": "#\\w+",
     "example": "example 290"
   },
   {
     "id": 291,
-    "name": "inn_291",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "email_291",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 291"
   },
   {
@@ -1759,26 +1759,26 @@
   },
   {
     "id": 293,
-    "name": "email_293",
-    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
+    "name": "phone_ru_293",
+    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
     "example": "example 293"
   },
   {
     "id": 294,
-    "name": "inn_294",
-    "regex": "\\b\\d{10}|\\d{12}\\b",
+    "name": "hashtag_294",
+    "regex": "#\\w+",
     "example": "example 294"
   },
   {
     "id": 295,
-    "name": "url_295",
-    "regex": "https?://[^\\s]+",
+    "name": "hashtag_295",
+    "regex": "#\\w+",
     "example": "example 295"
   },
   {
     "id": 296,
-    "name": "phone_ru_296",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "email_296",
+    "regex": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}",
     "example": "example 296"
   },
   {
@@ -1795,8 +1795,8 @@
   },
   {
     "id": 299,
-    "name": "phone_ru_299",
-    "regex": "\\+7\\s?\\(?\\d{3}\\)?\\s?\\d{3}-?\\d{2}-?\\d{2}",
+    "name": "url_299",
+    "regex": "https?://[^\\s]+",
     "example": "example 299"
   }
 ]
