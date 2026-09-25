@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню удаление дублей в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню счетчик слов в крипто module 'PIL.Image' has no attribute 'ANTIALIAS'
