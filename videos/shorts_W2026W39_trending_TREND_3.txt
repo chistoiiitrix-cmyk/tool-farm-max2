@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для бьюти в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в WB которая стоит 33806₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
