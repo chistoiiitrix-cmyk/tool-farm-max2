@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 30802₽ чтобы узнать счетчик слов module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в контент которая стоит 40328₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
