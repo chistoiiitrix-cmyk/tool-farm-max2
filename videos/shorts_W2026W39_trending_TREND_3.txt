@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в WB которая стоит 33806₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в стройка которая стоит 27228₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
