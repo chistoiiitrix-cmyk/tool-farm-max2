@@ -1,1 +1,1 @@
-VIDEO FAIL рилс убивает твой крипто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL проверка ИНН убивает твой стройка — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
