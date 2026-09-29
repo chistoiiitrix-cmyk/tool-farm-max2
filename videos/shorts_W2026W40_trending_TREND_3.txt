@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 93336₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про счетчик слов в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
