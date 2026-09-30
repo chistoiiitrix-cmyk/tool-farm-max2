@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню проверка ИНН в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про счетчик слов в барбер module 'PIL.Image' has no attribute 'ANTIALIAS'
