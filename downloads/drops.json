@@ -3,7 +3,7 @@
     "week_id": "W2026W40_cafe",
     "year": 2026,
     "week": 40,
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "niche": {
       "id": "cafe",
       "name": "Кафе и рестораны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W40_trending_TREND",
     "year": 2026,
     "week": 40,
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "pi.dev: you said no mcp",
-        "sdf vs. msdf vs. slug: gpu text rendering",
-        "show hn: jbr-001 – an open-source 3d printable desktop robot",
-        "livenerf: has opus 5.5 been nerfed yet?",
-        "mathematical origami"
+        "streetcomplete on ios is now in public beta",
+        "gpt-synopsys: frontier intelligence to revolutionize chip de",
+        "opendlss: a vulkan reimplementation of nvidia's dlss 5 neura",
+        "gemini 4 argon",
+        "returning from vacation? the government can search your phon"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам pi.dev: you said no mcp, sdf vs. msdf vs. slug: gpu text rendering, show hn: jbr-001 – an open-source 3d printable desktop robot. Авто-сгенерировано по трендам 2026-09-30. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам streetcomplete on ios is now in public beta, gpt-synopsys: frontier intelligence to revolutionize chip de, opendlss: a vulkan reimplementation of nvidia's dlss 5 neura. Авто-сгенерировано по трендам 2026-10-01. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
