@@ -3,7 +3,7 @@
     "week_id": "W2026W40_cafe",
     "year": 2026,
     "week": 40,
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "niche": {
       "id": "cafe",
       "name": "Кафе и рестораны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W40_trending_TREND",
     "year": 2026,
     "week": 40,
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "streetcomplete on ios is now in public beta",
-        "how to speed up the rust compiler in september 2026",
-        "google breaks promise to provide 10 years of updates to chro",
-        "gpt-synopsys: frontier intelligence to revolutionize chip de",
-        "polyedergarten: garden of paper polyhedron models"
+        "pi 1.0",
+        "shimano bicycle museum review",
+        "several vulnerabilities have been discovered in the linux ke",
+        "show hn: audionaut – an open-source cross-platform multitrac",
+        "why media fans want to escape algorithms with cds, dvds and "
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам streetcomplete on ios is now in public beta, how to speed up the rust compiler in september 2026, google breaks promise to provide 10 years of updates to chro. Авто-сгенерировано по трендам 2026-10-01. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам pi 1.0, shimano bicycle museum review, several vulnerabilities have been discovered in the linux ke. Авто-сгенерировано по трендам 2026-10-02. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
