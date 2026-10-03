@@ -3,7 +3,7 @@
     "week_id": "W2026W40_cafe",
     "year": 2026,
     "week": 40,
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "niche": {
       "id": "cafe",
       "name": "Кафе и рестораны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W40_trending_TREND",
     "year": 2026,
     "week": 40,
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "the legend of von neumann [pdf]",
-        "pi 1.0",
-        "shimano bicycle museum review",
-        "several vulnerabilities have been discovered in the linux ke",
-        "show hn: audionaut – an open-source cross-platform multitrac"
+        "an ai agent emailed researchers for help. it told us why",
+        "newgrounds.com – a community of games, music, and art",
+        "court agrees with eff: utah's vpn law demands a technical im",
+        "apple pass designer",
+        "mike tomlin spent 12 years building a minecraft city"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам the legend of von neumann [pdf], pi 1.0, shimano bicycle museum review. Авто-сгенерировано по трендам 2026-10-02. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам an ai agent emailed researchers for help. it told us why, newgrounds.com – a community of games, music, and art, court agrees with eff: utah's vpn law demands a technical im. Авто-сгенерировано по трендам 2026-10-03. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
