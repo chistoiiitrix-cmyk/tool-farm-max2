@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 75174₽ чтобы узнать хуки module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню НДС в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
