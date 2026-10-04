@@ -1,1 +1,1 @@
-VIDEO FAIL сторис убивает твой кафе — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета кафе о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
