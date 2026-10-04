@@ -3,7 +3,7 @@
     "week_id": "W2026W40_cafe",
     "year": 2026,
     "week": 40,
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "niche": {
       "id": "cafe",
       "name": "Кафе и рестораны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W40_trending_TREND",
     "year": 2026,
     "week": 40,
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "show hn: germany's new sovereign ai model kolibri",
-        "newgrounds.com – a community of games, music, and art",
-        "court agrees with eff: utah's vpn law demands a technical im",
-        "the escalation of war in ethiopia",
-        "apple pass designer"
+        "vghf digital archive passes 5000 magazines. here's what's ne",
+        "tell hn: bob cringely has died",
+        "why don't more developers “use the platform”?",
+        "so you think you could be an electrician?",
+        "the work by valve's timur kristóf on improving old amd gpus "
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам show hn: germany's new sovereign ai model kolibri, newgrounds.com – a community of games, music, and art, court agrees with eff: utah's vpn law demands a technical im. Авто-сгенерировано по трендам 2026-10-03. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам vghf digital archive passes 5000 magazines. here's what's ne, tell hn: bob cringely has died, why don't more developers “use the platform”?. Авто-сгенерировано по трендам 2026-10-04. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
