@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W40_cafe",
+    "week_id": "W2026W41_wb",
     "year": 2026,
-    "week": 40,
-    "date": "2026-10-04",
+    "week": 41,
+    "date": "2026-10-05",
     "niche": {
-      "id": "cafe",
-      "name": "Кафе и рестораны",
+      "id": "wb",
+      "name": "WB/Ozon продавцы",
       "keywords": [
-        "меню",
-        "бронь",
-        "кофе"
+        "карточка товара",
+        "описание",
+        "SEO"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W40_cafe/logo-drop-50-cafe.zip",
-      "prompts": "weekly/W2026W40_cafe/prompts-drop-100-cafe.zip",
-      "templates": "weekly/W2026W40_cafe/templates-drop-20-cafe.zip",
-      "bundle": "weekly/W2026W40_cafe/BUNDLE-W2026W40_cafe.zip"
+      "logos": "weekly/W2026W41_wb/logo-drop-50-wb.zip",
+      "prompts": "weekly/W2026W41_wb/prompts-drop-100-wb.zip",
+      "templates": "weekly/W2026W41_wb/templates-drop-20-wb.zip",
+      "bundle": "weekly/W2026W41_wb/BUNDLE-W2026W41_wb.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Кафе и рестораны: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп WB/Ozon продавцы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W40_trending_TREND",
+    "week_id": "W2026W41_trending_TREND",
     "year": 2026,
-    "week": 40,
-    "date": "2026-10-04",
+    "week": 41,
+    "date": "2026-10-05",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "run qwen 3.8 flash next (125b) on consumer hardware (rtx 409",
-        "vghf digital archive passes 5000 magazines. here's what's ne",
-        "glashütte trash clock – a 30-minute pendulum clock made from",
-        "tell hn: bob cringely has died",
-        "why don't more developers “use the platform”?"
+        "europe's new robotics unicorn: germany's robco hits $1b valu",
+        "apple and a hacker's future",
+        "web search api",
+        "denmark data breach exposes 8.8m people's personal data",
+        "press release: nobel prize in physiology or medicine 2026"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W40_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W40_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W40_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W40_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W40_trending_TREND/BUNDLE-W2026W40_trending_TREND.zip"
+      "logos": "weekly/W2026W41_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W41_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W41_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W41_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W41_trending_TREND/BUNDLE-W2026W41_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам run qwen 3.8 flash next (125b) on consumer hardware (rtx 409, vghf digital archive passes 5000 magazines. here's what's ne, glashütte trash clock – a 30-minute pendulum clock made from. Авто-сгенерировано по трендам 2026-10-04. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам europe's new robotics unicorn: germany's robco hits $1b valu, apple and a hacker's future, web search api. Авто-сгенерировано по трендам 2026-10-05. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
