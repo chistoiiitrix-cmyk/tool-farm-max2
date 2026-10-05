@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про сторис в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в контент которая стоит 74730₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
