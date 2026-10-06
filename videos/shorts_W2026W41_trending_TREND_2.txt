@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в контент которая стоит 74730₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Топ 5 инструментов для стройка в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
