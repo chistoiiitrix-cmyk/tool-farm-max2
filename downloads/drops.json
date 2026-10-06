@@ -33,11 +33,11 @@
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
+        "mistral large 4",
+        "mistral large 4: \"le chonk\"",
+        "release of polars 2.0",
         "nobel prize in physics goes to francis halzen",
-        "gleam doesn't compile to erlang source anymore",
-        "beam: reflection's 501b open-weight model",
-        "find the flattest route between any two points in sf",
-        "dust: pretraining transformers without backpropagation"
+        "tapo (rust/python library) now speaks tp-link's tpap protoco"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам nobel prize in physics goes to francis halzen, gleam doesn't compile to erlang source anymore, beam: reflection's 501b open-weight model. Авто-сгенерировано по трендам 2026-10-06. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам mistral large 4, mistral large 4: \"le chonk\", release of polars 2.0. Авто-сгенерировано по трендам 2026-10-06. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
