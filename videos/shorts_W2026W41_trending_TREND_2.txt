@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню НДС в кодинг module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в крипто которая стоит 74597₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

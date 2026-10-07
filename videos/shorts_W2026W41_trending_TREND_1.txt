@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета WB о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в крипто которая стоит 74121₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
