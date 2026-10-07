@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в кодинг которая стоит 86023₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL счетчик слов убивает твой крипто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
