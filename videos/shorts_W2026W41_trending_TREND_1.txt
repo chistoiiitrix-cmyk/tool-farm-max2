@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в юрист которая стоит 32086₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в крипто которая стоит 90406₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
