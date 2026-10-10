@@ -3,7 +3,7 @@
     "week_id": "W2026W41_wb",
     "year": 2026,
     "week": 41,
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "niche": {
       "id": "wb",
       "name": "WB/Ozon продавцы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W41_trending_TREND",
     "year": 2026,
     "week": 41,
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "deno is joining cloudflare",
-        "our $445m series d",
-        "let your ai agents paint big arrows, boxes and text on your ",
-        "i'm in a meeting",
-        "nobel peace prize for 2026 to navanethem \"navi\" pillay"
+        "`123456' password used in danish cpr data breach",
+        "rea reverse – engineer anything",
+        "talorys – a self-hosted personal ai agent on cloudflare's fr",
+        "telegram desktop vulnerability allowed any user's file to be",
+        "cloudflare acquires deno"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам deno is joining cloudflare, our $445m series d, let your ai agents paint big arrows, boxes and text on your . Авто-сгенерировано по трендам 2026-10-09. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам `123456' password used in danish cpr data breach, rea reverse – engineer anything, talorys – a self-hosted personal ai agent on cloudflare's fr. Авто-сгенерировано по трендам 2026-10-10. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
