@@ -3,7 +3,7 @@
     "week_id": "W2026W41_wb",
     "year": 2026,
     "week": 41,
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "niche": {
       "id": "wb",
       "name": "WB/Ozon продавцы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W41_trending_TREND",
     "year": 2026,
     "week": 41,
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "`123456' password used in danish cpr data breach",
-        "lobbying is corruption",
-        "talorys – a self-hosted personal ai agent on cloudflare's fr",
-        "rea reverse – engineer anything",
-        "c for rust programmers"
+        "sudden drop in cloudflare bot traffic after strike on yandex",
+        "nitter: update oct 10th seeking funding and legal help",
+        "ircv3",
+        "lineageos 24.0",
+        "build your own decision model"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам `123456' password used in danish cpr data breach, lobbying is corruption, talorys – a self-hosted personal ai agent on cloudflare's fr. Авто-сгенерировано по трендам 2026-10-10. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам sudden drop in cloudflare bot traffic after strike on yandex, nitter: update oct 10th seeking funding and legal help, ircv3. Авто-сгенерировано по трендам 2026-10-11. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
