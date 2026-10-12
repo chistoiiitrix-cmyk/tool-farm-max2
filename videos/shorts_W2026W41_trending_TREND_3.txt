@@ -1,1 +1,0 @@
-VIDEO FAIL НДС убивает твой стройка — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'

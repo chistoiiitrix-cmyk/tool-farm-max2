@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W41_wb",
+    "week_id": "W2026W42_crypto",
     "year": 2026,
-    "week": 41,
-    "date": "2026-10-11",
+    "week": 42,
+    "date": "2026-10-12",
     "niche": {
-      "id": "wb",
-      "name": "WB/Ozon продавцы",
+      "id": "crypto",
+      "name": "Крипто боты и каналы",
       "keywords": [
-        "карточка товара",
-        "описание",
-        "SEO"
+        "сигналы",
+        "бот",
+        "трейдинг"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W41_wb/logo-drop-50-wb.zip",
-      "prompts": "weekly/W2026W41_wb/prompts-drop-100-wb.zip",
-      "templates": "weekly/W2026W41_wb/templates-drop-20-wb.zip",
-      "bundle": "weekly/W2026W41_wb/BUNDLE-W2026W41_wb.zip"
+      "logos": "weekly/W2026W42_crypto/logo-drop-50-crypto.zip",
+      "prompts": "weekly/W2026W42_crypto/prompts-drop-100-crypto.zip",
+      "templates": "weekly/W2026W42_crypto/templates-drop-20-crypto.zip",
+      "bundle": "weekly/W2026W42_crypto/BUNDLE-W2026W42_crypto.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп WB/Ozon продавцы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Крипто боты и каналы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W41_trending_TREND",
+    "week_id": "W2026W42_trending_TREND",
     "year": 2026,
-    "week": 41,
-    "date": "2026-10-11",
+    "week": 42,
+    "date": "2026-10-12",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "internal files add to evidence of an exxonmobil climate dece",
-        "i paid people to try and follow my readme",
-        "terence tao: math 2.0 [pdf]",
-        "the tilde in your path may not be your home",
-        "lineageos 24.0"
+        "qgis bans ai assisted contributions",
+        "deloitte falsified documents to evade tax on abramovich's we",
+        "the making of super mario 64 – full giles goddard interview ",
+        "secret of orange cats revealed after 60-year search",
+        "fingerprints are the new cookies"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W41_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W41_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W41_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W41_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W41_trending_TREND/BUNDLE-W2026W41_trending_TREND.zip"
+      "logos": "weekly/W2026W42_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W42_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W42_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W42_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W42_trending_TREND/BUNDLE-W2026W42_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам internal files add to evidence of an exxonmobil climate dece, i paid people to try and follow my readme, terence tao: math 2.0 [pdf]. Авто-сгенерировано по трендам 2026-10-11. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам qgis bans ai assisted contributions, deloitte falsified documents to evade tax on abramovich's we, the making of super mario 64 – full giles goddard interview . Авто-сгенерировано по трендам 2026-10-12. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
