@@ -33,11 +33,11 @@
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "11 year old unsoundness bugs found in rust borrow checker",
-        "an hour of audio transcribed in about 13s on macbook air",
         "apple homeview",
-        "show hn: use your openai subscription to create audiobooks",
-        "sqlthon – a lightweight pythonic layer for sqlite"
+        "11 year old unsoundness bugs found in rust borrow checker",
+        "we turned embeddinggemma 2 into a speech-to-text model",
+        "a dynamic and distributed virtual gpu cloud built on idle ap",
+        "new apple tv 4k"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам 11 year old unsoundness bugs found in rust borrow checker, an hour of audio transcribed in about 13s on macbook air, apple homeview. Авто-сгенерировано по трендам 2026-10-13. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам apple homeview, 11 year old unsoundness bugs found in rust borrow checker, we turned embeddinggemma 2 into a speech-to-text model. Авто-сгенерировано по трендам 2026-10-13. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
