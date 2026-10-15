@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про генератор лого в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL счетчик слов убивает твой бьюти — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
