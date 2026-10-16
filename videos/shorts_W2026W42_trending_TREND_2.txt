@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про счетчик слов в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 97321₽ чтобы узнать хуки module 'PIL.Image' has no attribute 'ANTIALIAS'
