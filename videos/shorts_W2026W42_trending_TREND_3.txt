@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню генератор лого в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в бьюти которая стоит 9999₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
