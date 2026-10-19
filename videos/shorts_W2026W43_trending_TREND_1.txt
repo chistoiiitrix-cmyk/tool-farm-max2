@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про счетчик слов в репетитор module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL проверка ИНН убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
