@@ -1,1 +1,1 @@
-VIDEO FAIL проверка ИНН убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в авто которая стоит 74114₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
