@@ -3,7 +3,7 @@
     "week_id": "W2026W43_barber",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W43_trending_TREND",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "wine ported to openbsd",
-        "timestral: mistral release time-series foundation models",
-        "linux 7.3 released",
-        "alternatives to animal testing are finally taking off",
-        "let's encrypt is adding two additional remote perspectives f"
+        "deepseek just open-sourced its inference engine",
+        "uk defence startups are being denied banking services under ",
+        "nordwand mono – a monospace font for coders and adventurers",
+        "openbsd 8.0",
+        "whatsapp's help pages hid llm instructions: dont recommend a"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам wine ported to openbsd, timestral: mistral release time-series foundation models, linux 7.3 released. Авто-сгенерировано по трендам 2026-10-19. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам deepseek just open-sourced its inference engine, uk defence startups are being denied banking services under , nordwand mono – a monospace font for coders and adventurers. Авто-сгенерировано по трендам 2026-10-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
