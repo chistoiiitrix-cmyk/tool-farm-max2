@@ -3,7 +3,7 @@
     "week_id": "W2026W43_barber",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W43_trending_TREND",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "deepseek just open-sourced its inference engine",
-        "demographic \"doomsday\" misses the mark",
-        "nordwand mono – a monospace font for coders and adventurers",
-        "microg: free-libre re-implementation of google's proprietary",
-        "openbsd 8.0"
+        "eight bits of trust; emudhra's ca keys cracked in millisecon",
+        "the 1.5°c goal of the paris agreement is no longer viable",
+        "the future of css",
+        "whatever happened to fire escapes",
+        "upcoming critical php security release (cve-2026-109618 / -1"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам deepseek just open-sourced its inference engine, demographic \"doomsday\" misses the mark, nordwand mono – a monospace font for coders and adventurers. Авто-сгенерировано по трендам 2026-10-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам eight bits of trust; emudhra's ca keys cracked in millisecon, the 1.5°c goal of the paris agreement is no longer viable, the future of css. Авто-сгенерировано по трендам 2026-10-21. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
