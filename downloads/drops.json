@@ -3,7 +3,7 @@
     "week_id": "W2026W43_barber",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W43_trending_TREND",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "eight bits of trust; emudhra's ca keys cracked in millisecon",
-        "qwen3-coder writes less secure code when told it's for a us ",
-        "most advice is right for the person giving it",
-        "layerfs: the filesystem for ai coding agents",
-        "the future of css"
+        "cve-2026-111943: compromised intermediate certificate author",
+        "faster than earcut: triangulating 3.7m map polygons in 489 m",
+        "worldtui: i trained a 360m model to pretend to be a terminal",
+        "the recently proposed o(n log n) integer multiplication algo",
+        "security disclosure"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам eight bits of trust; emudhra's ca keys cracked in millisecon, qwen3-coder writes less secure code when told it's for a us , most advice is right for the person giving it. Авто-сгенерировано по трендам 2026-10-21. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам cve-2026-111943: compromised intermediate certificate author, faster than earcut: triangulating 3.7m map polygons in 489 m, worldtui: i trained a 360m model to pretend to be a terminal. Авто-сгенерировано по трендам 2026-10-22. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
