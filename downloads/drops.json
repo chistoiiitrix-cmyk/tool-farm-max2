@@ -3,7 +3,7 @@
     "week_id": "W2026W43_barber",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W43_trending_TREND",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "cve-2026-111943: compromised intermediate certificate author",
-        "jailbreaking the switch 2",
-        "what is gridifcation",
-        "faster than earcut: triangulating 3.7m map polygons in 489 m",
-        "worldtui: i trained a 360m model to pretend to be a terminal"
+        "local wikipedia: wikipedia, but only for things a half hour ",
+        "docker is weird",
+        "how does fable 5.1 hide messages in images?",
+        "the alien space of science: coherent but cognitively unavail",
+        "the foolishness of \"natural language programming\" (1978)"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам cve-2026-111943: compromised intermediate certificate author, jailbreaking the switch 2, what is gridifcation. Авто-сгенерировано по трендам 2026-10-22. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам local wikipedia: wikipedia, but only for things a half hour , docker is weird, how does fable 5.1 hide messages in images?. Авто-сгенерировано по трендам 2026-10-23. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
