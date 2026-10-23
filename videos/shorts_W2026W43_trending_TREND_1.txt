@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про проверка ИНН в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 87049₽ чтобы узнать транслит module 'PIL.Image' has no attribute 'ANTIALIAS'
