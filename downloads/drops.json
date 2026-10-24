@@ -3,7 +3,7 @@
     "week_id": "W2026W43_barber",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "niche": {
       "id": "barber",
       "name": "Барбершопы и салоны",
@@ -28,16 +28,16 @@
     "week_id": "W2026W43_trending_TREND",
     "year": 2026,
     "week": 43,
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "local wikipedia: wikipedia, but only for things a half hour ",
-        "openssl 4.1.0",
-        "swedish government offices to ban chatgpt and claude",
-        "job loss and cortisone mania",
-        "docker is weird"
+        "obs studio 33",
+        "kimi k3.1 pro and k3.1 pro highspeed",
+        "physicists trap a single antimatter particle for a month",
+        "today, we hacked what we'd set out to hack: the iphone",
+        "i don't understand quantum physics"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам local wikipedia: wikipedia, but only for things a half hour , openssl 4.1.0, swedish government offices to ban chatgpt and claude. Авто-сгенерировано по трендам 2026-10-23. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам obs studio 33, kimi k3.1 pro and k3.1 pro highspeed, physicists trap a single antimatter particle for a month. Авто-сгенерировано по трендам 2026-10-24. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
