@@ -1,1 +1,1 @@
-VIDEO FAIL НДС убивает твой авто — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в контент которая стоит 59084₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
