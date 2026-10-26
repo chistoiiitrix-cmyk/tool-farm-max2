@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про удаление дублей в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в стройка которая стоит 55909₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

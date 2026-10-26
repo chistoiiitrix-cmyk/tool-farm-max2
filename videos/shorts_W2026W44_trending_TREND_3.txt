@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про счетчик слов в бьюти module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL хуки убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
