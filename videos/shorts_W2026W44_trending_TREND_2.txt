@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в стройка которая стоит 55909₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета стройка о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
