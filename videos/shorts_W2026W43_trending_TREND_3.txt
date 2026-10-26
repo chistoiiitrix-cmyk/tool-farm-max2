@@ -1,1 +1,0 @@
-VIDEO FAIL Никто не говорит про сторис в контент module 'PIL.Image' has no attribute 'ANTIALIAS'
