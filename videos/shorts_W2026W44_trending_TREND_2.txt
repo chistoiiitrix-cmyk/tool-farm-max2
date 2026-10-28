@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 59038₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в WB которая стоит 89753₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

@@ -1,1 +1,1 @@
-VIDEO FAIL удаление дублей убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в фитнес которая стоит 1257₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
