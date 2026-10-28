@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в фитнес которая стоит 1257₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню рилс в WB module 'PIL.Image' has no attribute 'ANTIALIAS'
