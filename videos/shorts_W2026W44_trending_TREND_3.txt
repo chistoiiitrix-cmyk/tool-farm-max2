@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 85268₽ чтобы узнать НДС module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в авто которая стоит 99508₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
