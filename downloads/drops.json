@@ -3,7 +3,7 @@
     "week_id": "W2026W44_fitness",
     "year": 2026,
     "week": 44,
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "niche": {
       "id": "fitness",
       "name": "Фитнес и спорт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W44_trending_TREND",
     "year": 2026,
     "week": 44,
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "ten days later, git on macos still trusts the compromised em",
-        "the agent sdk",
-        "cnc stone carving",
-        "start doing graph theory",
-        "ice is running one of the largest anti-left surveillance ops"
+        "qwenputer: a functioning, deterministic risc-v cpu inside qw",
+        "why is this fingerprinting script creating bioweapons?",
+        "getting debug access on a brother printer over telnet",
+        "the us added a record 20.2 gwh of battery storage in just 3 ",
+        "zero click, silent, remote android dos"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам ten days later, git on macos still trusts the compromised em, the agent sdk, cnc stone carving. Авто-сгенерировано по трендам 2026-10-28. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам qwenputer: a functioning, deterministic risc-v cpu inside qw, why is this fingerprinting script creating bioweapons?, getting debug access on a brother printer over telnet. Авто-сгенерировано по трендам 2026-10-29. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
