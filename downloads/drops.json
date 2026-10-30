@@ -3,7 +3,7 @@
     "week_id": "W2026W44_fitness",
     "year": 2026,
     "week": 44,
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "niche": {
       "id": "fitness",
       "name": "Фитнес и спорт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W44_trending_TREND",
     "year": 2026,
     "week": 44,
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "mistral large 4 (le chonk) is now open weight",
-        "gemini 4 carbon is the new #1 on the artificial analysis int",
-        "read the letter the fbi sent mlk to try to convince him to k",
-        "doordash is acquiring instacart for $17b",
-        "chained php2shell exploit roots 25 servers, including us gov"
+        "elect.horse",
+        "binance-hacker-1029 – $5.6b stolen from binance",
+        "backdoors in official claude code extensions",
+        "we're releasing the weights of mistral large 4",
+        "how do you take a picture of a black hole?"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам mistral large 4 (le chonk) is now open weight, gemini 4 carbon is the new #1 on the artificial analysis int, read the letter the fbi sent mlk to try to convince him to k. Авто-сгенерировано по трендам 2026-10-29. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам elect.horse, binance-hacker-1029 – $5.6b stolen from binance, backdoors in official claude code extensions. Авто-сгенерировано по трендам 2026-10-30. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
