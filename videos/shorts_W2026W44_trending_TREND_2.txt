@@ -1,1 +1,0 @@
-VIDEO FAIL Топ 5 инструментов для WB в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'

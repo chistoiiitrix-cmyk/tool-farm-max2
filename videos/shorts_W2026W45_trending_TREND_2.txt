@@ -1,0 +1,1 @@
+VIDEO FAIL Ошибка в кафе которая стоит 59767₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
