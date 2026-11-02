@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в барбер которая стоит 94859₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню удаление дублей в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'

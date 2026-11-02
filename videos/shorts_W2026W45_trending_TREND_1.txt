@@ -1,1 +1,1 @@
-VIDEO FAIL хуки убивает твой WB — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в бьюти которая стоит 66738₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
