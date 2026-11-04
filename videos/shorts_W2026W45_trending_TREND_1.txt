@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 17387₽ чтобы узнать удаление дублей module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про рилс в барбер module 'PIL.Image' has no attribute 'ANTIALIAS'
