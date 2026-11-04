@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для контент в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 17387₽ чтобы узнать удаление дублей module 'PIL.Image' has no attribute 'ANTIALIAS'
