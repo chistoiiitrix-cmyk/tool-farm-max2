@@ -33,11 +33,11 @@
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "person of interest",
-        "petered (what happens after the peter principle)",
-        "goodbye claude, hello pi",
-        "agent memory needs its opentelemetry moment",
-        "jit bitmap text rendering for microcontrollers"
+        "llama-modchip: 284b deepseek on 64gb ram, no gpu",
+        "quadrillion-parameter transformers and how to train them",
+        "porting android 16 to my blind mother's keypad phone",
+        "jit bitmap text rendering for microcontrollers",
+        "person of interest"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам person of interest, petered (what happens after the peter principle), goodbye claude, hello pi. Авто-сгенерировано по трендам 2026-11-08. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам llama-modchip: 284b deepseek on 64gb ram, no gpu, quadrillion-parameter transformers and how to train them, porting android 16 to my blind mother's keypad phone. Авто-сгенерировано по трендам 2026-11-08. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
