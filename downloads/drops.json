@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W45_auto",
+    "week_id": "W2026W46_law",
     "year": 2026,
-    "week": 45,
-    "date": "2026-11-08",
+    "week": 46,
+    "date": "2026-11-09",
     "niche": {
-      "id": "auto",
-      "name": "Автосервисы",
+      "id": "law",
+      "name": "Юристы",
       "keywords": [
-        "диагностика",
-        "ТО",
-        "запчасти"
+        "договор",
+        "иск",
+        "консультация"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W45_auto/logo-drop-50-auto.zip",
-      "prompts": "weekly/W2026W45_auto/prompts-drop-100-auto.zip",
-      "templates": "weekly/W2026W45_auto/templates-drop-20-auto.zip",
-      "bundle": "weekly/W2026W45_auto/BUNDLE-W2026W45_auto.zip"
+      "logos": "weekly/W2026W46_law/logo-drop-50-law.zip",
+      "prompts": "weekly/W2026W46_law/prompts-drop-100-law.zip",
+      "templates": "weekly/W2026W46_law/templates-drop-20-law.zip",
+      "bundle": "weekly/W2026W46_law/BUNDLE-W2026W46_law.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Автосервисы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Юристы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W45_trending_TREND",
+    "week_id": "W2026W46_trending_TREND",
     "year": 2026,
-    "week": 45,
-    "date": "2026-11-08",
+    "week": 46,
+    "date": "2026-11-09",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "llama-modchip: 284b deepseek on 64gb ram, no gpu",
-        "quadrillion-parameter transformers and how to train them",
-        "porting android 16 to my blind mother's keypad phone",
-        "jit bitmap text rendering for microcontrollers",
-        "person of interest"
+        "humans will never again create a project like wikipedia",
+        "fold epic paper airplanes",
+        "children of men: the future is a mirror for the present",
+        "what is malloc doing, anyway?",
+        "fun things to do with your vm/370 ce machine – fun with big "
       ]
     },
     "files": {
-      "logos": "weekly/W2026W45_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W45_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W45_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W45_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W45_trending_TREND/BUNDLE-W2026W45_trending_TREND.zip"
+      "logos": "weekly/W2026W46_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W46_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W46_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W46_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W46_trending_TREND/BUNDLE-W2026W46_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам llama-modchip: 284b deepseek on 64gb ram, no gpu, quadrillion-parameter transformers and how to train them, porting android 16 to my blind mother's keypad phone. Авто-сгенерировано по трендам 2026-11-08. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам humans will never again create a project like wikipedia, fold epic paper airplanes, children of men: the future is a mirror for the present. Авто-сгенерировано по трендам 2026-11-09. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
