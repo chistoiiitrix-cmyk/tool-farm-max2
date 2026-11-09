@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в крипто которая стоит 31815₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 59430₽ чтобы узнать хуки module 'PIL.Image' has no attribute 'ANTIALIAS'
