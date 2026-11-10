@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню генератор лого в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в репетитор которая стоит 91035₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
