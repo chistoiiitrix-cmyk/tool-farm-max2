@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в репетитор которая стоит 91035₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL 3 секрета WB о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'

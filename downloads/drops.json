@@ -3,7 +3,7 @@
     "week_id": "W2026W46_law",
     "year": 2026,
     "week": 46,
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "niche": {
       "id": "law",
       "name": "Юристы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W46_trending_TREND",
     "year": 2026,
     "week": 46,
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "alphaproof code",
-        "the hardest tarball?",
-        "amazon saves millions by replacing sonnet 4.6 with strands d",
-        "netbsd 11 desktop on a raspberry pi 4",
-        "gemini 4 carbon is now available"
+        "google swe points 48 ai agents at nasa lidar, finds unmapped",
+        "can a linear program do weight-space programming?",
+        "using voltage glitching to unleash the a100 in my mining car",
+        "protecting ssh keys with macos secure enclave",
+        "smart home devices should work without the internet"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам alphaproof code, the hardest tarball?, amazon saves millions by replacing sonnet 4.6 with strands d. Авто-сгенерировано по трендам 2026-11-10. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам google swe points 48 ai agents at nasa lidar, finds unmapped, can a linear program do weight-space programming?, using voltage glitching to unleash the a100 in my mining car. Авто-сгенерировано по трендам 2026-11-11. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
