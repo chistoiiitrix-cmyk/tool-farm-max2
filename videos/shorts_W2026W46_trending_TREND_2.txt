@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в WB которая стоит 27257₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL счетчик слов убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
