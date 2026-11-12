@@ -1,1 +1,1 @@
-VIDEO FAIL счетчик слов убивает твой кодинг — вот как фиксить module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL За 15 сек объясню удаление дублей в юрист module 'PIL.Image' has no attribute 'ANTIALIAS'
