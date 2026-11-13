@@ -1,1 +1,1 @@
-VIDEO FAIL 3 секрета WB о которых молчат module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 98084₽ чтобы узнать удаление дублей module 'PIL.Image' has no attribute 'ANTIALIAS'
