@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 85527₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Никто не говорит про транслит в барбер module 'PIL.Image' has no attribute 'ANTIALIAS'
