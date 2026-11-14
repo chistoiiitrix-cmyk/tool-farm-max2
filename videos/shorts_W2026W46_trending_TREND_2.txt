@@ -1,1 +1,1 @@
-VIDEO FAIL Топ 5 инструментов для бьюти в 2026 module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 85527₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'
