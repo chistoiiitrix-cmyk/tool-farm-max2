@@ -3,7 +3,7 @@
     "week_id": "W2026W46_law",
     "year": 2026,
     "week": 46,
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "niche": {
       "id": "law",
       "name": "Юристы",
@@ -28,16 +28,16 @@
     "week_id": "W2026W46_trending_TREND",
     "year": 2026,
     "week": 46,
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "why get an expensive pi when i have an old phone?",
-        "the claude delusion",
-        "generative ai uses more energy on non-english text",
-        "show hn: a terminal-native idle factory game, written in rus",
-        "advancing science and engineering with antigravity's /teamwo"
+        "spacex catches the starship to end flight 15",
+        "why did some apollo missions carry a grenade launcher?",
+        "lovable apps expose passport details and more than 200k priv",
+        "court denies motion to dismiss dram price fixing case",
+        "strictly monotonic timestamps and gapless sequences in rust"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам why get an expensive pi when i have an old phone?, the claude delusion, generative ai uses more energy on non-english text. Авто-сгенерировано по трендам 2026-11-14. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам spacex catches the starship to end flight 15, why did some apollo missions carry a grenade launcher?, lovable apps expose passport details and more than 200k priv. Авто-сгенерировано по трендам 2026-11-15. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
