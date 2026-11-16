@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W46_law",
+    "week_id": "W2026W47_build",
     "year": 2026,
-    "week": 46,
-    "date": "2026-11-15",
+    "week": 47,
+    "date": "2026-11-16",
     "niche": {
-      "id": "law",
-      "name": "Юристы",
+      "id": "build",
+      "name": "Стройка и ремонт",
       "keywords": [
-        "договор",
-        "иск",
-        "консультация"
+        "смета",
+        "отделка",
+        "объект"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W46_law/logo-drop-50-law.zip",
-      "prompts": "weekly/W2026W46_law/prompts-drop-100-law.zip",
-      "templates": "weekly/W2026W46_law/templates-drop-20-law.zip",
-      "bundle": "weekly/W2026W46_law/BUNDLE-W2026W46_law.zip"
+      "logos": "weekly/W2026W47_build/logo-drop-50-build.zip",
+      "prompts": "weekly/W2026W47_build/prompts-drop-100-build.zip",
+      "templates": "weekly/W2026W47_build/templates-drop-20-build.zip",
+      "bundle": "weekly/W2026W47_build/BUNDLE-W2026W47_build.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Юристы: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Стройка и ремонт: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W46_trending_TREND",
+    "week_id": "W2026W47_trending_TREND",
     "year": 2026,
-    "week": 46,
-    "date": "2026-11-15",
+    "week": 47,
+    "date": "2026-11-16",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "all ai-generated code should be open source",
-        "the macbook pro's oled pwm problem: when a 'better' display ",
-        "things that turbo pascal is smaller than (2011)",
-        "understanding positional embeddings in modern llms",
-        "the hypertext transfer protocol status code 483 (i'm not a f"
+        "the secret thinkpad powerbutton code to bring dead laptops b",
+        "how to make almost anything",
+        "universal xss in ublock origin from website-driven element p",
+        "coffeehouses and the rise of science [pdf]",
+        "researchers track whole body movement with just a smartwatch"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W46_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W46_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W46_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W46_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W46_trending_TREND/BUNDLE-W2026W46_trending_TREND.zip"
+      "logos": "weekly/W2026W47_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W47_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W47_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W47_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W47_trending_TREND/BUNDLE-W2026W47_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам all ai-generated code should be open source, the macbook pro's oled pwm problem: when a 'better' display , things that turbo pascal is smaller than (2011). Авто-сгенерировано по трендам 2026-11-15. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам the secret thinkpad powerbutton code to bring dead laptops b, how to make almost anything, universal xss in ublock origin from website-driven element p. Авто-сгенерировано по трендам 2026-11-16. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
