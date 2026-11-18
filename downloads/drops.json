@@ -3,7 +3,7 @@
     "week_id": "W2026W47_build",
     "year": 2026,
     "week": 47,
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "niche": {
       "id": "build",
       "name": "Стройка и ремонт",
@@ -28,16 +28,16 @@
     "week_id": "W2026W47_trending_TREND",
     "year": 2026,
     "week": 47,
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "what is the best harness for each model?",
-        "show hn: alloy css, dialogs, menus and tabs that work with j",
-        "new evidence shows school phone bans are gradually improving",
-        "carnegie mellon is putting computer science courses on youtu",
-        "first photos of the poles of a rod-shaped bacterium"
+        "quad9 is leaving france: why dns resolvers are the wrong pla",
+        "can peer review survive ai-generated text? [pdf]",
+        "energy-based reasoners: 385x more efficient inference",
+        "a perfect simcity",
+        "java4shell: rce in openjdk when processing base64"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам what is the best harness for each model?, show hn: alloy css, dialogs, menus and tabs that work with j, new evidence shows school phone bans are gradually improving. Авто-сгенерировано по трендам 2026-11-17. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам quad9 is leaving france: why dns resolvers are the wrong pla, can peer review survive ai-generated text? [pdf], energy-based reasoners: 385x more efficient inference. Авто-сгенерировано по трендам 2026-11-18. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
