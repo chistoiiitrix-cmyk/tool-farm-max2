@@ -33,11 +33,11 @@
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
+        "i'll never buy framework hardware again",
+        "anthropic employee claims general proof of the riemann hypot",
+        "language models can rewrite their own weights",
         "if you can't explain something in simple terms, you don't un",
-        "frostbite: a new cpu architecture discovered, designed and v",
-        "llms.txt and mcp didn't move the needle",
-        "show hn: i made an audio-to-midi model 60x more efficient",
-        "floppy3.5: a portable 3.5-inch floppy wifi nas"
+        "frostbite: a new cpu architecture discovered, designed and v"
       ]
     },
     "files": {
@@ -50,6 +50,6 @@
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам if you can't explain something in simple terms, you don't un, frostbite: a new cpu architecture discovered, designed and v, llms.txt and mcp didn't move the needle. Авто-сгенерировано по трендам 2026-11-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам i'll never buy framework hardware again, anthropic employee claims general proof of the riemann hypot, language models can rewrite their own weights. Авто-сгенерировано по трендам 2026-11-20. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
