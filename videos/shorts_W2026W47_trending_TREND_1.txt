@@ -1,1 +1,1 @@
-VIDEO FAIL Я потратил 81115₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в контент которая стоит 71618₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
