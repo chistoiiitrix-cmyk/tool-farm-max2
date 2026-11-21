@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню проверка ИНН в стройка module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в контент которая стоит 3710₽ module 'PIL.Image' has no attribute 'ANTIALIAS'

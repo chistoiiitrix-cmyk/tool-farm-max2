@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню транслит в барбер module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 81115₽ чтобы узнать рилс module 'PIL.Image' has no attribute 'ANTIALIAS'
