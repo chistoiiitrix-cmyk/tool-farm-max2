@@ -1,1 +1,1 @@
-VIDEO FAIL За 15 сек объясню удаление дублей в авто module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 11134₽ чтобы узнать проверка ИНН module 'PIL.Image' has no attribute 'ANTIALIAS'
