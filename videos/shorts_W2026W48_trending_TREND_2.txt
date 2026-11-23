@@ -1,1 +1,1 @@
-VIDEO FAIL Никто не говорит про хуки в кафе module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Ошибка в кодинг которая стоит 32597₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
