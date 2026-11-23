@@ -1,55 +1,55 @@
 [
   {
-    "week_id": "W2026W47_build",
+    "week_id": "W2026W48_beauty",
     "year": 2026,
-    "week": 47,
-    "date": "2026-11-22",
+    "week": 48,
+    "date": "2026-11-23",
     "niche": {
-      "id": "build",
-      "name": "Стройка и ремонт",
+      "id": "beauty",
+      "name": "Бьюти сфера",
       "keywords": [
-        "смета",
-        "отделка",
-        "объект"
+        "маникюр",
+        "ресницы",
+        "уход"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W47_build/logo-drop-50-build.zip",
-      "prompts": "weekly/W2026W47_build/prompts-drop-100-build.zip",
-      "templates": "weekly/W2026W47_build/templates-drop-20-build.zip",
-      "bundle": "weekly/W2026W47_build/BUNDLE-W2026W47_build.zip"
+      "logos": "weekly/W2026W48_beauty/logo-drop-50-beauty.zip",
+      "prompts": "weekly/W2026W48_beauty/prompts-drop-100-beauty.zip",
+      "templates": "weekly/W2026W48_beauty/templates-drop-20-beauty.zip",
+      "bundle": "weekly/W2026W48_beauty/BUNDLE-W2026W48_beauty.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Недельный дроп Стройка и ремонт: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
+    "description": "Недельный дроп Бьюти сфера: 50 лого, 100 промтов, 20 шаблонов. Свежая ниша недели."
   },
   {
-    "week_id": "W2026W47_trending_TREND",
+    "week_id": "W2026W48_trending_TREND",
     "year": 2026,
-    "week": 47,
-    "date": "2026-11-22",
+    "week": 48,
+    "date": "2026-11-23",
     "niche": {
       "id": "trending",
       "name": "TRENDING TREND",
       "keywords": [
-        "toyota, nissan, and honda to standardize parts to lower cost",
-        "show hn: i built a game where you are an llm's subagent",
-        "a better internet for everyone is possible. today",
-        "a real linux kernel, compiled to webassembly",
-        "pill to treat pancreatic cancer hailed as 'biggest breakthro"
+        "nvidia reinstates jensen huang as ceo",
+        "ladybird is now in alpha",
+        "glm-5.4: toward generalized coding with our first loop trans",
+        "win4wine – run windows shell as the linux desktop on wine",
+        "nospeaker ─ make your macbook's trackpad talk using its hapt"
       ]
     },
     "files": {
-      "logos": "weekly/W2026W47_trending_TREND/logo-drop-50-trending-trend.zip",
-      "prompts": "weekly/W2026W47_trending_TREND/prompts-drop-100-trending-trend.zip",
-      "templates": "weekly/W2026W47_trending_TREND/templates-drop-20-trending.zip",
-      "designs": "weekly/W2026W47_trending_TREND/designs-drop-30-trending.zip",
-      "bundle": "weekly/W2026W47_trending_TREND/BUNDLE-W2026W47_trending_TREND.zip"
+      "logos": "weekly/W2026W48_trending_TREND/logo-drop-50-trending-trend.zip",
+      "prompts": "weekly/W2026W48_trending_TREND/prompts-drop-100-trending-trend.zip",
+      "templates": "weekly/W2026W48_trending_TREND/templates-drop-20-trending.zip",
+      "designs": "weekly/W2026W48_trending_TREND/designs-drop-30-trending.zip",
+      "bundle": "weekly/W2026W48_trending_TREND/BUNDLE-W2026W48_trending_TREND.zip"
     },
     "price_stars": 79,
     "price_stars_bundle": 149,
     "free_for_subscribers": true,
-    "description": "Трендовый дроп trending: по запросам toyota, nissan, and honda to standardize parts to lower cost, show hn: i built a game where you are an llm's subagent, a better internet for everyone is possible. today. Авто-сгенерировано по трендам 2026-11-22. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
+    "description": "Трендовый дроп trending: по запросам nvidia reinstates jensen huang as ceo, ladybird is now in alpha, glm-5.4: toward generalized coding with our first loop trans. Авто-сгенерировано по трендам 2026-11-23. 50 лого + 100 промтов + 20 шаблонов + 30 дизайнов (сторис+посты)."
   }
 ]
