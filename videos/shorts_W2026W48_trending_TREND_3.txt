@@ -1,1 +1,1 @@
-VIDEO FAIL Ошибка в кафе которая стоит 62148₽ module 'PIL.Image' has no attribute 'ANTIALIAS'
+VIDEO FAIL Я потратил 28262₽ чтобы узнать генератор лого module 'PIL.Image' has no attribute 'ANTIALIAS'
